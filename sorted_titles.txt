@@ -1,0 +1,233 @@
+a circularized sodium-calcium exchanger exon 2 transcript ast
+a comprehensive overview and evaluation of circular rna detection tools
+a guide to naming eukaryotic circular rnas
+a map of human circular rnas in clinically relevant tissues
+a multi-split mapping algorithm for circular rna splicing trans-splicing and fusion detection
+a spliced intron accumulates as a lariat in the nucleus of t cells
+a unified mechanism for intron and exon definition and back-splicing
+a web server for identifying circrna-rbp variable-length binding sites based on stacked generalization ensemble deep learning network
+accentuating circrna-mirna-transcription factors axis a conundrum in cancer research
+accurate quantification of circular rnas identifies extensive circular isoform switching events
+accurate snp and mutation detection by targeted custom microarray-based genomic enrichment of short-fragment sequencing libraries
+acfs accurate circrna identification and quantification from rna-seq data
+acvalidator a novel assembly-based approach for in silico verification of circular rnas
+aligning sequence reads clone sequences and assembly contigs with bwa-mem
+an improved method for circular rna purification using rnase r that efficiently removes linear rnas containing g-quadruplexes or structured 3 ends
+analysis of intron sequences reveals hallmarks of circular rna biogenesis in animals
+annogesic a swiss army knife for the rna-seq based annotation of bacterialarchaeal genomes
+aod analysis of overdispersed data
+assessing long-distance rna sequence connectivity via rna-templated dnatextendashdna ligation
+assessing the cerna hypothesis with quantitative measurements of mirna and target abundance
+atcircdb a tissue-specific database for arabidopsis circular rnas
+autocatalytic cyclization of an excised intervening sequence rna is a cleavagetextendashligation reaction
+biq a method for searching circular rnas in transcriptome databases by indexing backsplice junctions
+cell-type specific features of circular rna expression
+characterization of rnase r-digested cellular rna source that consists of lariat and circular rnas from pre-mrna splicing
+circ-znf609 is a circular rna that can be translated and functions in myogenesis
+circ2disease a manually curated database of experimentally validated circrnas in human disease
+circ2traits a comprehensive database for circular rna potentially associated with disease and traits
+circast full-length assembly and quantification of alternatively spliced isoforms in circular rnas
+circatlas 30 a gateway to 3 million curated vertebrate circular rnas based on a standardized nomenclature scheme
+circatlas an integrated resource of one million highly accurate circular rnas from 1070 vertebrate transcriptomes
+circbank a comprehensive database for circrna with standard nomenclature
+circbase a database for circular rnas
+circcdyl acts as a tumor suppressor in triple negative breast cancer by sponging mir-190a-3p and upregulating tp53inp1
+circdeep deep learning approach for circular rna classification from other long non-coding rna
+circexplorer3 a clear pipeline for direct comparison of circular and linear rna expression
+circfl-seq reveals full-length circular rnas with rolling circular reverse transcription and nanopore sequencing
+circfunbase a database for functional circular rnas
+circinteractome a web tool for exploring circular rnas and their interacting proteins and micrornas
+circmarker a fast and accurate algorithm for circular rna detection
+circmeta a unified computational framework for genomic feature annotation and differential expression analysis of circular rnas
+circnet 20 an updated database for exploring circular rna regulatory networks in cancers
+circompara a multi-method comparative bioinformatics pipeline to detect and study circrnas from rna-seq data
+circpedia v2 an updated database for comprehensive circular rna annotation and expression comparison
+circpro an integrated tool for the identification of circrnas with protein-coding potential
+circr2disease v20 an updated web server for experimentally validated circrnatextendashdisease associations and its application
+circrna accumulation in the aging mouse brain
+circrna biogenesis competes with pre-mrna splicing
+circrna-binding proteins site prediction
+circrnadb a comprehensive database for human circular rnas with protein-coding annotations
+circrnadisease v20 an updated resource for high-quality experimentally supported circrna-disease associations
+circrnafisher a systematic computational approach for de novo circular rna identification
+circrnaprofiler an r-based computational framework for the downstream analysis of circular rnas
+circrnas and exosomes a mysterious frontier for human cancer
+circrnawrap textendash a flexible pipeline for circrna identification transcript prediction and abundance estimation
+circtools-a one-stop software solution for circular rna research
+circular dystrophin rnas consisting of exons that were skipped by alternative splicing
+circular intronic long noncoding rnas
+circular rna expression in exosomes derived from breast cancer cells and patients
+circular rna identification based on multiple seed matching
+circular rna is enriched and stable in exosomes a promising biomarker for cancer diagnosis
+circular rna profile in gliomas revealed by identification tool uroborus
+circular rna profiling provides insights into their subcellular distribution and molecular characteristics in hepg2 cells
+circular rna-itch suppresses lung cancer proliferation via inhibiting the wntbeta-catenin pathway
+circular rna-protein interactions functions mechanisms and identification
+circular rnas act as mirna sponges
+circular rnas are a large class of animal rnas with regulatory potency
+circular rnas are abundant conserved and associated with alu repeats
+circular rnas are depleted of polymorphisms at microrna binding sites
+circular rnas are long-lived and display only minimal early alterations in response to a growth factor
+circular rnas are the predominant transcript isoform from hundreds of human genes in diverse cell types
+circular rnas biogenesis function and role in human diseases
+circular rnas expression localization and therapeutic potentials
+circular rnas from transcripts of the rat cytochrome p450 2c24 gene correlation with exon skipping
+circular rnas in gastric cancer biomarkers for early diagnosis
+circular rnas in the mammalian brain are highly abundant conserved and dynamically expressed
+circular transcripts of the testis-determining gene sry in adult mouse testis
+ciri an efficient and unbiased algorithm for de novo circular rna identification
+ciri-deep enables single-cell and spatial transcriptomic analysis of circular rnas with deep learning
+cirrnapl a web server for the identification of circrna based on extreme learning machine
+comparative analysis of circular rna enrichment methods
+comparison of circular rna prediction tools
+complementary sequence-mediated exon circularization
+comprehensive analysis of circrna expression profiles in humans by raise
+comprehensive characterization of circular rnas in textasciitildehspace0167em1000 human cancer cell lines
+comprehensive identification of internal structure and alternative splicing events in circular rnas
+comprehensive molecular portraits of human breast tumours
+comprehensive profiling of circular rnas with nanopore sequencing and ciri-long
+computational identification of circular rnas based on conformational and thermodynamic properties in the flanking introns
+correlation of circular rna abundance with proliferation textendash exemplified with colorectal and ovarian cancer idiopathic lung fibrosis and normal human tissues - scientific reports
+cost-effective transcriptome-wide profiling of circular rnas by the improved-tdmda-ngs method
+crip predicting circrnatextendashrbp-binding sites using a codon-based encoding and hybrid deep neural networks
+cropcircdb a comprehensive circular rna resource for crops in response to abiotic stress
+cscd a database for cancer-specific circular rnas
+cscd2 an integrated interactional database of cancer-specific circular rnas
+cyclerifmmode---elsetextemdashfia novel tool for the full isoform assembly and quantification of circrnas
+cytoscape a software environment for integrated models of biomolecular interaction networks
+debks a tool to detect differentially expressed circular rna
+deep learning of the back-splicing code for circular rna formation
+deep-learning augmented rna-seq analysis of transcript splicing
+deepbase v20 identification expression evolution and function of small rnas lncrnas and circular rnas from deep-sequencing data
+detecting and characterizing circular rnas
+detecting circular rna from high-throughput sequence data with de bruijn graph
+detecting circular rnas bioinformatic and experimental challenges
+detecting differentially expressed circular rnas from multiple quantification methods using a generalized linear mixed model
+detection of nonneutral substitution rates on mammalian phylogenies
+dhx9 suppresses rna processing defects originating from the alu invasion of the human genome
+discriminating cirrnas from other lncrnas using a hierarchical extreme learning machine h-elm algorithm with feature selection
+diverse alternative back-splicing and alternative splicing landscape of circular rnas
+edger a bioconductor package for differential expression analysis of digital gene expression data
+electron microscopic evidence for the circular form of rna in the cytoplasm of eukaryotic cells
+endoribonucleolytic cleavage of m6a-containing rnas by rnase pmrp complex
+ensembl 2023
+evolutionarily conserved elements in vertebrate insect worm and yeast genomes
+evolutionary dynamics of circular rnas in primates
+excerpt a comprehensive analytic platform for extracellular rna profiling
+exon circularization requires canonical splice signals
+exon skipping and circular rna formation in transcripts of the human cytochrome p-450 2c18 gene in epidermis and of the rat androgen binding protein gene in testis
+exorbase 20 an atlas of mrna lncrna and circrna in extracellular vesicles from human biofluids
+exosomal circrnas as promising liquid biopsy biomarkers for glioma
+exosomal circrnas new players in the field of cholangiocarcinoma
+exosome circ_0044516 promotes prostate cancer cell proliferation and metastasis as a potential biomarker
+exosome-transmitted circular rna hsa_circ_0051443 suppresses hepatocellular carcinoma progression
+expanded expression landscape and prioritization of circular rnas in mammals
+expression of linear and novel circular forms of an ink4arf-associated non-coding rna correlates with atherosclerosis risk
+extensive translation of circular rnas driven by n6-methyladenosine
+fast mapping of short sequences with mismatches insertions and deletions using index structures
+fcircsec an r package for full length circrna sequence extraction and classification
+foxo3 circular rna retards cell cycle progression via forming ternary complexes with p21 and cdk2
+fuchsifmmode---elsetextemdashfitowards full circular rna characterization using rnaseq
+fus affects circular rna expression in murine embryonic stem cell-derived motor neurons
+genome-wide crispr screen identifies hnrnpl as a prostate cancer dependency regulating rna splicing
+genome-wide maps of m6a circrnas identify widespread and cell-type-specific methylation patterns that are distinct from mrnas
+genomewide analysis of drosophila circular rnas reveals their structural and sequence properties and age-dependent neural accumulation
+going circular history present and future of circrnas in cancer
+graphprot modeling binding preferences of rna-binding proteins
+high-purity circular rna isolation method rpad reveals vast collection of intronic circrnas
+hpprnaifmmode---elsetextemdashfia snakemake-based handy parameter-free pipeline for rna-seq analysis of numerous samples
+hsa_circ_0001275 is one of a number of circrnas dysregulated in enzalutamide resistant prostate cancer and confers enzalutamide resistance in vitro
+identification of hur target circular rnas uncovers suppression of pabpn1 translation by circpabpn1
+identification of serum exosomal hsa-circ-0004771 as a novel diagnostic biomarker of colorectal cancer
+identifying circular rna and predicting its regulatory interactions by machine learning
+improved circrna identification by combining prediction algorithms
+improved data analysis for the minion nanopore sequencer
+inverted repeats are necessary for circularization of the mouse testis sry transcript
+isocirc catalogs full-length circular rna isoforms in human transcriptomes
+isolation and characterization of sendai virus di-rnas
+jedi circular rna prediction based on junction encoders and deep interaction among splice sites
+large-scale benchmarking of circrna detection tools reveals large differences in sensitivity but not in precision
+large-scale profiling of rbp-circrna interactions from public clip-seq datasets
+lariat intronic rnas in the cytoplasm of xenopus tropicalis oocytes
+linking circular intronic rna degradation and function in transcription by rnase h1
+mapsplice accurate mapping of rna-seq reads for splice junction discovery
+mechanisms of circular rna degradation
+miarma-seq a comprehensive tool for mirna mrna and circrna analysis
+microrna targets in drosophila
+minimap2 pairwise alignment for nucleotide sequences
+mirbase from microrna sequences to function
+mirna-dependent gene silencing involving ago2-mediated cleavage of a circular antisense rna
+mirnet 20 network-based visual analytics for mirna functional analysis and systems biology
+mirtarbase a database curates experimentally validated microrna-target interactions
+mis-splicing yields circular rna molecules
+moderated estimation of fold change and dispersion for rna-seq data with deseq2
+nanopore long-read rnaseq reveals widespread transcriptional variation among the surface receptors of individual b cells
+nanopore long-read sequencing of circrnas
+natural rna circles function as efficient microrna sponges
+nclcomparator systematically post-screening non-co-linear transcripts circular trans-spliced or fusion rnas identified from various detectors
+nclscan accurate identification of non-co-linear transcripts fusion trans-splicing and circular rna with a good balance between sensitivity and precision
+near-optimal probabilistic rna-seq quantification
+neurocirc an integrative resource of circular rna expression in the human brain
+nf-corecircrna a portable workflow for the quantification mirna target prediction and differential expression analysis of circular rnas
+noncanonical rnas from transcripts of the drosophila muscleblind gene
+pacbio sequencing and its applications
+pacific biosciences sequencing technology for genotyping and variation discovery in human data
+pcirc random forest-based plant circrna identification software
+pcircrna_finder a software for circrna prediction in plants
+plantcircbase a database for plant circular rnas
+plantcircnet a database for plant circrnatextendashmirnatextendashmrna regulatory networks
+prapi post-transcriptional regulation analysis pipeline for iso-seq
+predcircrna computational classification of circular rna from other long non-coding rna using hybrid features
+predicting effective microrna target sites in mammalian mrnas
+ptesfinder a computational method to identify post-transcriptional exon shuffling ptes events
+quantifying circular rna expression from rna-seq data using model-based framework
+rateratiotest exact rate ratio test
+rbm20 regulates circular rna production from the titin gene
+reconstruction of full-length circular rnas enables isoform-level quantification
+reference sequence refseq database at ncbi current status taxonomic expansion and functional annotation
+regulation of circrna biogenesis
+repetitive elements regulate circular rna biogenesis
+reverse transcriptase template switching and false alternative transcripts
+rna isoform discovery through goodness of fit diagnostics
+rna splicing vert learn science at scitable
+rop dumpster diving in rna-sequencing to find the source of 1 trillion reads across diverse adult human tissues
+rpad rnase r treatment polyadenylation and polya rna depletion method to isolate highly pure circular rna
+sailfish enables alignment-free isoform quantification from rna-seq reads using lightweight algorithms
+salmon provides fast and bias-aware quantification of transcript expression
+scrambled exons
+self-splicing rna autoexcision and autocyclization of the ribosomal rna intervening sequence of tetrahymena
+sensitive reliable and robust circrna detection from rna-seq with circompara2
+short intronic repeat sequences facilitate circular rna production
+some yeast mitochondrial rnas are circular
+specific identification and quantification of circular rnas from sequencing data
+splicing with inverted order of exons occurs proximal to large introns
+stackcirrnapred computational classification of long circrna from other lncrna based on stacking strategy
+star chimeric post for rapid detection of circular rna and fusion transcripts
+star ultrafast universal rna-seq aligner
+starbase v20 decoding mirna-cerna mirna-ncrna and proteintextendashrna interaction networks from large-scale clip-seq data
+statistically based splicing detection reveals neural enrichment and tissue-specific induction of circular rna during human fetal development
+structure regulation and function of linear and circular long non-coding rnas
+synthetic mir-21 decoy circularized by trna splicing mechanism inhibited tumorigenesis in glioblastoma in vitro and in vivo models
+systematic evaluation of spliced alignment programs for rna-seq data
+tandem repeats finder a program to analyze dna sequences
+the biogenesis biology and characterization of circular rnas
+the biogenesis functions and challenges of circular rnas
+the genotype-tissue expression gtex project
+the hepatitis delta delta virus possesses a circular rna
+the interaction of circrnas and rna binding proteins an important part of circrna maintenance and function
+the intervening sequence of the ribosomal rna precursor is converted to a circular rna in isolated nuclei of tetrahymena
+the landscape of circular rna in cancer
+the oncogenic role of circpvt1 in head and neck squamous cell carcinoma is mediated through the mutant p53yaptead transcription-competent complex
+the rna binding protein quaking regulates formation of circrnas
+the third revolution in sequencing technology
+three decades of nanopore sequencing
+tophat discovering splice junctions with rna-seq
+tophat-fusion an algorithm for discovery of novel fusion transcripts
+transcriptome-wide discovery of circular rnas in archaea
+translation of circrnas
+trcirc a resource for transcriptional regulation information of circrnas
+ularcirc visualization and enhanced analysis of circular rnas via back and canonical forward splicing
+ultrafast and memory-efficient alignment of short dna sequences to the human genome
+using circular rna as a novel type of biomarker in the screening of gastric cancer
+viroids are single-stranded covalently closed circular rna molecules existing as highly base-paired rod-like structures
+voom precision weights unlock linear model analysis tools for rna-seq read counts

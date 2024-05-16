@@ -1,0 +1,4410 @@
+%% BioMed_Central_Bib_Style_v1.01
+
+\begin{thebibliography}{223}
+% BibTex style file: bmc-mathphys.bst (version 2.1), 2014-07-24
+\ifx \bisbn   \undefined \def \bisbn  #1{ISBN #1}\fi
+\ifx \binits  \undefined \def \binits#1{#1}\fi
+\ifx \bauthor  \undefined \def \bauthor#1{#1}\fi
+\ifx \batitle  \undefined \def \batitle#1{#1}\fi
+\ifx \bjtitle  \undefined \def \bjtitle#1{#1}\fi
+\ifx \bvolume  \undefined \def \bvolume#1{\textbf{#1}}\fi
+\ifx \byear  \undefined \def \byear#1{#1}\fi
+\ifx \bissue  \undefined \def \bissue#1{#1}\fi
+\ifx \bfpage  \undefined \def \bfpage#1{#1}\fi
+\ifx \blpage  \undefined \def \blpage #1{#1}\fi
+\ifx \burl  \undefined \def \burl#1{\textsf{#1}}\fi
+\ifx \doiurl  \undefined \def \doiurl#1{\url{https://doi.org/#1}}\fi
+\ifx \betal  \undefined \def \betal{\textit{et al.}}\fi
+\ifx \binstitute  \undefined \def \binstitute#1{#1}\fi
+\ifx \binstitutionaled  \undefined \def \binstitutionaled#1{#1}\fi
+\ifx \bctitle  \undefined \def \bctitle#1{#1}\fi
+\ifx \beditor  \undefined \def \beditor#1{#1}\fi
+\ifx \bpublisher  \undefined \def \bpublisher#1{#1}\fi
+\ifx \bbtitle  \undefined \def \bbtitle#1{#1}\fi
+\ifx \bedition  \undefined \def \bedition#1{#1}\fi
+\ifx \bseriesno  \undefined \def \bseriesno#1{#1}\fi
+\ifx \blocation  \undefined \def \blocation#1{#1}\fi
+\ifx \bsertitle  \undefined \def \bsertitle#1{#1}\fi
+\ifx \bsnm \undefined \def \bsnm#1{#1}\fi
+\ifx \bsuffix \undefined \def \bsuffix#1{#1}\fi
+\ifx \bparticle \undefined \def \bparticle#1{#1}\fi
+\ifx \barticle \undefined \def \barticle#1{#1}\fi
+\bibcommenthead
+\ifx \bconfdate \undefined \def \bconfdate #1{#1}\fi
+\ifx \botherref \undefined \def \botherref #1{#1}\fi
+\ifx \url \undefined \def \url#1{\textsf{#1}}\fi
+\ifx \bchapter \undefined \def \bchapter#1{#1}\fi
+\ifx \bbook \undefined \def \bbook#1{#1}\fi
+\ifx \bcomment \undefined \def \bcomment#1{#1}\fi
+\ifx \oauthor \undefined \def \oauthor#1{#1}\fi
+\ifx \citeauthoryear \undefined \def \citeauthoryear#1{#1}\fi
+\ifx \endbibitem  \undefined \def \endbibitem {}\fi
+\ifx \bconflocation  \undefined \def \bconflocation#1{#1}\fi
+\ifx \arxivurl  \undefined \def \arxivurl#1{\textsf{#1}}\fi
+\csname PreBibitemsHook\endcsname
+
+%%% 1
+\bibitem[\protect\citeauthoryear{Sanger et~al.}{1976}]{Sanger1976}
+\begin{barticle}
+\bauthor{\bsnm{Sanger}, \binits{H.L.}},
+\bauthor{\bsnm{Klotz}, \binits{G.}},
+\bauthor{\bsnm{Riesner}, \binits{D.}},
+\bauthor{\bsnm{Gross}, \binits{H.J.}},
+\bauthor{\bsnm{Kleinschmidt}, \binits{A.K.}}:
+\batitle{Viroids are single-stranded covalently closed circular rna molecules existing as highly base-paired rod-like structures}.
+\bjtitle{Proceedings of the National Academy of Sciences}
+\bvolume{73}(\bissue{11}),
+\bfpage{3852}--\blpage{3856}
+(\byear{1976})
+\doiurl{10.1073/pnas.73.11.3852}
+{\href{https://arxiv.org/abs/https://www.pnas.org/content/73/11/3852.full.pdf}{{https://www.pnas.org/content/73/11/3852.full.pdf}}}
+\end{barticle}
+\endbibitem
+
+%%% 2
+\bibitem[\protect\citeauthoryear{Kolakofsky}{1976}]{Kolakofsky1976Aug}
+\begin{barticle}
+\bauthor{\bsnm{Kolakofsky}, \binits{D.}}:
+\batitle{{Isolation and characterization of Sendai virus DI-RNAs}}.
+\bjtitle{Cell}
+\bvolume{8}(\bissue{4}),
+\bfpage{547}--\blpage{555}
+(\byear{1976})
+\doiurl{10.1016/0092-8674(76)90223-3}
+\end{barticle}
+\endbibitem
+
+%%% 3
+\bibitem[\protect\citeauthoryear{Kos et~al.}{1986}]{Kos1986Oct}
+\begin{barticle}
+\bauthor{\bsnm{Kos}, \binits{A.}},
+\bauthor{\bsnm{Dijkema}, \binits{R.}},
+\bauthor{\bsnm{Arnberg}, \binits{A.C.}},
+\bauthor{\bsnm{Meide}, \binits{P.H.}},
+\bauthor{\bsnm{Schellekens}, \binits{H.}}:
+\batitle{{The hepatitis delta ({$\delta$}) virus possesses a circular RNA}}.
+\bjtitle{Nature}
+\bvolume{323},
+\bfpage{558}--\blpage{560}
+(\byear{1986})
+\doiurl{10.1038/323558a0}
+\end{barticle}
+\endbibitem
+
+%%% 4
+\bibitem[\protect\citeauthoryear{Hsu and Coca-Prados}{1979}]{Hsu1979Jul}
+\begin{barticle}
+\bauthor{\bsnm{Hsu}, \binits{M.-T.}},
+\bauthor{\bsnm{Coca-Prados}, \binits{M.}}:
+\batitle{{Electron microscopic evidence for the circular form of RNA in the cytoplasm of eukaryotic cells}}.
+\bjtitle{Nature}
+\bvolume{280},
+\bfpage{339}--\blpage{340}
+(\byear{1979})
+\doiurl{10.1038/280339a0}
+\end{barticle}
+\endbibitem
+
+%%% 5
+\bibitem[\protect\citeauthoryear{Grabowski et~al.}{1981}]{Grabowski1981Feb}
+\begin{barticle}
+\bauthor{\bsnm{Grabowski}, \binits{P.J.}},
+\bauthor{\bsnm{Zaug}, \binits{A.J.}},
+\bauthor{\bsnm{Cech}, \binits{T.R.}}:
+\batitle{{The intervening sequence of the ribosomal RNA precursor is converted to a circular RNA in isolated nuclei of tetrahymena}}.
+\bjtitle{Cell}
+\bvolume{23}(\bissue{2}),
+\bfpage{467}--\blpage{476}
+(\byear{1981})
+\doiurl{10.1016/0092-8674(81)90142-2}
+\end{barticle}
+\endbibitem
+
+%%% 6
+\bibitem[\protect\citeauthoryear{Kruger et~al.}{1982}]{Kruger1982Nov}
+\begin{barticle}
+\bauthor{\bsnm{Kruger}, \binits{K.}},
+\bauthor{\bsnm{Grabowski}, \binits{P.J.}},
+\bauthor{\bsnm{Zaug}, \binits{A.J.}},
+\bauthor{\bsnm{Sands}, \binits{J.}},
+\bauthor{\bsnm{Gottschling}, \binits{D.E.}},
+\bauthor{\bsnm{Cech}, \binits{T.R.}}:
+\batitle{{Self-splicing RNA: Autoexcision and autocyclization of the ribosomal RNA intervening sequence of tetrahymena}}.
+\bjtitle{Cell}
+\bvolume{31}(\bissue{1}),
+\bfpage{147}--\blpage{157}
+(\byear{1982})
+\doiurl{10.1016/0092-8674(82)90414-7}
+\end{barticle}
+\endbibitem
+
+%%% 7
+\bibitem[\protect\citeauthoryear{Zaug et~al.}{1983}]{Zaug1983Feb}
+\begin{barticle}
+\bauthor{\bsnm{Zaug}, \binits{A.J.}},
+\bauthor{\bsnm{Grabowski}, \binits{P.J.}},
+\bauthor{\bsnm{Cech}, \binits{T.R.}}:
+\batitle{{Autocatalytic cyclization of an excised intervening sequence RNA is a cleavage{\textendash}ligation reaction}}.
+\bjtitle{Nature}
+\bvolume{301},
+\bfpage{578}--\blpage{583}
+(\byear{1983})
+\doiurl{10.1038/301578a0}
+\end{barticle}
+\endbibitem
+
+%%% 8
+\bibitem[\protect\citeauthoryear{Nigro et~al.}{1991}]{Nigro1991Feb}
+\begin{barticle}
+\bauthor{\bsnm{Nigro}, \binits{J.M.}},
+\bauthor{\bsnm{Cho}, \binits{K.R.}},
+\bauthor{\bsnm{Fearon}, \binits{E.R.}},
+\bauthor{\bsnm{Kern}, \binits{S.E.}},
+\bauthor{\bsnm{Ruppert}, \binits{J.M.}},
+\bauthor{\bsnm{Oliner}, \binits{J.D.}},
+\bauthor{\bsnm{Kinzler}, \binits{K.W.}},
+\bauthor{\bsnm{Vogelstein}, \binits{B.}}:
+\batitle{{Scrambled exons}}.
+\bjtitle{Cell}
+\bvolume{64}(\bissue{3}),
+\bfpage{607}--\blpage{613}
+(\byear{1991})
+\doiurl{10.1016/0092-8674(91)90244-s}
+{\href{https://arxiv.org/abs/1991322}{{1991322}}}
+\end{barticle}
+\endbibitem
+
+%%% 9
+\bibitem[\protect\citeauthoryear{Cocquerelle et~al.}{1992}]{Cocquerelle1992Mar}
+\begin{barticle}
+\bauthor{\bsnm{Cocquerelle}, \binits{C.}},
+\bauthor{\bsnm{Daubersies}, \binits{P.}},
+\bauthor{\bsnm{Maj{\ifmmode\acute{e}\else\'{e}\fi}rus}, \binits{M.A.}},
+\bauthor{\bsnm{Kerckaert}, \binits{J.P.}},
+\bauthor{\bsnm{Bailleul}, \binits{B.}}:
+\batitle{{Splicing with inverted order of exons occurs proximal to large introns.}}
+\bjtitle{EMBO J.}
+(\byear{1992})
+\doiurl{10.1002/j.1460-2075.1992.tb05148.x}
+\end{barticle}
+\endbibitem
+
+%%% 10
+\bibitem[\protect\citeauthoryear{Qian et~al.}{1992}]{Qian1992}
+\begin{barticle}
+\bauthor{\bsnm{Qian}, \binits{L.}},
+\bauthor{\bsnm{Vu}, \binits{M.N.}},
+\bauthor{\bsnm{Carter}, \binits{M.}},
+\bauthor{\bsnm{Wilkinson}, \binits{M.F.}}:
+\batitle{{A spliced intron accumulates as a lariat in the nucleus of T cells}}.
+\bjtitle{Nucleic Acids Research}
+\bvolume{20}(\bissue{20}),
+\bfpage{5345}--\blpage{5350}
+(\byear{1992})
+\doiurl{10.1093/nar/20.20.5345}
+{\href{https://arxiv.org/abs/https://academic.oup.com/nar/article-pdf/20/20/5345/7073334/20-20-5345.pdf}{{https://academic.oup.com/nar/article-pdf/20/20/5345/7073334/20-20-5345.pdf}}}
+\end{barticle}
+\endbibitem
+
+%%% 11
+\bibitem[\protect\citeauthoryear{Cocquerelle et~al.}{1993}]{Cocquerelle1993Jan}
+\begin{barticle}
+\bauthor{\bsnm{Cocquerelle}, \binits{C.}},
+\bauthor{\bsnm{Mascrez}, \binits{B.}},
+\bauthor{\bsnm{H{\ifmmode\acute{e}\else\'{e}\fi}tuin}, \binits{D.}},
+\bauthor{\bsnm{Bailleul}, \binits{B.}}:
+\batitle{{Mis-splicing yields circular RNA molecules}}.
+\bjtitle{FASEB J.}
+\bvolume{7}(\bissue{1}),
+\bfpage{155}--\blpage{160}
+(\byear{1993})
+\doiurl{10.1096/fasebj.7.1.7678559}
+\end{barticle}
+\endbibitem
+
+%%% 12
+\bibitem[\protect\citeauthoryear{Capel et~al.}{1993}]{Capel1993Jun}
+\begin{barticle}
+\bauthor{\bsnm{Capel}, \binits{B.}},
+\bauthor{\bsnm{Swain}, \binits{A.}},
+\bauthor{\bsnm{Nicolis}, \binits{S.}},
+\bauthor{\bsnm{Hacker}, \binits{A.}},
+\bauthor{\bsnm{Walter}, \binits{M.}},
+\bauthor{\bsnm{Koopman}, \binits{P.}},
+\bauthor{\bsnm{Goodfellow}, \binits{P.}},
+\bauthor{\bsnm{Lovell-Badge}, \binits{R.}}:
+\batitle{{Circular transcripts of the testis-determining gene Sry in adult mouse testis}}.
+\bjtitle{Cell}
+\bvolume{73}(\bissue{5}),
+\bfpage{1019}--\blpage{1030}
+(\byear{1993})
+\doiurl{10.1016/0092-8674(93)90279-y}
+{\href{https://arxiv.org/abs/7684656}{{7684656}}}
+\end{barticle}
+\endbibitem
+
+%%% 13
+\bibitem[\protect\citeauthoryear{Zaphiropoulos}{1996}]{Zaphiropoulos1996}
+\begin{barticle}
+\bauthor{\bsnm{Zaphiropoulos}, \binits{P.G.}}:
+\batitle{Circular rnas from transcripts of the rat cytochrome p450 2c24 gene: correlation with exon skipping}.
+\bjtitle{Proceedings of the National Academy of Sciences}
+\bvolume{93}(\bissue{13}),
+\bfpage{6536}--\blpage{6541}
+(\byear{1996})
+\doiurl{10.1073/pnas.93.13.6536}
+{\href{https://arxiv.org/abs/https://www.pnas.org/content/93/13/6536.full.pdf}{{https://www.pnas.org/content/93/13/6536.full.pdf}}}
+\end{barticle}
+\endbibitem
+
+%%% 14
+\bibitem[\protect\citeauthoryear{Zaphiropoulos}{1997}]{Zaphiropoulos1997Jun}
+\begin{barticle}
+\bauthor{\bsnm{Zaphiropoulos}, \binits{P.G.}}:
+\batitle{{Exon Skipping and Circular RNA Formation in Transcripts of the Human Cytochrome P-450 2C18 Gene in Epidermis and of the Rat Androgen Binding Protein Gene in Testis}}.
+\bjtitle{Mol. Cell. Biol.}
+(\byear{1997})
+\doiurl{10.1128/MCB.17.6.2985}
+\end{barticle}
+\endbibitem
+
+%%% 15
+\bibitem[\protect\citeauthoryear{Surono et~al.}{1999}]{Surono1999Mar}
+\begin{barticle}
+\bauthor{\bsnm{Surono}, \binits{A.}},
+\bauthor{\bsnm{Takeshima}, \binits{Y.}},
+\bauthor{\bsnm{Wibawa}, \binits{T.}},
+\bauthor{\bsnm{Ikezawa}, \binits{M.}},
+\bauthor{\bsnm{Nonaka}, \binits{I.}},
+\bauthor{\bsnm{Matsuo}, \binits{M.}}:
+\batitle{{Circular Dystrophin RNAs Consisting of Exons That Were Skipped by Alternative Splicing}}.
+\bjtitle{Hum. Mol. Genet.}
+\bvolume{8}(\bissue{3}),
+\bfpage{493}--\blpage{500}
+(\byear{1999})
+\doiurl{10.1093/hmg/8.3.493}
+\end{barticle}
+\endbibitem
+
+%%% 16
+\bibitem[\protect\citeauthoryear{Li and Lytton}{1999}]{Li1999Mar}
+\begin{barticle}
+\bauthor{\bsnm{Li}, \binits{X.-F.}},
+\bauthor{\bsnm{Lytton}, \binits{J.}}:
+\batitle{{A Circularized Sodium-Calcium Exchanger Exon 2 Transcript {$\ast$}}}.
+\bjtitle{J. Biol. Chem.}
+\bvolume{274}(\bissue{12}),
+\bfpage{8153}--\blpage{8160}
+(\byear{1999})
+\doiurl{10.1074/jbc.274.12.8153}
+\end{barticle}
+\endbibitem
+
+%%% 17
+\bibitem[\protect\citeauthoryear{Houseley et~al.}{2006}]{Houseley2006May}
+\begin{barticle}
+\bauthor{\bsnm{Houseley}, \binits{J.M.}},
+\bauthor{\bsnm{Garcia-Casado}, \binits{Z.}},
+\bauthor{\bsnm{Pascual}, \binits{M.}},
+\bauthor{\bsnm{Paricio}, \binits{N.}},
+\bauthor{\bsnm{O'Dell}, \binits{K.M.C.}},
+\bauthor{\bsnm{Monckton}, \binits{D.G.}},
+\bauthor{\bsnm{Artero}, \binits{R.D.}}:
+\batitle{{Noncanonical RNAs From Transcripts of the Drosophila muscleblind Gene}}.
+\bjtitle{J. Hered.}
+\bvolume{97}(\bissue{3}),
+\bfpage{253}--\blpage{260}
+(\byear{2006})
+\doiurl{10.1093/jhered/esj037}
+\end{barticle}
+\endbibitem
+
+%%% 18
+\bibitem[\protect\citeauthoryear{Burd et~al.}{2010}]{Burd2010Dec}
+\begin{barticle}
+\bauthor{\bsnm{Burd}, \binits{C.E.}},
+\bauthor{\bsnm{Jeck}, \binits{W.R.}},
+\bauthor{\bsnm{Liu}, \binits{Y.}},
+\bauthor{\bsnm{Sanoff}, \binits{H.K.}},
+\bauthor{\bsnm{Wang}, \binits{Z.}},
+\bauthor{\bsnm{Sharpless}, \binits{N.E.}}:
+\batitle{{Expression of Linear and Novel Circular Forms of an INK4/ARF-Associated Non-Coding RNA Correlates with Atherosclerosis Risk}}.
+\bjtitle{PLos Genet.}
+\bvolume{6}(\bissue{12}),
+\bfpage{1001233}
+(\byear{2010})
+\doiurl{10.1371/journal.pgen.1001233}
+\end{barticle}
+\endbibitem
+
+%%% 19
+\bibitem[\protect\citeauthoryear{Salzman et~al.}{2012}]{Salzman2012}
+\begin{barticle}
+\bauthor{\bsnm{Salzman}, \binits{J.}},
+\bauthor{\bsnm{Gawad}, \binits{C.}},
+\bauthor{\bsnm{Wang}, \binits{P.L.}},
+\bauthor{\bsnm{Lacayo}, \binits{N.}},
+\bauthor{\bsnm{Brown}, \binits{P.O.}}:
+\batitle{Circular rnas are the predominant transcript isoform from hundreds of human genes in diverse cell types}.
+\bjtitle{PLOS ONE}
+\bvolume{7}(\bissue{2}),
+\bfpage{1}--\blpage{12}
+(\byear{2012})
+\doiurl{10.1371/journal.pone.0030733}
+\end{barticle}
+\endbibitem
+
+%%% 20
+\bibitem[\protect\citeauthoryear{Jeck et~al.}{2012}]{Jeck2012Dec}
+\begin{barticle}
+\bauthor{\bsnm{Jeck}, \binits{W.R.}},
+\bauthor{\bsnm{Sorrentino}, \binits{J.A.}},
+\bauthor{\bsnm{Wang}, \binits{K.}},
+\bauthor{\bsnm{Slevin}, \binits{M.K.}},
+\bauthor{\bsnm{Burd}, \binits{C.E.}},
+\bauthor{\bsnm{Liu}, \binits{J.}},
+\bauthor{\bsnm{Marzluff}, \binits{W.F.}},
+\bauthor{\bsnm{Sharpless}, \binits{N.E.}}:
+\batitle{{Circular RNAs are abundant, conserved, and associated with ALU repeats}}.
+\bjtitle{RNA}
+\bvolume{19}(\bissue{2}),
+\bfpage{141}--\blpage{157}
+(\byear{2012})
+\doiurl{10.1261/rna.035667.112}
+\end{barticle}
+\endbibitem
+
+%%% 21
+\bibitem[\protect\citeauthoryear{Hansen et~al.}{2013}]{Hansen2013Mar}
+\begin{barticle}
+\bauthor{\bsnm{Hansen}, \binits{T.B.}},
+\bauthor{\bsnm{Jensen}, \binits{T.I.}},
+\bauthor{\bsnm{Clausen}, \binits{B.H.}},
+\bauthor{\bsnm{Bramsen}, \binits{J.B.}},
+\bauthor{\bsnm{Finsen}, \binits{B.}},
+\bauthor{\bsnm{Damgaard}, \binits{C.K.}},
+\bauthor{\bsnm{Kjems}, \binits{J.}}:
+\batitle{{Natural RNA circles function as efficient microRNA sponges}}.
+\bjtitle{Nature}
+\bvolume{495}(\bissue{7441}),
+\bfpage{384}--\blpage{388}
+(\byear{2013})
+\doiurl{10.1038/nature11993}
+{\href{https://arxiv.org/abs/23446346}{{23446346}}}
+\end{barticle}
+\endbibitem
+
+%%% 22
+\bibitem[\protect\citeauthoryear{Memczak et~al.}{2013}]{find_circ}
+\begin{barticle}
+\bauthor{\bsnm{Memczak}, \binits{S.}},
+\bauthor{\bsnm{Jens}, \binits{M.}},
+\bauthor{\bsnm{Elefsinioti}, \binits{A.}},
+\bauthor{\bsnm{Torti}, \binits{F.}},
+\bauthor{\bsnm{Krueger}, \binits{J.}},
+\bauthor{\bsnm{Rybak}, \binits{A.}},
+\bauthor{\bsnm{Maier}, \binits{L.}},
+\bauthor{\bsnm{Mackowiak}, \binits{S.D.}},
+\bauthor{\bsnm{Gregersen}, \binits{L.H.}},
+\bauthor{\bsnm{Munschauer}, \binits{M.}},
+\bauthor{\bsnm{Loewer}, \binits{A.}},
+\bauthor{\bsnm{Ziebold}, \binits{U.}},
+\bauthor{\bsnm{Landthaler}, \binits{M.}},
+\bauthor{\bsnm{Kocks}, \binits{C.}},
+\bauthor{\bsnm{Noble}, \binits{F.}},
+\bauthor{\bsnm{Rajewsky}, \binits{N.}}:
+\batitle{{Circular RNAs are a large class of animal RNAs with regulatory potency}}.
+\bjtitle{Nature}
+\bvolume{495}(\bissue{7441}),
+\bfpage{333}--\blpage{338}
+(\byear{2013})
+\doiurl{10.1038/nature11928}
+{\href{https://arxiv.org/abs/23446348}{{23446348}}}
+\end{barticle}
+\endbibitem
+
+%%% 23
+\bibitem[\protect\citeauthoryear{Danan et~al.}{2012}]{Danan2012Apr}
+\begin{barticle}
+\bauthor{\bsnm{Danan}, \binits{M.}},
+\bauthor{\bsnm{Schwartz}, \binits{S.}},
+\bauthor{\bsnm{Edelheit}, \binits{S.}},
+\bauthor{\bsnm{Sorek}, \binits{R.}}:
+\batitle{{Transcriptome-wide discovery of circular RNAs in Archaea}}.
+\bjtitle{Nucleic Acids Res.}
+\bvolume{40}(\bissue{7}),
+\bfpage{3131}--\blpage{3142}
+(\byear{2012})
+\doiurl{10.1093/nar/gkr1009}
+{\href{https://arxiv.org/abs/22140119}{{22140119}}}
+\end{barticle}
+\endbibitem
+
+%%% 24
+\bibitem[\protect\citeauthoryear{Jeck and Sharpless}{2014}]{Jeck2014May}
+\begin{barticle}
+\bauthor{\bsnm{Jeck}, \binits{W.R.}},
+\bauthor{\bsnm{Sharpless}, \binits{N.E.}}:
+\batitle{{Detecting and characterizing circular RNAs}}.
+\bjtitle{Nat. Biotechnol.}
+\bvolume{32},
+\bfpage{453}--\blpage{461}
+(\byear{2014})
+\doiurl{10.1038/nbt.2890}
+\end{barticle}
+\endbibitem
+
+%%% 25
+\bibitem[\protect\citeauthoryear{Ashwal-Fluss et~al.}{2014}]{Ashwal-Fluss2014Oct}
+\begin{barticle}
+\bauthor{\bsnm{Ashwal-Fluss}, \binits{R.}},
+\bauthor{\bsnm{Meyer}, \binits{M.}},
+\bauthor{\bsnm{Pamudurti}, \binits{N.R.}},
+\bauthor{\bsnm{Ivanov}, \binits{A.}},
+\bauthor{\bsnm{Bartok}, \binits{O.}},
+\bauthor{\bsnm{Hanan}, \binits{M.}},
+\bauthor{\bsnm{Evantal}, \binits{N.}},
+\bauthor{\bsnm{Memczak}, \binits{S.}},
+\bauthor{\bsnm{Rajewsky}, \binits{N.}},
+\bauthor{\bsnm{Kadener}, \binits{S.}}:
+\batitle{{circRNA biogenesis competes with pre-mRNA splicing}}.
+\bjtitle{Mol. Cell}
+\bvolume{56}(\bissue{1}),
+\bfpage{55}--\blpage{66}
+(\byear{2014})
+\doiurl{10.1016/j.molcel.2014.08.019}
+{\href{https://arxiv.org/abs/25242144}{{25242144}}}
+\end{barticle}
+\endbibitem
+
+%%% 26
+\bibitem[\protect\citeauthoryear{Chen and Yang}{2015}]{Chen2015Apr}
+\begin{barticle}
+\bauthor{\bsnm{Chen}, \binits{L.-L.}},
+\bauthor{\bsnm{Yang}, \binits{L.}}:
+\batitle{{Regulation of circRNA biogenesis}}.
+\bjtitle{RNA Biol.}
+\bvolume{12}(\bissue{4}),
+\bfpage{381}--\blpage{388}
+(\byear{2015})
+\doiurl{10.1080/15476286.2015.1020271}
+\end{barticle}
+\endbibitem
+
+%%% 27
+\bibitem[\protect\citeauthoryear{Westholm et~al.}{2014}]{circRNA_finder}
+\begin{barticle}
+\bauthor{\bsnm{Westholm}, \binits{J.O.}},
+\bauthor{\bsnm{Miura}, \binits{P.}},
+\bauthor{\bsnm{Olson}, \binits{S.}},
+\bauthor{\bsnm{Shenker}, \binits{S.}},
+\bauthor{\bsnm{Joseph}, \binits{B.}},
+\bauthor{\bsnm{Sanfilippo}, \binits{P.}},
+\bauthor{\bsnm{Celniker}, \binits{S.E.}},
+\bauthor{\bsnm{Graveley}, \binits{B.R.}},
+\bauthor{\bsnm{Lai}, \binits{E.C.}}:
+\batitle{{Genomewide analysis of Drosophila circular RNAs reveals their structural and sequence properties and age-dependent neural accumulation}}.
+\bjtitle{Cell Rep.}
+\bvolume{9}(\bissue{5}),
+\bfpage{1966}
+(\byear{2014})
+\doiurl{10.1016/j.celrep.2014.10.062}
+\end{barticle}
+\endbibitem
+
+%%% 28
+\bibitem[\protect\citeauthoryear{Gruner et~al.}{2016}]{Gruner2016}
+\begin{botherref}
+\oauthor{\bsnm{Gruner}, \binits{H.}},
+\oauthor{\bsnm{Cort{\ifmmode\acute{e}\else\'{e}\fi}s-L{\ifmmode\acute{o}\else\'{o}\fi}pez}, \binits{M.}},
+\oauthor{\bsnm{Cooper}, \binits{D.A.}},
+\oauthor{\bsnm{Bauer}, \binits{M.}},
+\oauthor{\bsnm{Miura}, \binits{P.}}:
+{CircRNA accumulation in the aging mouse brain}.
+Sci. Rep.
+\textbf{6}
+(2016)
+\doiurl{10.1038/srep38907}
+\end{botherref}
+\endbibitem
+
+%%% 29
+\bibitem[\protect\citeauthoryear{Rybak-Wolf et~al.}{2015}]{Rybak-Wolf2015Jun}
+\begin{barticle}
+\bauthor{\bsnm{Rybak-Wolf}, \binits{A.}},
+\bauthor{\bsnm{Stottmeister}, \binits{C.}},
+\bauthor{\bsnm{Gla{\ifmmode\check{z}\else\v{z}\fi}ar}, \binits{P.}},
+\bauthor{\bsnm{Jens}, \binits{M.}},
+\bauthor{\bsnm{Pino}, \binits{N.}},
+\bauthor{\bsnm{Giusti}, \binits{S.}},
+\bauthor{\bsnm{Hanan}, \binits{M.}},
+\bauthor{\bsnm{Behm}, \binits{M.}},
+\bauthor{\bsnm{Bartok}, \binits{O.}},
+\bauthor{\bsnm{Ashwal-Fluss}, \binits{R.}},
+\bauthor{\bsnm{Herzog}, \binits{M.}},
+\bauthor{\bsnm{Schreyer}, \binits{L.}},
+\bauthor{\bsnm{Papavasileiou}, \binits{P.}},
+\bauthor{\bsnm{Ivanov}, \binits{A.}},
+\bauthor{\bsnm{{\ifmmode\ddot{O}\else\"{O}\fi}hman}, \binits{M.}},
+\bauthor{\bsnm{Refojo}, \binits{D.}},
+\bauthor{\bsnm{Kadener}, \binits{S.}},
+\bauthor{\bsnm{Rajewsky}, \binits{N.}}:
+\batitle{{Circular RNAs in the Mammalian Brain Are Highly Abundant, Conserved, and Dynamically Expressed}}.
+\bjtitle{Mol. Cell}
+\bvolume{58}(\bissue{5}),
+\bfpage{870}--\blpage{885}
+(\byear{2015})
+\doiurl{10.1016/j.molcel.2015.03.027}
+{\href{https://arxiv.org/abs/25921068}{{25921068}}}
+\end{barticle}
+\endbibitem
+
+%%% 30
+\bibitem[\protect\citeauthoryear{Li et~al.}{2015}]{Li2015Aug}
+\begin{barticle}
+\bauthor{\bsnm{Li}, \binits{Y.}},
+\bauthor{\bsnm{Zheng}, \binits{Q.}},
+\bauthor{\bsnm{Bao}, \binits{C.}},
+\bauthor{\bsnm{Li}, \binits{S.}},
+\bauthor{\bsnm{Guo}, \binits{W.}},
+\bauthor{\bsnm{Zhao}, \binits{J.}},
+\bauthor{\bsnm{Chen}, \binits{D.}},
+\bauthor{\bsnm{Gu}, \binits{J.}},
+\bauthor{\bsnm{He}, \binits{X.}},
+\bauthor{\bsnm{Huang}, \binits{S.}}:
+\batitle{{Circular RNA is enriched and stable in exosomes: a promising biomarker for cancer diagnosis}}.
+\bjtitle{Cell Res.}
+\bvolume{25},
+\bfpage{981}--\blpage{984}
+(\byear{2015})
+\doiurl{10.1038/cr.2015.82}
+\end{barticle}
+\endbibitem
+
+%%% 31
+\bibitem[\protect\citeauthoryear{Wan et~al.}{2016}]{Wan2016}
+\begin{barticle}
+\bauthor{\bsnm{Wan}, \binits{L.}},
+\bauthor{\bsnm{Zhang}, \binits{L.}},
+\bauthor{\bsnm{Fan}, \binits{K.}},
+\bauthor{\bsnm{Cheng}, \binits{Z.-X.}},
+\bauthor{\bsnm{Sun}, \binits{Q.-C.}},
+\bauthor{\bsnm{Wang}, \binits{J.-J.}}:
+\batitle{{Circular RNA-ITCH Suppresses Lung Cancer Proliferation via Inhibiting the Wnt/{$\beta$}-Catenin Pathway}}.
+\bjtitle{Biomed Res. Int.}
+\bvolume{2016:1579490.}(\bissue{;}),
+(\byear{2016})
+\doiurl{10.1155/2016/1579490}
+{\href{https://arxiv.org/abs/27642589}{{27642589}}}
+\end{barticle}
+\endbibitem
+
+%%% 32
+\bibitem[\protect\citeauthoryear{Verduci et~al.}{2017}]{Verduci2017Dec}
+\begin{barticle}
+\bauthor{\bsnm{Verduci}, \binits{L.}},
+\bauthor{\bsnm{Ferraiuolo}, \binits{M.}},
+\bauthor{\bsnm{Sacconi}, \binits{A.}},
+\bauthor{\bsnm{Ganci}, \binits{F.}},
+\bauthor{\bsnm{Vitale}, \binits{J.}},
+\bauthor{\bsnm{Colombo}, \binits{T.}},
+\bauthor{\bsnm{Paci}, \binits{P.}},
+\bauthor{\bsnm{Strano}, \binits{S.}},
+\bauthor{\bsnm{Macino}, \binits{G.}},
+\bauthor{\bsnm{Rajewsky}, \binits{N.}},
+\bauthor{\bsnm{Blandino}, \binits{G.}}:
+\batitle{{The oncogenic role of circPVT1 in head and neck squamous cell carcinoma is mediated through the mutant p53/YAP/TEAD transcription-competent complex}}.
+\bjtitle{Genome Biol.}
+\bvolume{18}(\bissue{1}),
+\bfpage{1}--\blpage{24}
+(\byear{2017})
+\doiurl{10.1186/s13059-017-1368-y}
+\end{barticle}
+\endbibitem
+
+%%% 33
+\bibitem[\protect\citeauthoryear{Bayat et~al.}{2023}]{Bayat2023Jun}
+\begin{barticle}
+\bauthor{\bsnm{Bayat}, \binits{H.}},
+\bauthor{\bsnm{Pourgholami}, \binits{M.H.}},
+\bauthor{\bsnm{Rahmani}, \binits{S.}},
+\bauthor{\bsnm{Pournajaf}, \binits{S.}},
+\bauthor{\bsnm{Mowla}, \binits{S.J.}}:
+\batitle{{Synthetic miR-21 decoy circularized by tRNA splicing mechanism inhibited tumorigenesis in glioblastoma in vitro and in vivo models}}.
+\bjtitle{Mol. Ther. Nucleic Acids}
+\bvolume{32},
+\bfpage{432}--\blpage{444}
+(\byear{2023})
+\doiurl{10.1016/j.omtn.2023.04.001}
+\end{barticle}
+\endbibitem
+
+%%% 34
+\bibitem[\protect\citeauthoryear{Greene et~al.}{2017}]{Greene2017Jun}
+\begin{barticle}
+\bauthor{\bsnm{Greene}, \binits{J.}},
+\bauthor{\bsnm{Baird}, \binits{A.-M.}},
+\bauthor{\bsnm{Brady}, \binits{L.}},
+\bauthor{\bsnm{Lim}, \binits{M.}},
+\bauthor{\bsnm{Gray}, \binits{S.G.}},
+\bauthor{\bsnm{McDermott}, \binits{R.}},
+\bauthor{\bsnm{Finn}, \binits{S.P.}}:
+\batitle{{Circular RNAs: Biogenesis, Function and Role in Human Diseases}}.
+\bjtitle{Front. Mol. Biosci.}
+\bvolume{4},
+\bfpage{265463}
+(\byear{2017})
+\doiurl{10.3389/fmolb.2017.00038}
+\end{barticle}
+\endbibitem
+
+%%% 35
+\bibitem[\protect\citeauthoryear{Kristensen et~al.}{2019}]{Kristensen2019Nov}
+\begin{barticle}
+\bauthor{\bsnm{Kristensen}, \binits{L.S.}},
+\bauthor{\bsnm{Andersen}, \binits{M.S.}},
+\bauthor{\bsnm{Stagsted}, \binits{L.V.W.}},
+\bauthor{\bsnm{Ebbesen}, \binits{K.K.}},
+\bauthor{\bsnm{Hansen}, \binits{T.B.}},
+\bauthor{\bsnm{Kjems}, \binits{J.}}:
+\batitle{{The biogenesis, biology and characterization of circular RNAs}}.
+\bjtitle{Nat. Rev. Genet.}
+\bvolume{20},
+\bfpage{675}--\blpage{691}
+(\byear{2019})
+\doiurl{10.1038/s41576-019-0158-7}
+\end{barticle}
+\endbibitem
+
+%%% 36
+\bibitem[\protect\citeauthoryear{Li et~al.}{2018}]{Li2018Aug}
+\begin{barticle}
+\bauthor{\bsnm{Li}, \binits{X.}},
+\bauthor{\bsnm{Yang}, \binits{L.}},
+\bauthor{\bsnm{Chen}, \binits{L.-L.}}:
+\batitle{{The Biogenesis, Functions, and Challenges of Circular RNAs}}.
+\bjtitle{Mol. Cell}
+\bvolume{71}(\bissue{3}),
+\bfpage{428}--\blpage{442}
+(\byear{2018})
+\doiurl{10.1016/j.molcel.2018.06.034}
+{\href{https://arxiv.org/abs/30057200}{{30057200}}}
+\end{barticle}
+\endbibitem
+
+%%% 37
+\bibitem[\protect\citeauthoryear{Ren et~al.}{2022}]{Ren2022Dec}
+\begin{barticle}
+\bauthor{\bsnm{Ren}, \binits{L.}},
+\bauthor{\bsnm{Jiang}, \binits{Q.}},
+\bauthor{\bsnm{Mo}, \binits{L.}},
+\bauthor{\bsnm{Tan}, \binits{L.}},
+\bauthor{\bsnm{Dong}, \binits{Q.}},
+\bauthor{\bsnm{Meng}, \binits{L.}},
+\bauthor{\bsnm{Yang}, \binits{N.}},
+\bauthor{\bsnm{Li}, \binits{G.}}:
+\batitle{{Mechanisms of circular RNA degradation}}.
+\bjtitle{Commun. Biol.}
+\bvolume{5}(\bissue{1355}),
+\bfpage{1}--\blpage{6}
+(\byear{2022})
+\doiurl{10.1038/s42003-022-04262-3}
+\end{barticle}
+\endbibitem
+
+%%% 38
+\bibitem[\protect\citeauthoryear{Yang et~al.}{2021}]{Yang2021May}
+\begin{barticle}
+\bauthor{\bsnm{Yang}, \binits{Q.}},
+\bauthor{\bsnm{Li}, \binits{F.}},
+\bauthor{\bsnm{He}, \binits{A.T.}},
+\bauthor{\bsnm{Yang}, \binits{B.B.}}:
+\batitle{{Circular RNAs: Expression, localization, and therapeutic potentials}}.
+\bjtitle{Mol. Ther.}
+\bvolume{29}(\bissue{5}),
+\bfpage{1683}--\blpage{1702}
+(\byear{2021})
+\doiurl{10.1016/j.ymthe.2021.01.018}
+\end{barticle}
+\endbibitem
+
+%%% 39
+\bibitem[\protect\citeauthoryear{Huang et~al.}{2020}]{Huang2020}
+\begin{barticle}
+\bauthor{\bsnm{Huang}, \binits{A.}},
+\bauthor{\bsnm{Zheng}, \binits{H.}},
+\bauthor{\bsnm{Wu}, \binits{Z.}},
+\bauthor{\bsnm{Chen}, \binits{M.}},
+\bauthor{\bsnm{Huang}, \binits{Y.}}:
+\batitle{{Circular RNA-protein interactions: functions, mechanisms, and identification}}.
+\bjtitle{Theranostics}
+\bvolume{10}(\bissue{8}),
+\bfpage{3503}
+(\byear{2020})
+\doiurl{10.7150/thno.42174}
+\end{barticle}
+\endbibitem
+
+%%% 40
+\bibitem[\protect\citeauthoryear{Panda}{2018}]{Panda2018}
+\begin{barticle}
+\bauthor{\bsnm{Panda}, \binits{A.C.}}:
+\batitle{{Circular RNAs Act as miRNA Sponges}}.
+\bjtitle{Adv. Exp. Med. Biol.}
+\bvolume{1087:67-79.}(\bissue{;}),
+(\byear{2018})
+\doiurl{10.1007/978-981-13-1426-1_6}
+{\href{https://arxiv.org/abs/30259358}{{30259358}}}
+\end{barticle}
+\endbibitem
+
+%%% 41
+\bibitem[\protect\citeauthoryear{Santos-Rodriguez et~al.}{2021}]{Santos-Rodriguez2021Sep}
+\begin{barticle}
+\bauthor{\bsnm{Santos-Rodriguez}, \binits{G.}},
+\bauthor{\bsnm{Voineagu}, \binits{I.}},
+\bauthor{\bsnm{Weatheritt}, \binits{R.J.}}:
+\batitle{{Evolutionary dynamics of circular RNAs in primates}}.
+\bjtitle{eLife}
+(\byear{2021})
+\doiurl{10.7554/eLife.69148}
+\end{barticle}
+\endbibitem
+
+%%% 42
+\bibitem[\protect\citeauthoryear{}{2019}]{BibEntry2019Dec}
+\begin{botherref}
+{RNA Splicing {$\vert$} Learn Science at Scitable}.
+[Online; accessed 31. Aug. 2023]
+(2019).
+\url{https://www.nature.com/scitable/topicpage/rna-splicing-introns-exons-and-spliceosome-12375}
+\end{botherref}
+\endbibitem
+
+%%% 43
+\bibitem[\protect\citeauthoryear{Starke et~al.}{2015}]{Starke2015Jan}
+\begin{barticle}
+\bauthor{\bsnm{Starke}, \binits{S.}},
+\bauthor{\bsnm{Jost}, \binits{I.}},
+\bauthor{\bsnm{Rossbach}, \binits{O.}},
+\bauthor{\bsnm{Schneider}, \binits{T.}},
+\bauthor{\bsnm{Schreiner}, \binits{S.}},
+\bauthor{\bsnm{Hung}, \binits{L.-H.}},
+\bauthor{\bsnm{Bindereif}, \binits{A.}}:
+\batitle{{Exon Circularization Requires Canonical Splice Signals}}.
+\bjtitle{Cell Rep.}
+\bvolume{10}(\bissue{1}),
+\bfpage{103}--\blpage{111}
+(\byear{2015})
+\doiurl{10.1016/j.celrep.2014.12.002}
+\end{barticle}
+\endbibitem
+
+%%% 44
+\bibitem[\protect\citeauthoryear{Conn et~al.}{2015}]{Conn2015Mar}
+\begin{barticle}
+\bauthor{\bsnm{Conn}, \binits{S.J.}},
+\bauthor{\bsnm{Pillman}, \binits{K.A.}},
+\bauthor{\bsnm{Toubia}, \binits{J.}},
+\bauthor{\bsnm{Conn}, \binits{V.M.}},
+\bauthor{\bsnm{Salmanidis}, \binits{M.}},
+\bauthor{\bsnm{Phillips}, \binits{C.A.}},
+\bauthor{\bsnm{Roslan}, \binits{S.}},
+\bauthor{\bsnm{Schreiber}, \binits{A.W.}},
+\bauthor{\bsnm{Gregory}, \binits{P.A.}},
+\bauthor{\bsnm{Goodall}, \binits{G.J.}}:
+\batitle{{The RNA Binding Protein Quaking Regulates Formation of circRNAs}}.
+\bjtitle{Cell}
+\bvolume{160}(\bissue{6}),
+\bfpage{1125}--\blpage{1134}
+(\byear{2015})
+\doiurl{10.1016/j.cell.2015.02.014}
+\end{barticle}
+\endbibitem
+
+%%% 45
+\bibitem[\protect\citeauthoryear{Errichelli et~al.}{2017}]{Errichelli2017Mar}
+\begin{barticle}
+\bauthor{\bsnm{Errichelli}, \binits{L.}},
+\bauthor{\bsnm{Dini~Modigliani}, \binits{S.}},
+\bauthor{\bsnm{Laneve}, \binits{P.}},
+\bauthor{\bsnm{Colantoni}, \binits{A.}},
+\bauthor{\bsnm{Legnini}, \binits{I.}},
+\bauthor{\bsnm{Capauto}, \binits{D.}},
+\bauthor{\bsnm{Rosa}, \binits{A.}},
+\bauthor{\bsnm{De~Santis}, \binits{R.}},
+\bauthor{\bsnm{Scarf{\ifmmode\grave{o}\else\`{o}\fi}}, \binits{R.}},
+\bauthor{\bsnm{Peruzzi}, \binits{G.}},
+\bauthor{\bsnm{Lu}, \binits{L.}},
+\bauthor{\bsnm{Caffarelli}, \binits{E.}},
+\bauthor{\bsnm{Shneider}, \binits{N.A.}},
+\bauthor{\bsnm{Morlando}, \binits{M.}},
+\bauthor{\bsnm{Bozzoni}, \binits{I.}}:
+\batitle{{FUS affects circular RNA expression in murine embryonic stem cell-derived motor neurons}}.
+\bjtitle{Nat. Commun.}
+\bvolume{8}(\bissue{14741}),
+\bfpage{1}--\blpage{11}
+(\byear{2017})
+\doiurl{10.1038/ncomms14741}
+\end{barticle}
+\endbibitem
+
+%%% 46
+\bibitem[\protect\citeauthoryear{Wilusz}{2015}]{Wilusz2015May}
+\begin{barticle}
+\bauthor{\bsnm{Wilusz}, \binits{J.E.}}:
+\batitle{{Repetitive elements regulate circular RNA biogenesis}}.
+\bjtitle{Mobile Genetic Elements}
+\bvolume{5}(\bissue{3}),
+\bfpage{39}
+(\byear{2015})
+\doiurl{10.1080/2159256X.2015.1045682}
+\end{barticle}
+\endbibitem
+
+%%% 47
+\bibitem[\protect\citeauthoryear{Zhang et~al.}{2014}]{CIRCexplorer}
+\begin{barticle}
+\bauthor{\bsnm{Zhang}, \binits{X.-O.}},
+\bauthor{\bsnm{Wang}, \binits{H.-B.}},
+\bauthor{\bsnm{Zhang}, \binits{Y.}},
+\bauthor{\bsnm{Lu}, \binits{X.}},
+\bauthor{\bsnm{Chen}, \binits{L.-L.}},
+\bauthor{\bsnm{Yang}, \binits{L.}}:
+\batitle{{Complementary sequence-mediated exon circularization}}.
+\bjtitle{Cell}
+\bvolume{159}(\bissue{1}),
+\bfpage{134}--\blpage{147}
+(\byear{2014})
+\doiurl{10.1016/j.cell.2014.09.001}
+{\href{https://arxiv.org/abs/25242744}{{25242744}}}
+\end{barticle}
+\endbibitem
+
+%%% 48
+\bibitem[\protect\citeauthoryear{Liang and Wilusz}{2014}]{Liang2014Oct}
+\begin{barticle}
+\bauthor{\bsnm{Liang}, \binits{D.}},
+\bauthor{\bsnm{Wilusz}, \binits{J.E.}}:
+\batitle{{Short intronic repeat sequences facilitate circular RNA production}}.
+\bjtitle{Genes Dev.}
+\bvolume{28}(\bissue{20}),
+\bfpage{2233}--\blpage{2247}
+(\byear{2014})
+\doiurl{10.1101/gad.251926.114}
+\end{barticle}
+\endbibitem
+
+%%% 49
+\bibitem[\protect\citeauthoryear{Mokry et~al.}{2010}]{Mokry2010Jun}
+\begin{barticle}
+\bauthor{\bsnm{Mokry}, \binits{M.}},
+\bauthor{\bsnm{Feitsma}, \binits{H.}},
+\bauthor{\bsnm{Nijman}, \binits{I.J.}},
+\bauthor{\bsnm{Bruijn}, \binits{E.}},
+\bauthor{\bsnm{Zaag}, \binits{P.J.}},
+\bauthor{\bsnm{Guryev}, \binits{V.}},
+\bauthor{\bsnm{Cuppen}, \binits{E.}}:
+\batitle{{Accurate SNP and mutation detection by targeted custom microarray-based genomic enrichment of short-fragment sequencing libraries}}.
+\bjtitle{Nucleic Acids Res.}
+\bvolume{38}(\bissue{10}),
+\bfpage{116}
+(\byear{2010})
+\doiurl{10.1093/nar/gkq072}
+\end{barticle}
+\endbibitem
+
+%%% 50
+\bibitem[\protect\citeauthoryear{Li et~al.}{2019}]{Li2019Sep}
+\begin{barticle}
+\bauthor{\bsnm{Li}, \binits{X.}},
+\bauthor{\bsnm{Liu}, \binits{S.}},
+\bauthor{\bsnm{Zhang}, \binits{L.}},
+\bauthor{\bsnm{Issaian}, \binits{A.}},
+\bauthor{\bsnm{Hill}, \binits{R.C.}},
+\bauthor{\bsnm{Espinosa}, \binits{S.}},
+\bauthor{\bsnm{Shi}, \binits{S.}},
+\bauthor{\bsnm{Cui}, \binits{Y.}},
+\bauthor{\bsnm{Kappel}, \binits{K.}},
+\bauthor{\bsnm{Das}, \binits{R.}},
+\bauthor{\bsnm{Hansen}, \binits{K.C.}},
+\bauthor{\bsnm{Zhou}, \binits{Z.H.}},
+\bauthor{\bsnm{Zhao}, \binits{R.}}:
+\batitle{{A unified mechanism for intron and exon definition and back-splicing}}.
+\bjtitle{Nature}
+\bvolume{573},
+\bfpage{375}--\blpage{380}
+(\byear{2019})
+\doiurl{10.1038/s41586-019-1523-6}
+\end{barticle}
+\endbibitem
+
+%%% 51
+\bibitem[\protect\citeauthoryear{Pisignano et~al.}{2023}]{Pisignano2023Sep}
+\begin{barticle}
+\bauthor{\bsnm{Pisignano}, \binits{G.}},
+\bauthor{\bsnm{Michael}, \binits{D.C.}},
+\bauthor{\bsnm{Visal}, \binits{T.H.}},
+\bauthor{\bsnm{Pirlog}, \binits{R.}},
+\bauthor{\bsnm{Ladomery}, \binits{M.}},
+\bauthor{\bsnm{Calin}, \binits{G.A.}}:
+\batitle{{Going circular: history, present, and future of circRNAs in cancer}}.
+\bjtitle{Oncogene}
+\bvolume{42},
+\bfpage{2783}--\blpage{2800}
+(\byear{2023})
+\doiurl{10.1038/s41388-023-02780-w}
+\end{barticle}
+\endbibitem
+
+%%% 52
+\bibitem[\protect\citeauthoryear{Zhang et~al.}{2013}]{Zhang2013Sep}
+\begin{barticle}
+\bauthor{\bsnm{Zhang}, \binits{Y.}},
+\bauthor{\bsnm{Zhang}, \binits{X.-O.}},
+\bauthor{\bsnm{Chen}, \binits{T.}},
+\bauthor{\bsnm{Xiang}, \binits{J.-F.}},
+\bauthor{\bsnm{Yin}, \binits{Q.-F.}},
+\bauthor{\bsnm{Xing}, \binits{Y.-H.}},
+\bauthor{\bsnm{Zhu}, \binits{S.}},
+\bauthor{\bsnm{Yang}, \binits{L.}},
+\bauthor{\bsnm{Chen}, \binits{L.-L.}}:
+\batitle{{Circular Intronic Long Noncoding RNAs}}.
+\bjtitle{Mol. Cell}
+\bvolume{51}(\bissue{6}),
+\bfpage{792}--\blpage{806}
+(\byear{2013})
+\doiurl{10.1016/j.molcel.2013.08.017}
+\end{barticle}
+\endbibitem
+
+%%% 53
+\bibitem[\protect\citeauthoryear{Talhouarne and Gall}{2014}]{Talhouarne2014Jul}
+\begin{barticle}
+\bauthor{\bsnm{Talhouarne}, \binits{G.J.S.}},
+\bauthor{\bsnm{Gall}, \binits{J.G.}}:
+\batitle{{Lariat intronic RNAs in the cytoplasm of Xenopus tropicalis oocytes}}.
+\bjtitle{RNA}
+\bvolume{20}(\bissue{9}),
+\bfpage{1476}--\blpage{1487}
+(\byear{2014})
+\doiurl{10.1261/rna.045781.114}
+\end{barticle}
+\endbibitem
+
+%%% 54
+\bibitem[\protect\citeauthoryear{Suzuki et~al.}{2006}]{Suzuki2006May}
+\begin{barticle}
+\bauthor{\bsnm{Suzuki}, \binits{H.}},
+\bauthor{\bsnm{Zuo}, \binits{Y.}},
+\bauthor{\bsnm{Wang}, \binits{J.}},
+\bauthor{\bsnm{Zhang}, \binits{M.Q.}},
+\bauthor{\bsnm{Malhotra}, \binits{A.}},
+\bauthor{\bsnm{Mayeda}, \binits{A.}}:
+\batitle{{Characterization of RNase R-digested cellular RNA source that consists of lariat and circular RNAs from pre-mRNA splicing}}.
+\bjtitle{Nucleic Acids Res.}
+\bvolume{34}(\bissue{8}),
+\bfpage{63}
+(\byear{2006})
+\doiurl{10.1093/nar/gkl151}
+{\href{https://arxiv.org/abs/16682442}{{16682442}}}
+\end{barticle}
+\endbibitem
+
+%%% 55
+\bibitem[\protect\citeauthoryear{Enuka et~al.}{2016}]{Enuka2016Feb}
+\begin{barticle}
+\bauthor{\bsnm{Enuka}, \binits{Y.}},
+\bauthor{\bsnm{Lauriola}, \binits{M.}},
+\bauthor{\bsnm{Feldman}, \binits{M.E.}},
+\bauthor{\bsnm{Sas-Chen}, \binits{A.}},
+\bauthor{\bsnm{Ulitsky}, \binits{I.}},
+\bauthor{\bsnm{Yarden}, \binits{Y.}}:
+\batitle{{Circular RNAs are long-lived and display only minimal early alterations in response to a growth factor}}.
+\bjtitle{Nucleic Acids Res.}
+\bvolume{44}(\bissue{3}),
+\bfpage{1370}--\blpage{1383}
+(\byear{2016})
+\doiurl{10.1093/nar/gkv1367}
+{\href{https://arxiv.org/abs/26657629}{{26657629}}}
+\end{barticle}
+\endbibitem
+
+%%% 56
+\bibitem[\protect\citeauthoryear{Li et~al.}{2015}]{Li2015Apr}
+\begin{barticle}
+\bauthor{\bsnm{Li}, \binits{P.}},
+\bauthor{\bsnm{Chen}, \binits{S.}},
+\bauthor{\bsnm{Chen}, \binits{H.}},
+\bauthor{\bsnm{Mo}, \binits{X.}},
+\bauthor{\bsnm{Li}, \binits{T.}},
+\bauthor{\bsnm{Shao}, \binits{Y.}},
+\bauthor{\bsnm{Xiao}, \binits{B.}},
+\bauthor{\bsnm{Guo}, \binits{J.}}:
+\batitle{{Using circular RNA as a novel type of biomarker in the screening of gastric cancer}}.
+\bjtitle{Clin. Chim. Acta.}
+\bvolume{444},
+\bfpage{132}--\blpage{6}
+(\byear{2015})
+\doiurl{10.1016/j.cca.2015.02.018}
+{\href{https://arxiv.org/abs/25689795}{{25689795}}}
+\end{barticle}
+\endbibitem
+
+%%% 57
+\bibitem[\protect\citeauthoryear{Bachmayr-Heyda et~al.}{2015}]{Bachmayr-Heyda2015}
+\begin{barticle}
+\bauthor{\bsnm{Bachmayr-Heyda}, \binits{A.}},
+\bauthor{\bsnm{Reiner}, \binits{A.T.}},
+\bauthor{\bsnm{Auer}, \binits{K.}},
+\bauthor{\bsnm{Sukhbaatar}, \binits{N.}},
+\bauthor{\bsnm{Aust}, \binits{S.}},
+\bauthor{\bsnm{Bachleitner-Hofmann}, \binits{T.}},
+\bauthor{\bsnm{Mesteri}, \binits{I.}},
+\bauthor{\bsnm{Grunt}, \binits{T.W.}},
+\bauthor{\bsnm{Zeillinger}, \binits{R.}},
+\bauthor{\bsnm{Pils}, \binits{D.}}:
+\batitle{{Correlation of circular RNA abundance with proliferation {\textendash} exemplified with colorectal and ovarian cancer, idiopathic lung fibrosis and normal human tissues - Scientific Reports}}.
+\bjtitle{Sci. Rep.}
+\bvolume{5}(\bissue{8057}),
+\bfpage{1}--\blpage{10}
+(\byear{2015})
+\doiurl{10.1038/srep08057}
+\end{barticle}
+\endbibitem
+
+%%% 58
+\bibitem[\protect\citeauthoryear{Lim et~al.}{2021}]{Lim2021Dec}
+\begin{botherref}
+\oauthor{\bsnm{Lim}, \binits{M.C.J.}},
+\oauthor{\bsnm{Baird}, \binits{A.-M.}},
+\oauthor{\bsnm{Greene}, \binits{J.}},
+\oauthor{\bsnm{McNevin}, \binits{C.}},
+\oauthor{\bsnm{Ronan}, \binits{K.}},
+\oauthor{\bsnm{Podlesniy}, \binits{P.}},
+\oauthor{\bsnm{Sheils}, \binits{O.}},
+\oauthor{\bsnm{Gray}, \binits{S.G.}},
+\oauthor{\bsnm{McDermott}, \binits{R.S.}},
+\oauthor{\bsnm{Finn}, \binits{S.P.}}:
+{hsa{$\_$}circ{$\_$}0001275 Is One of a Number of circRNAs Dysregulated in Enzalutamide Resistant Prostate Cancer and Confers Enzalutamide Resistance In Vitro}.
+Cancers
+\textbf{13}(24)
+(2021)
+\doiurl{10.3390/cancers13246383}
+\end{botherref}
+\endbibitem
+
+%%% 59
+\bibitem[\protect\citeauthoryear{Shi et~al.}{2020}]{Shi2020Mar}
+\begin{botherref}
+\oauthor{\bsnm{Shi}, \binits{X.}},
+\oauthor{\bsnm{Wang}, \binits{B.}},
+\oauthor{\bsnm{Feng}, \binits{X.}},
+\oauthor{\bsnm{Xu}, \binits{Y.}},
+\oauthor{\bsnm{Lu}, \binits{K.}},
+\oauthor{\bsnm{Sun}, \binits{M.}}:
+{circRNAs and Exosomes: A Mysterious Frontier for Human Cancer}.
+Mol. Ther. Nucleic Acids
+\textbf{19:384-392.}
+(2020)
+\doiurl{10.1016/j.omtn.2019.11.023}
+{\href{https://arxiv.org/abs/31887549}{{31887549}}}
+\end{botherref}
+\endbibitem
+
+%%% 60
+\bibitem[\protect\citeauthoryear{Wang et~al.}{2019}]{Wang2019Feb}
+\begin{barticle}
+\bauthor{\bsnm{Wang}, \binits{J.}},
+\bauthor{\bsnm{Zhang}, \binits{Q.}},
+\bauthor{\bsnm{Zhou}, \binits{S.}},
+\bauthor{\bsnm{Xu}, \binits{H.}},
+\bauthor{\bsnm{Wang}, \binits{D.}},
+\bauthor{\bsnm{Feng}, \binits{J.}},
+\bauthor{\bsnm{Zhao}, \binits{J.}},
+\bauthor{\bsnm{Zhong}, \binits{S.}}:
+\batitle{{Circular RNA expression in exosomes derived from breast cancer cells and patients}}.
+\bjtitle{Epigenomics}
+(\byear{2019})
+\doiurl{10.2217/epi-2018-0111}
+\end{barticle}
+\endbibitem
+
+%%% 61
+\bibitem[\protect\citeauthoryear{Wu et~al.}{2023}]{Wu2023Apr}
+\begin{barticle}
+\bauthor{\bsnm{Wu}, \binits{X.}},
+\bauthor{\bsnm{Shi}, \binits{M.}},
+\bauthor{\bsnm{Lian}, \binits{Y.}},
+\bauthor{\bsnm{Zhang}, \binits{H.}}:
+\batitle{{Exosomal circRNAs as promising liquid biopsy biomarkers for glioma}}.
+\bjtitle{Front. Immunol.}
+\bvolume{14},
+\bfpage{1039084}
+(\byear{2023})
+\doiurl{10.3389/fimmu.2023.1039084}
+\end{barticle}
+\endbibitem
+
+%%% 62
+\bibitem[\protect\citeauthoryear{Pan et~al.}{2019}]{Pan2019Nov}
+\begin{barticle}
+\bauthor{\bsnm{Pan}, \binits{B.}},
+\bauthor{\bsnm{Qin}, \binits{J.}},
+\bauthor{\bsnm{Liu}, \binits{X.}},
+\bauthor{\bsnm{He}, \binits{B.}},
+\bauthor{\bsnm{Wang}, \binits{X.}},
+\bauthor{\bsnm{Pan}, \binits{Y.}},
+\bauthor{\bsnm{Sun}, \binits{H.}},
+\bauthor{\bsnm{Xu}, \binits{T.}},
+\bauthor{\bsnm{Xu}, \binits{M.}},
+\bauthor{\bsnm{Chen}, \binits{X.}},
+\bauthor{\bsnm{Xu}, \binits{X.}},
+\bauthor{\bsnm{Zeng}, \binits{K.}},
+\bauthor{\bsnm{Sun}, \binits{L.}},
+\bauthor{\bsnm{Wang}, \binits{S.}}:
+\batitle{{Identification of Serum Exosomal hsa-circ-0004771 as a Novel Diagnostic Biomarker of Colorectal Cancer}}.
+\bjtitle{Front. Genet.}
+\bvolume{10},
+\bfpage{486216}
+(\byear{2019})
+\doiurl{10.3389/fgene.2019.01096}
+\end{barticle}
+\endbibitem
+
+%%% 63
+\bibitem[\protect\citeauthoryear{Li et~al.}{2020}]{Li2020Mar}
+\begin{barticle}
+\bauthor{\bsnm{Li}, \binits{T.}},
+\bauthor{\bsnm{Sun}, \binits{X.}},
+\bauthor{\bsnm{Chen}, \binits{L.}}:
+\batitle{{Exosome circ{$\_$}0044516 promotes prostate cancer cell proliferation and metastasis as a potential biomarker}}.
+\bjtitle{J. Cell. Biochem.}
+\bvolume{121}(\bissue{3}),
+\bfpage{2118}--\blpage{2126}
+(\byear{2020})
+\doiurl{10.1002/jcb.28239}
+\end{barticle}
+\endbibitem
+
+%%% 64
+\bibitem[\protect\citeauthoryear{Chen et~al.}{2020}]{Chen2020Apr}
+\begin{barticle}
+\bauthor{\bsnm{Chen}, \binits{W.}},
+\bauthor{\bsnm{Quan}, \binits{Y.}},
+\bauthor{\bsnm{Fan}, \binits{S.}},
+\bauthor{\bsnm{Wang}, \binits{H.}},
+\bauthor{\bsnm{Liang}, \binits{J.}},
+\bauthor{\bsnm{Huang}, \binits{L.}},
+\bauthor{\bsnm{Chen}, \binits{L.}},
+\bauthor{\bsnm{Liu}, \binits{Q.}},
+\bauthor{\bsnm{He}, \binits{P.}},
+\bauthor{\bsnm{Ye}, \binits{Y.}}:
+\batitle{{Exosome-transmitted circular RNA hsa{$\_$}circ{$\_$}0051443 suppresses hepatocellular carcinoma progression}}.
+\bjtitle{Cancer Lett.}
+\bvolume{475},
+\bfpage{119}--\blpage{128}
+(\byear{2020})
+\doiurl{10.1016/j.canlet.2020.01.022}
+\end{barticle}
+\endbibitem
+
+%%% 65
+\bibitem[\protect\citeauthoryear{Louis et~al.}{2019}]{Louis2019Nov}
+\begin{barticle}
+\bauthor{\bsnm{Louis}, \binits{C.}},
+\bauthor{\bsnm{Desoteux}, \binits{M.}},
+\bauthor{\bsnm{Coulouarn}, \binits{C.}}:
+\batitle{{Exosomal circRNAs: new players in the field of cholangiocarcinoma}}.
+\bjtitle{Clin. Sci.}
+\bvolume{133}(\bissue{21}),
+\bfpage{2239}--\blpage{2244}
+(\byear{2019})
+\doiurl{10.1042/CS20190940}
+\end{barticle}
+\endbibitem
+
+%%% 66
+\bibitem[\protect\citeauthoryear{Hansen et~al.}{2011}]{Hansen2011Sep}
+\begin{barticle}
+\bauthor{\bsnm{Hansen}, \binits{T.B.}},
+\bauthor{\bsnm{Wiklund}, \binits{E.D.}},
+\bauthor{\bsnm{Bramsen}, \binits{J.B.}},
+\bauthor{\bsnm{Villadsen}, \binits{S.B.}},
+\bauthor{\bsnm{Statham}, \binits{A.L.}},
+\bauthor{\bsnm{Clark}, \binits{S.J.}},
+\bauthor{\bsnm{Kjems}, \binits{J.}}:
+\batitle{{miRNA-dependent gene silencing involving Ago2-mediated cleavage of a circular antisense RNA}}.
+\bjtitle{EMBO J.}
+\bvolume{30}(\bissue{21}),
+\bfpage{4414}--\blpage{4422}
+(\byear{2011})
+\doiurl{10.1038/emboj.2011.359}
+{\href{https://arxiv.org/abs/21964070}{{21964070}}}
+\end{barticle}
+\endbibitem
+
+%%% 67
+\bibitem[\protect\citeauthoryear{Li et~al.}{2021}]{Li2021Nov}
+\begin{barticle}
+\bauthor{\bsnm{Li}, \binits{X.}},
+\bauthor{\bsnm{Zhang}, \binits{J.-L.}},
+\bauthor{\bsnm{Lei}, \binits{Y.-N.}},
+\bauthor{\bsnm{Liu}, \binits{X.-Q.}},
+\bauthor{\bsnm{Xue}, \binits{W.}},
+\bauthor{\bsnm{Zhang}, \binits{Y.}},
+\bauthor{\bsnm{Nan}, \binits{F.}},
+\bauthor{\bsnm{Gao}, \binits{X.}},
+\bauthor{\bsnm{Zhang}, \binits{J.}},
+\bauthor{\bsnm{Wei}, \binits{J.}},
+\bauthor{\bsnm{Yang}, \binits{L.}},
+\bauthor{\bsnm{Chen}, \binits{L.-L.}}:
+\batitle{{Linking circular intronic RNA degradation and function in transcription by RNase H1}}.
+\bjtitle{Sci. China Life Sci.}
+\bvolume{64}(\bissue{11}),
+\bfpage{1795}--\blpage{1809}
+(\byear{2021})
+\doiurl{10.1007/s11427-021-1993-6}
+\end{barticle}
+\endbibitem
+
+%%% 68
+\bibitem[\protect\citeauthoryear{Park et~al.}{2019}]{Park2019May}
+\begin{barticle}
+\bauthor{\bsnm{Park}, \binits{O.H.}},
+\bauthor{\bsnm{Ha}, \binits{H.}},
+\bauthor{\bsnm{Lee}, \binits{Y.}},
+\bauthor{\bsnm{Boo}, \binits{S.H.}},
+\bauthor{\bsnm{Kwon}, \binits{D.H.}},
+\bauthor{\bsnm{Song}, \binits{H.K.}},
+\bauthor{\bsnm{Kim}, \binits{Y.K.}}:
+\batitle{{Endoribonucleolytic Cleavage of m6A-Containing RNAs by RNase P/MRP Complex}}.
+\bjtitle{Mol. Cell}
+\bvolume{74}(\bissue{3}),
+\bfpage{494}--\blpage{5078}
+(\byear{2019})
+\doiurl{10.1016/j.molcel.2019.02.034}
+{\href{https://arxiv.org/abs/30930054}{{30930054}}}
+\end{barticle}
+\endbibitem
+
+%%% 69
+\bibitem[\protect\citeauthoryear{Salzman et~al.}{2013}]{Salzman2013Sep}
+\begin{barticle}
+\bauthor{\bsnm{Salzman}, \binits{J.}},
+\bauthor{\bsnm{Chen}, \binits{R.E.}},
+\bauthor{\bsnm{Olsen}, \binits{M.N.}},
+\bauthor{\bsnm{Wang}, \binits{P.L.}},
+\bauthor{\bsnm{Brown}, \binits{P.O.}}:
+\batitle{{Cell-Type Specific Features of Circular RNA Expression}}.
+\bjtitle{PLos Genet.}
+\bvolume{9}(\bissue{9}),
+\bfpage{1003777}
+(\byear{2013})
+\doiurl{10.1371/journal.pgen.1003777}
+\end{barticle}
+\endbibitem
+
+%%% 70
+\bibitem[\protect\citeauthoryear{Shi et~al.}{2022}]{Shi2022Dec}
+\begin{barticle}
+\bauthor{\bsnm{Shi}, \binits{H.}},
+\bauthor{\bsnm{Zhou}, \binits{Y.}},
+\bauthor{\bsnm{Jia}, \binits{E.}},
+\bauthor{\bsnm{Liu}, \binits{Z.}},
+\bauthor{\bsnm{Pan}, \binits{M.}},
+\bauthor{\bsnm{Bai}, \binits{Y.}},
+\bauthor{\bsnm{Zhao}, \binits{X.}},
+\bauthor{\bsnm{Ge}, \binits{Q.}}:
+\batitle{{Comparative analysis of circular RNA enrichment methods}}.
+\bjtitle{RNA Biol.}
+\bvolume{19}(\bissue{1}),
+\bfpage{55}--\blpage{67}
+(\byear{2022})
+\doiurl{10.1080/15476286.2021.2012632}
+\end{barticle}
+\endbibitem
+
+%%% 71
+\bibitem[\protect\citeauthoryear{Panda et~al.}{2017}]{Panda2017Jul}
+\begin{barticle}
+\bauthor{\bsnm{Panda}, \binits{A.C.}},
+\bauthor{\bsnm{De}, \binits{S.}},
+\bauthor{\bsnm{Grammatikakis}, \binits{I.}},
+\bauthor{\bsnm{Munk}, \binits{R.}},
+\bauthor{\bsnm{Yang}, \binits{X.}},
+\bauthor{\bsnm{Piao}, \binits{Y.}},
+\bauthor{\bsnm{Dudekula}, \binits{D.B.}},
+\bauthor{\bsnm{Abdelmohsen}, \binits{K.}},
+\bauthor{\bsnm{Gorospe}, \binits{M.}}:
+\batitle{{High-purity circular RNA isolation method (RPAD) reveals vast collection of intronic circRNAs}}.
+\bjtitle{Nucleic Acids Res.}
+\bvolume{45}(\bissue{12}),
+\bfpage{116}
+(\byear{2017})
+\doiurl{10.1093/nar/gkx297}
+\end{barticle}
+\endbibitem
+
+%%% 72
+\bibitem[\protect\citeauthoryear{Pandey et~al.}{2019}]{Pandey2019Feb}
+\begin{barticle}
+\bauthor{\bsnm{Pandey}, \binits{P.R.}},
+\bauthor{\bsnm{Rout}, \binits{P.K.}},
+\bauthor{\bsnm{Das}, \binits{A.}},
+\bauthor{\bsnm{Gorospe}, \binits{M.}},
+\bauthor{\bsnm{Panda}, \binits{A.C.}}:
+\batitle{{RPAD (RNase R treatment, polyadenylation, and poly(A)+ RNA depletion) method to isolate highly pure circular RNA}}.
+\bjtitle{Methods}
+\bvolume{155},
+\bfpage{41}--\blpage{48}
+(\byear{2019})
+\doiurl{10.1016/j.ymeth.2018.10.022}
+{\href{https://arxiv.org/abs/30391514}{{30391514}}}
+\end{barticle}
+\endbibitem
+
+%%% 73
+\bibitem[\protect\citeauthoryear{Cheng et~al.}{2016}]{DCC}
+\begin{barticle}
+\bauthor{\bsnm{Cheng}, \binits{J.}},
+\bauthor{\bsnm{Metge}, \binits{F.}},
+\bauthor{\bsnm{Dieterich}, \binits{C.}}:
+\batitle{{Specific identification and quantification of circular RNAs from sequencing data}}.
+\bjtitle{Bioinformatics}
+\bvolume{32}(\bissue{7}),
+\bfpage{1094}--\blpage{1096}
+(\byear{2016})
+\doiurl{10.1093/bioinformatics/btv656}
+\end{barticle}
+\endbibitem
+
+%%% 74
+\bibitem[\protect\citeauthoryear{Cocquet et~al.}{2006}]{Cocquet2006Jul}
+\begin{barticle}
+\bauthor{\bsnm{Cocquet}, \binits{J.}},
+\bauthor{\bsnm{Chong}, \binits{A.}},
+\bauthor{\bsnm{Zhang}, \binits{G.}},
+\bauthor{\bsnm{Veitia}, \binits{R.A.}}:
+\batitle{{Reverse transcriptase template switching and false alternative transcripts}}.
+\bjtitle{Genomics}
+\bvolume{88}(\bissue{1}),
+\bfpage{127}--\blpage{131}
+(\byear{2006})
+\doiurl{10.1016/j.ygeno.2005.12.013}
+\end{barticle}
+\endbibitem
+
+%%% 75
+\bibitem[\protect\citeauthoryear{Roy et~al.}{2015}]{Roy2015}
+\begin{botherref}
+\oauthor{\bsnm{Roy}, \binits{C.K.}},
+\oauthor{\bsnm{Olson}, \binits{S.}},
+\oauthor{\bsnm{Graveley}, \binits{B.R.}},
+\oauthor{\bsnm{Zamore}, \binits{P.D.}},
+\oauthor{\bsnm{Moore}, \binits{M.J.}}:
+{Assessing long-distance RNA sequence connectivity via RNA-templated DNA{\textendash}DNA ligation}.
+eLife
+\textbf{4}
+(2015)
+\doiurl{10.7554/eLife.03700}
+\end{botherref}
+\endbibitem
+
+%%% 76
+\bibitem[\protect\citeauthoryear{Salzman}{2014}]{Salzman2014Jun}
+\begin{bchapter}
+\bauthor{\bsnm{Salzman}, \binits{J.}}:
+\bctitle{{RNA Isoform Discovery Through Goodness of Fit Diagnostics}}.
+In: \bbtitle{{Statistical Analysis of Next Generation Sequencing Data}},
+pp. \bfpage{261}--\blpage{276}.
+\bpublisher{Springer},
+\blocation{Cham, Switzerland}
+(\byear{2014}).
+\doiurl{10.1007/978-3-319-07212-8_13}
+\end{bchapter}
+\endbibitem
+
+%%% 77
+\bibitem[\protect\citeauthoryear{Langmead et~al.}{2009}]{Bowtie}
+\begin{barticle}
+\bauthor{\bsnm{Langmead}, \binits{B.}},
+\bauthor{\bsnm{Trapnell}, \binits{C.}},
+\bauthor{\bsnm{Pop}, \binits{M.}},
+\bauthor{\bsnm{Salzberg}, \binits{S.L.}}:
+\batitle{{Ultrafast and memory-efficient alignment of short DNA sequences to the human genome}}.
+\bjtitle{Genome Biol.}
+\bvolume{10}(\bissue{3}),
+\bfpage{1}--\blpage{10}
+(\byear{2009})
+\doiurl{10.1186/gb-2009-10-3-r25}
+\end{barticle}
+\endbibitem
+
+%%% 78
+\bibitem[\protect\citeauthoryear{Song et~al.}{2016}]{UROBORUS}
+\begin{barticle}
+\bauthor{\bsnm{Song}, \binits{X.}},
+\bauthor{\bsnm{Zhang}, \binits{N.}},
+\bauthor{\bsnm{Han}, \binits{P.}},
+\bauthor{\bsnm{Moon}, \binits{B.-S.}},
+\bauthor{\bsnm{Lai}, \binits{R.K.}},
+\bauthor{\bsnm{Wang}, \binits{K.}},
+\bauthor{\bsnm{Lu}, \binits{W.}}:
+\batitle{{Circular RNA profile in gliomas revealed by identification tool UROBORUS}}.
+\bjtitle{Nucleic Acids Res.}
+\bvolume{44}(\bissue{9}),
+\bfpage{87}
+(\byear{2016})
+\doiurl{10.1093/nar/gkw075}
+\end{barticle}
+\endbibitem
+
+%%% 79
+\bibitem[\protect\citeauthoryear{Izuogu et~al.}{2016}]{PTESfinder}
+\begin{barticle}
+\bauthor{\bsnm{Izuogu}, \binits{O.G.}},
+\bauthor{\bsnm{Alhasan}, \binits{A.A.}},
+\bauthor{\bsnm{Alafghani}, \binits{H.M.}},
+\bauthor{\bsnm{Santibanez-Koref}, \binits{M.}},
+\bauthor{\bsnm{Elliott}, \binits{D.J.}},
+\bauthor{\bsnm{Jackson}, \binits{M.S.}}:
+\batitle{{PTESFinder: a computational method to identify post-transcriptional exon shuffling (PTES) events}}.
+\bjtitle{BMC Bioinf.}
+\bvolume{17}(\bissue{1}),
+\bfpage{1}--\blpage{11}
+(\byear{2016})
+\doiurl{10.1186/s12859-016-0881-4}
+\end{barticle}
+\endbibitem
+
+%%% 80
+\bibitem[\protect\citeauthoryear{Szabo et~al.}{2015}]{KNIFE}
+\begin{barticle}
+\bauthor{\bsnm{Szabo}, \binits{L.}},
+\bauthor{\bsnm{Morey}, \binits{R.}},
+\bauthor{\bsnm{Palpant}, \binits{N.J.}},
+\bauthor{\bsnm{Wang}, \binits{P.L.}},
+\bauthor{\bsnm{Afari}, \binits{N.}},
+\bauthor{\bsnm{Jiang}, \binits{C.}},
+\bauthor{\bsnm{Parast}, \binits{M.M.}},
+\bauthor{\bsnm{Murry}, \binits{C.E.}},
+\bauthor{\bsnm{Laurent}, \binits{L.C.}},
+\bauthor{\bsnm{Salzman}, \binits{J.}}:
+\batitle{{Statistically based splicing detection reveals neural enrichment and tissue-specific induction of circular RNA during human fetal development}}.
+\bjtitle{Genome Biol.}
+\bvolume{16}(\bissue{1}),
+\bfpage{1}--\blpage{26}
+(\byear{2015})
+\doiurl{10.1186/s13059-015-0690-5}
+\end{barticle}
+\endbibitem
+
+%%% 81
+\bibitem[\protect\citeauthoryear{Gao et~al.}{2015}]{CIRI}
+\begin{barticle}
+\bauthor{\bsnm{Gao}, \binits{Y.}},
+\bauthor{\bsnm{Wang}, \binits{J.}},
+\bauthor{\bsnm{Zhao}, \binits{F.}}:
+\batitle{{CIRI: an efficient and unbiased algorithm for de novo circular RNA identification}}.
+\bjtitle{Genome Biol.}
+\bvolume{16}(\bissue{1}),
+\bfpage{1}--\blpage{16}
+(\byear{2015})
+\doiurl{10.1186/s13059-014-0571-3}
+\end{barticle}
+\endbibitem
+
+%%% 82
+\bibitem[\protect\citeauthoryear{Gao et~al.}{2018}]{CIRI2}
+\begin{barticle}
+\bauthor{\bsnm{Gao}, \binits{Y.}},
+\bauthor{\bsnm{Zhang}, \binits{J.}},
+\bauthor{\bsnm{Zhao}, \binits{F.}}:
+\batitle{{Circular RNA identification based on multiple seed matching}}.
+\bjtitle{Briefings Bioinf.}
+\bvolume{19}(\bissue{5}),
+\bfpage{803}--\blpage{810}
+(\byear{2018})
+\doiurl{10.1093/bib/bbx014}
+{\href{https://arxiv.org/abs/28334140}{{28334140}}}
+\end{barticle}
+\endbibitem
+
+%%% 83
+\bibitem[\protect\citeauthoryear{Zhang et~al.}{2020}]{CIRIquant}
+\begin{barticle}
+\bauthor{\bsnm{Zhang}, \binits{J.}},
+\bauthor{\bsnm{Chen}, \binits{S.}},
+\bauthor{\bsnm{Yang}, \binits{J.}},
+\bauthor{\bsnm{Zhao}, \binits{F.}}:
+\batitle{{Accurate quantification of circular RNAs identifies extensive circular isoform switching events}}.
+\bjtitle{Nat. Commun.}
+\bvolume{11}(\bissue{90}),
+\bfpage{1}--\blpage{14}
+(\byear{2020})
+\doiurl{10.1038/s41467-019-13840-9}
+\end{barticle}
+\endbibitem
+
+%%% 84
+\bibitem[\protect\citeauthoryear{Li et~al.}{2017}]{Sailfishcir}
+\begin{barticle}
+\bauthor{\bsnm{Li}, \binits{M.}},
+\bauthor{\bsnm{Xie}, \binits{X.}},
+\bauthor{\bsnm{Zhou}, \binits{J.}},
+\bauthor{\bsnm{Sheng}, \binits{M.}},
+\bauthor{\bsnm{Yin}, \binits{X.}},
+\bauthor{\bsnm{Ko}, \binits{E.-A.}},
+\bauthor{\bsnm{Zhou}, \binits{T.}},
+\bauthor{\bsnm{Gu}, \binits{W.}}:
+\batitle{{Quantifying circular RNA expression from RNA-seq data using model-based framework}}.
+\bjtitle{Bioinformatics}
+\bvolume{33}(\bissue{14}),
+\bfpage{2131}--\blpage{2139}
+(\byear{2017})
+\doiurl{10.1093/bioinformatics/btx129}
+\end{barticle}
+\endbibitem
+
+%%% 85
+\bibitem[\protect\citeauthoryear{Patro et~al.}{2014}]{Patro2014May}
+\begin{barticle}
+\bauthor{\bsnm{Patro}, \binits{R.}},
+\bauthor{\bsnm{Mount}, \binits{S.M.}},
+\bauthor{\bsnm{Kingsford}, \binits{C.}}:
+\batitle{{Sailfish enables alignment-free isoform quantification from RNA-seq reads using lightweight algorithms}}.
+\bjtitle{Nat. Biotechnol.}
+\bvolume{32},
+\bfpage{462}--\blpage{464}
+(\byear{2014})
+\doiurl{10.1038/nbt.2862}
+\end{barticle}
+\endbibitem
+
+%%% 86
+\bibitem[\protect\citeauthoryear{You and Conrad}{2016}]{ACFS}
+\begin{barticle}
+\bauthor{\bsnm{You}, \binits{X.}},
+\bauthor{\bsnm{Conrad}, \binits{T.O.F.}}:
+\batitle{{Acfs: accurate circRNA identification and quantification from RNA-Seq data}}.
+\bjtitle{Sci. Rep.}
+\bvolume{6}(\bissue{38820}),
+\bfpage{1}--\blpage{11}
+(\byear{2016})
+\doiurl{10.1038/srep38820}
+\end{barticle}
+\endbibitem
+
+%%% 87
+\bibitem[\protect\citeauthoryear{Zhang et~al.}{2016}]{CIRCexplorer2}
+\begin{barticle}
+\bauthor{\bsnm{Zhang}, \binits{X.-O.}},
+\bauthor{\bsnm{Dong}, \binits{R.}},
+\bauthor{\bsnm{Zhang}, \binits{Y.}},
+\bauthor{\bsnm{Zhang}, \binits{J.-L.}},
+\bauthor{\bsnm{Luo}, \binits{Z.}},
+\bauthor{\bsnm{Zhang}, \binits{J.}},
+\bauthor{\bsnm{Chen}, \binits{L.-L.}},
+\bauthor{\bsnm{Yang}, \binits{L.}}:
+\batitle{{Diverse alternative back-splicing and alternative splicing landscape of circular RNAs}}.
+\bjtitle{Genome Res.}
+\bvolume{26}(\bissue{9}),
+\bfpage{1277}--\blpage{1287}
+(\byear{2016})
+\doiurl{10.1101/gr.202895.115}
+\end{barticle}
+\endbibitem
+
+%%% 88
+\bibitem[\protect\citeauthoryear{Kim and Salzberg}{2011}]{TopHatFusion}
+\begin{barticle}
+\bauthor{\bsnm{Kim}, \binits{D.}},
+\bauthor{\bsnm{Salzberg}, \binits{S.L.}}:
+\batitle{{TopHat-Fusion: an algorithm for discovery of novel fusion transcripts}}.
+\bjtitle{Genome Biol.}
+\bvolume{12}(\bissue{8}),
+\bfpage{1}--\blpage{15}
+(\byear{2011})
+\doiurl{10.1186/gb-2011-12-8-r72}
+\end{barticle}
+\endbibitem
+
+%%% 89
+\bibitem[\protect\citeauthoryear{Li}{2013}]{BWA}
+\begin{barticle}
+\bauthor{\bsnm{Li}, \binits{H.}}:
+\batitle{{Aligning sequence reads, clone sequences and assembly contigs with BWA-MEM}}.
+\bjtitle{arXiv}
+(\byear{2013})
+\doiurl{10.48550/arXiv.1303.3997}
+{\href{https://arxiv.org/abs/1303.3997}{{1303.3997}}}
+\end{barticle}
+\endbibitem
+
+%%% 90
+\bibitem[\protect\citeauthoryear{Wang et~al.}{2010}]{MapSplice}
+\begin{barticle}
+\bauthor{\bsnm{Wang}, \binits{K.}},
+\bauthor{\bsnm{Singh}, \binits{D.}},
+\bauthor{\bsnm{Zeng}, \binits{Z.}},
+\bauthor{\bsnm{Coleman}, \binits{S.J.}},
+\bauthor{\bsnm{Huang}, \binits{Y.}},
+\bauthor{\bsnm{Savich}, \binits{G.L.}},
+\bauthor{\bsnm{He}, \binits{X.}},
+\bauthor{\bsnm{Mieczkowski}, \binits{P.}},
+\bauthor{\bsnm{Grimm}, \binits{S.A.}},
+\bauthor{\bsnm{Perou}, \binits{C.M.}},
+\bauthor{\bsnm{MacLeod}, \binits{J.N.}},
+\bauthor{\bsnm{Chiang}, \binits{D.Y.}},
+\bauthor{\bsnm{Prins}, \binits{J.F.}},
+\bauthor{\bsnm{Liu}, \binits{J.}}:
+\batitle{{MapSplice: Accurate mapping of RNA-seq reads for splice junction discovery}}.
+\bjtitle{Nucleic Acids Res.}
+\bvolume{38}(\bissue{18}),
+\bfpage{178}
+(\byear{2010})
+\doiurl{10.1093/nar/gkq622}
+\end{barticle}
+\endbibitem
+
+%%% 91
+\bibitem[\protect\citeauthoryear{Dobin et~al.}{2013}]{STAR}
+\begin{barticle}
+\bauthor{\bsnm{Dobin}, \binits{A.}},
+\bauthor{\bsnm{Davis}, \binits{C.A.}},
+\bauthor{\bsnm{Schlesinger}, \binits{F.}},
+\bauthor{\bsnm{Drenkow}, \binits{J.}},
+\bauthor{\bsnm{Zaleski}, \binits{C.}},
+\bauthor{\bsnm{Jha}, \binits{S.}},
+\bauthor{\bsnm{Batut}, \binits{P.}},
+\bauthor{\bsnm{Chaisson}, \binits{M.}},
+\bauthor{\bsnm{Gingeras}, \binits{T.R.}}:
+\batitle{{STAR: ultrafast universal RNA-seq aligner}}.
+\bjtitle{Bioinformatics}
+\bvolume{29}(\bissue{1}),
+\bfpage{15}--\blpage{21}
+(\byear{2013})
+\doiurl{10.1093/bioinformatics/bts635}
+{\href{https://arxiv.org/abs/23104886}{{23104886}}}
+\end{barticle}
+\endbibitem
+
+%%% 92
+\bibitem[\protect\citeauthoryear{Hoffmann et~al.}{2009}]{segemehl}
+\begin{barticle}
+\bauthor{\bsnm{Hoffmann}, \binits{S.}},
+\bauthor{\bsnm{Otto}, \binits{C.}},
+\bauthor{\bsnm{Kurtz}, \binits{S.}},
+\bauthor{\bsnm{Sharma}, \binits{C.M.}},
+\bauthor{\bsnm{Khaitovich}, \binits{P.}},
+\bauthor{\bsnm{Vogel}, \binits{J.}},
+\bauthor{\bsnm{Stadler}, \binits{P.F.}},
+\bauthor{\bsnm{Hackerm{\ifmmode\ddot{u}\else\"{u}\fi}ller}, \binits{J.}}:
+\batitle{{Fast mapping of short sequences with mismatches, insertions and deletions using index structures}}.
+\bjtitle{PLoS Comput. Biol.}
+\bvolume{5}(\bissue{9}),
+\bfpage{1000502}
+(\byear{2009})
+\doiurl{10.1371/journal.pcbi.1000502}
+{\href{https://arxiv.org/abs/19750212}{{19750212}}}
+\end{barticle}
+\endbibitem
+
+%%% 93
+\bibitem[\protect\citeauthoryear{Engstr{\ifmmode\ddot{o}\else\"{o}\fi}m et~al.}{2013}]{Engstrom2013Dec}
+\begin{barticle}
+\bauthor{\bsnm{Engstr{\ifmmode\ddot{o}\else\"{o}\fi}m}, \binits{P.G.}},
+\bauthor{\bsnm{Steijger}, \binits{T.}},
+\bauthor{\bsnm{Sipos}, \binits{B.}},
+\bauthor{\bsnm{Grant}, \binits{G.R.}},
+\bauthor{\bsnm{Kahles}, \binits{A.}},
+\bauthor{\bsnm{R{\ifmmode\ddot{a}\else\"{a}\fi}tsch}, \binits{G.}},
+\bauthor{\bsnm{Goldman}, \binits{N.}},
+\bauthor{\bsnm{Hubbard}, \binits{T.J.}},
+\bauthor{\bsnm{Harrow}, \binits{J.}},
+\bauthor{\bsnm{Guig{\ifmmode\acute{o}\else\'{o}\fi}}, \binits{R.}},
+\bauthor{\bsnm{Bertone}, \binits{P.}}:
+\batitle{{Systematic evaluation of spliced alignment programs for RNA-seq data}}.
+\bjtitle{Nat. Methods}
+\bvolume{10},
+\bfpage{1185}--\blpage{1191}
+(\byear{2013})
+\doiurl{10.1038/nmeth.2722}
+\end{barticle}
+\endbibitem
+
+%%% 94
+\bibitem[\protect\citeauthoryear{Chuang et~al.}{2016}]{NCLscan}
+\begin{barticle}
+\bauthor{\bsnm{Chuang}, \binits{T.-J.}},
+\bauthor{\bsnm{Wu}, \binits{C.-S.}},
+\bauthor{\bsnm{Chen}, \binits{C.-Y.}},
+\bauthor{\bsnm{Hung}, \binits{L.-Y.}},
+\bauthor{\bsnm{Chiang}, \binits{T.-W.}},
+\bauthor{\bsnm{Yang}, \binits{M.-Y.}}:
+\batitle{{NCLscan: accurate identification of non-co-linear transcripts (fusion, trans-splicing and circular RNA) with a good balance between sensitivity and precision}}.
+\bjtitle{Nucleic Acids Res.}
+\bvolume{44}(\bissue{3}),
+\bfpage{29}
+(\byear{2016})
+\doiurl{10.1093/nar/gkv1013}
+\end{barticle}
+\endbibitem
+
+%%% 95
+\bibitem[\protect\citeauthoryear{Hansen et~al.}{2016}]{Hansen2016Apr}
+\begin{barticle}
+\bauthor{\bsnm{Hansen}, \binits{T.B.}},
+\bauthor{\bsnm{Ven{\o}}, \binits{M.T.}},
+\bauthor{\bsnm{Damgaard}, \binits{C.K.}},
+\bauthor{\bsnm{Kjems}, \binits{J.}}:
+\batitle{{Comparison of circular RNA prediction tools}}.
+\bjtitle{Nucleic Acids Res.}
+\bvolume{44}(\bissue{6}),
+\bfpage{58}
+(\byear{2016})
+\doiurl{10.1093/nar/gkv1458}
+\end{barticle}
+\endbibitem
+
+%%% 96
+\bibitem[\protect\citeauthoryear{Hansen}{2018}]{Hansen2018}
+\begin{botherref}
+\oauthor{\bsnm{Hansen}, \binits{T.B.}}:
+{Improved circRNA Identification by Combining Prediction Algorithms}.
+Front. Cell Dev. Biol.
+\textbf{6}
+(2018)
+\doiurl{10.3389/fcell.2018.00020}
+\end{botherref}
+\endbibitem
+
+%%% 97
+\bibitem[\protect\citeauthoryear{Gaffo et~al.}{2017}]{CirComPara}
+\begin{botherref}
+\oauthor{\bsnm{Gaffo}, \binits{E.}},
+\oauthor{\bsnm{Bonizzato}, \binits{A.}},
+\oauthor{\bsnm{Te~Kronnie}, \binits{G.}},
+\oauthor{\bsnm{Bortoluzzi}, \binits{S.}}:
+{CirComPara: A Multi-Method Comparative Bioinformatics Pipeline to Detect and Study circRNAs from RNA-seq Data}.
+Non-Coding RNA
+\textbf{3}(1)
+(2017)
+\doiurl{10.3390/ncrna3010008}
+\end{botherref}
+\endbibitem
+
+%%% 98
+\bibitem[\protect\citeauthoryear{Gaffo et~al.}{2022}]{CirComPara2}
+\begin{botherref}
+\oauthor{\bsnm{Gaffo}, \binits{E.}},
+\oauthor{\bsnm{Buratin}, \binits{A.}},
+\oauthor{\bsnm{Dal~Molin}, \binits{A.}},
+\oauthor{\bsnm{Bortoluzzi}, \binits{S.}}:
+{Sensitive, reliable and robust circRNA detection from RNA-seq with CirComPara2}.
+Briefings Bioinf.
+\textbf{23}(1)
+(2022)
+\doiurl{10.1093/bib/bbab418}
+\end{botherref}
+\endbibitem
+
+%%% 99
+\bibitem[\protect\citeauthoryear{Li et~al.}{2019}]{circRNAwrap}
+\begin{barticle}
+\bauthor{\bsnm{Li}, \binits{L.}},
+\bauthor{\bsnm{Bu}, \binits{D.}},
+\bauthor{\bsnm{Zhao}, \binits{Y.}}:
+\batitle{{CircRNAwrap {\textendash} a flexible pipeline for circRNA identification, transcript prediction, and abundance estimation}}.
+\bjtitle{FEBS Lett.}
+\bvolume{593}(\bissue{11}),
+\bfpage{1179}--\blpage{1189}
+(\byear{2019})
+\doiurl{10.1002/1873-3468.13423}
+\end{barticle}
+\endbibitem
+
+%%% 100
+\bibitem[\protect\citeauthoryear{Liu et~al.}{2021}]{DEBKS}
+\begin{barticle}
+\bauthor{\bsnm{Liu}, \binits{Z.}},
+\bauthor{\bsnm{Ding}, \binits{H.}},
+\bauthor{\bsnm{She}, \binits{J.}},
+\bauthor{\bsnm{Chen}, \binits{C.}},
+\bauthor{\bsnm{Zhang}, \binits{W.}},
+\bauthor{\bsnm{Yang}, \binits{E.}}:
+\batitle{{DEBKS: A Tool to Detect Differentially Expressed Circular RNA}}.
+\bjtitle{Genomics Proteomics Bioinformatics}
+(\byear{2021})
+\doiurl{10.1016/j.gpb.2021.01.003}
+\end{barticle}
+\endbibitem
+
+%%% 101
+\bibitem[\protect\citeauthoryear{Chen et~al.}{2020}]{circmeta}
+\begin{barticle}
+\bauthor{\bsnm{Chen}, \binits{L.}},
+\bauthor{\bsnm{Wang}, \binits{F.}},
+\bauthor{\bsnm{Bruggeman}, \binits{E.C.}},
+\bauthor{\bsnm{Li}, \binits{C.}},
+\bauthor{\bsnm{Yao}, \binits{B.}}:
+\batitle{{circMeta: a unified computational framework for genomic feature annotation and differential expression analysis of circular RNAs}}.
+\bjtitle{Bioinformatics}
+\bvolume{36}(\bissue{2}),
+\bfpage{539}--\blpage{545}
+(\byear{2020})
+\doiurl{10.1093/bioinformatics/btz606}
+\end{barticle}
+\endbibitem
+
+%%% 102
+\bibitem[\protect\citeauthoryear{Aufiero et~al.}{2020}]{circRNAprofiler}
+\begin{barticle}
+\bauthor{\bsnm{Aufiero}, \binits{S.}},
+\bauthor{\bsnm{Reckman}, \binits{Y.J.}},
+\bauthor{\bsnm{Tijsen}, \binits{A.J.}},
+\bauthor{\bsnm{Pinto}, \binits{Y.M.}},
+\bauthor{\bsnm{Creemers}, \binits{E.E.}}:
+\batitle{{circRNAprofiler: an R-based computational framework for the downstream analysis of circular RNAs}}.
+\bjtitle{BMC Bioinf.}
+\bvolume{21}(\bissue{1}),
+\bfpage{1}--\blpage{9}
+(\byear{2020})
+\doiurl{10.1186/s12859-020-3500-3}
+\end{barticle}
+\endbibitem
+
+%%% 103
+\bibitem[\protect\citeauthoryear{Hossain et~al.}{2020}]{FcircSEC}
+\begin{barticle}
+\bauthor{\bsnm{Hossain}, \binits{{\relax Md}.T.}},
+\bauthor{\bsnm{Peng}, \binits{Y.}},
+\bauthor{\bsnm{Feng}, \binits{S.}},
+\bauthor{\bsnm{Wei}, \binits{Y.}}:
+\batitle{{FcircSEC: An R Package for Full Length circRNA Sequence Extraction and Classification}}.
+\bjtitle{Int. J. Genomics}
+\bvolume{2020},
+\bfpage{9084901}
+(\byear{2020})
+\doiurl{10.1155/2020/9084901}
+\end{barticle}
+\endbibitem
+
+%%% 104
+\bibitem[\protect\citeauthoryear{Digby et~al.}{2023}]{Digby2023Dec}
+\begin{barticle}
+\bauthor{\bsnm{Digby}, \binits{B.}},
+\bauthor{\bsnm{Finn}, \binits{S.P.}},
+\bauthor{\bsnm{Broin}, \binits{P.}}:
+\batitle{{nf-core/circrna: a portable workflow for the quantification, miRNA target prediction and differential expression analysis of circular RNAs}}.
+\bjtitle{BMC Bioinf.}
+\bvolume{24}(\bissue{1}),
+\bfpage{1}--\blpage{15}
+(\byear{2023})
+\doiurl{10.1186/s12859-022-05125-8}
+\end{barticle}
+\endbibitem
+
+%%% 105
+\bibitem[\protect\citeauthoryear{Gao et~al.}{2016}]{CIRI-AS}
+\begin{barticle}
+\bauthor{\bsnm{Gao}, \binits{Y.}},
+\bauthor{\bsnm{Wang}, \binits{J.}},
+\bauthor{\bsnm{Zheng}, \binits{Y.}},
+\bauthor{\bsnm{Zhang}, \binits{J.}},
+\bauthor{\bsnm{Chen}, \binits{S.}},
+\bauthor{\bsnm{Zhao}, \binits{F.}}:
+\batitle{{Comprehensive identification of internal structure and alternative splicing events in circular RNAs}}.
+\bjtitle{Nat. Commun.}
+\bvolume{7}(\bissue{12060}),
+\bfpage{1}--\blpage{13}
+(\byear{2016})
+\doiurl{10.1038/ncomms12060}
+\end{barticle}
+\endbibitem
+
+%%% 106
+\bibitem[\protect\citeauthoryear{Zheng et~al.}{2019}]{CIRI-full}
+\begin{barticle}
+\bauthor{\bsnm{Zheng}, \binits{Y.}},
+\bauthor{\bsnm{Ji}, \binits{P.}},
+\bauthor{\bsnm{Chen}, \binits{S.}},
+\bauthor{\bsnm{Hou}, \binits{L.}},
+\bauthor{\bsnm{Zhao}, \binits{F.}}:
+\batitle{{Reconstruction of full-length circular RNAs enables isoform-level quantification}}.
+\bjtitle{Genome Med.}
+\bvolume{11}(\bissue{1}),
+\bfpage{1}--\blpage{20}
+(\byear{2019})
+\doiurl{10.1186/s13073-019-0614-1}
+\end{barticle}
+\endbibitem
+
+%%% 107
+\bibitem[\protect\citeauthoryear{Metge et~al.}{2017}]{FUCHS}
+\begin{barticle}
+\bauthor{\bsnm{Metge}, \binits{F.}},
+\bauthor{\bsnm{Czaja-Hasse}, \binits{L.F.}},
+\bauthor{\bsnm{Reinhardt}, \binits{R.}},
+\bauthor{\bsnm{Dieterich}, \binits{C.}}:
+\batitle{{FUCHS{\ifmmode---\else\textemdash\fi}towards full circular RNA characterization using RNAseq}}.
+\bjtitle{PeerJ}
+\bvolume{5},
+\bfpage{2934}
+(\byear{2017})
+\doiurl{10.7717/peerj.2934}
+\end{barticle}
+\endbibitem
+
+%%% 108
+\bibitem[\protect\citeauthoryear{Rhoads and Au}{2015}]{Rhoads2015Oct}
+\begin{barticle}
+\bauthor{\bsnm{Rhoads}, \binits{A.}},
+\bauthor{\bsnm{Au}, \binits{K.F.}}:
+\batitle{{PacBio Sequencing and Its Applications}}.
+\bjtitle{Genomics Proteomics Bioinformatics}
+\bvolume{13}(\bissue{5}),
+\bfpage{278}--\blpage{289}
+(\byear{2015})
+\doiurl{10.1016/j.gpb.2015.08.002}
+\end{barticle}
+\endbibitem
+
+%%% 109
+\bibitem[\protect\citeauthoryear{Deamer et~al.}{2016}]{Deamer2016May}
+\begin{barticle}
+\bauthor{\bsnm{Deamer}, \binits{D.}},
+\bauthor{\bsnm{Akeson}, \binits{M.}},
+\bauthor{\bsnm{Branton}, \binits{D.}}:
+\batitle{{Three decades of nanopore sequencing}}.
+\bjtitle{Nat. Biotechnol.}
+\bvolume{34},
+\bfpage{518}--\blpage{524}
+(\byear{2016})
+\doiurl{10.1038/nbt.3423}
+\end{barticle}
+\endbibitem
+
+%%% 110
+\bibitem[\protect\citeauthoryear{Byrne et~al.}{2017}]{Byrne2017Jul}
+\begin{barticle}
+\bauthor{\bsnm{Byrne}, \binits{A.}},
+\bauthor{\bsnm{Beaudin}, \binits{A.E.}},
+\bauthor{\bsnm{Olsen}, \binits{H.E.}},
+\bauthor{\bsnm{Jain}, \binits{M.}},
+\bauthor{\bsnm{Cole}, \binits{C.}},
+\bauthor{\bsnm{Palmer}, \binits{T.}},
+\bauthor{\bsnm{DuBois}, \binits{R.M.}},
+\bauthor{\bsnm{Forsberg}, \binits{E.C.}},
+\bauthor{\bsnm{Akeson}, \binits{M.}},
+\bauthor{\bsnm{Vollmers}, \binits{C.}}:
+\batitle{{Nanopore long-read RNAseq reveals widespread transcriptional variation among the surface receptors of individual B cells}}.
+\bjtitle{Nat. Commun.}
+\bvolume{8}(\bissue{16027}),
+\bfpage{1}--\blpage{11}
+(\byear{2017})
+\doiurl{10.1038/ncomms16027}
+\end{barticle}
+\endbibitem
+
+%%% 111
+\bibitem[\protect\citeauthoryear{van Dijk et~al.}{2018}]{vanDijk2018Sep}
+\begin{barticle}
+\bauthor{\bsnm{Dijk}, \binits{E.L.}},
+\bauthor{\bsnm{Jaszczyszyn}, \binits{Y.}},
+\bauthor{\bsnm{Naquin}, \binits{D.}},
+\bauthor{\bsnm{Thermes}, \binits{C.}}:
+\batitle{{The Third Revolution in Sequencing Technology}}.
+\bjtitle{Trends Genet.}
+\bvolume{34}(\bissue{9}),
+\bfpage{666}--\blpage{681}
+(\byear{2018})
+\doiurl{10.1016/j.tig.2018.05.008}
+\end{barticle}
+\endbibitem
+
+%%% 112
+\bibitem[\protect\citeauthoryear{Xin et~al.}{2021}]{isoCirc}
+\begin{barticle}
+\bauthor{\bsnm{Xin}, \binits{R.}},
+\bauthor{\bsnm{Gao}, \binits{Y.}},
+\bauthor{\bsnm{Gao}, \binits{Y.}},
+\bauthor{\bsnm{Wang}, \binits{R.}},
+\bauthor{\bsnm{Kadash-Edmondson}, \binits{K.E.}},
+\bauthor{\bsnm{Liu}, \binits{B.}},
+\bauthor{\bsnm{Wang}, \binits{Y.}},
+\bauthor{\bsnm{Lin}, \binits{L.}},
+\bauthor{\bsnm{Xing}, \binits{Y.}}:
+\batitle{{isoCirc catalogs full-length circular RNA isoforms in human transcriptomes}}.
+\bjtitle{Nat. Commun.}
+\bvolume{12}(\bissue{266}),
+\bfpage{1}--\blpage{11}
+(\byear{2021})
+\doiurl{10.1038/s41467-020-20459-8}
+\end{barticle}
+\endbibitem
+
+%%% 113
+\bibitem[\protect\citeauthoryear{Jain et~al.}{2015}]{Jain2015Apr}
+\begin{barticle}
+\bauthor{\bsnm{Jain}, \binits{M.}},
+\bauthor{\bsnm{Fiddes}, \binits{I.T.}},
+\bauthor{\bsnm{Miga}, \binits{K.H.}},
+\bauthor{\bsnm{Olsen}, \binits{H.E.}},
+\bauthor{\bsnm{Paten}, \binits{B.}},
+\bauthor{\bsnm{Akeson}, \binits{M.}}:
+\batitle{{Improved data analysis for the MinION nanopore sequencer}}.
+\bjtitle{Nat. Methods}
+\bvolume{12},
+\bfpage{351}--\blpage{356}
+(\byear{2015})
+\doiurl{10.1038/nmeth.3290}
+\end{barticle}
+\endbibitem
+
+%%% 114
+\bibitem[\protect\citeauthoryear{Benson}{1999}]{Benson1999Jan}
+\begin{barticle}
+\bauthor{\bsnm{Benson}, \binits{G.}}:
+\batitle{{Tandem repeats finder: a program to analyze DNA sequences}}.
+\bjtitle{Nucleic Acids Res.}
+\bvolume{27}(\bissue{2}),
+\bfpage{573}--\blpage{580}
+(\byear{1999})
+\doiurl{10.1093/nar/27.2.573}
+\end{barticle}
+\endbibitem
+
+%%% 115
+\bibitem[\protect\citeauthoryear{Li}{2018}]{Li2018Sep}
+\begin{barticle}
+\bauthor{\bsnm{Li}, \binits{H.}}:
+\batitle{{Minimap2: pairwise alignment for nucleotide sequences}}.
+\bjtitle{Bioinformatics}
+\bvolume{34}(\bissue{18}),
+\bfpage{3094}--\blpage{3100}
+(\byear{2018})
+\doiurl{10.1093/bioinformatics/bty191}
+\end{barticle}
+\endbibitem
+
+%%% 116
+\bibitem[\protect\citeauthoryear{Zhang et~al.}{2021}]{CIRIlong}
+\begin{barticle}
+\bauthor{\bsnm{Zhang}, \binits{J.}},
+\bauthor{\bsnm{Hou}, \binits{L.}},
+\bauthor{\bsnm{Zuo}, \binits{Z.}},
+\bauthor{\bsnm{Ji}, \binits{P.}},
+\bauthor{\bsnm{Zhang}, \binits{X.}},
+\bauthor{\bsnm{Xue}, \binits{Y.}},
+\bauthor{\bsnm{Zhao}, \binits{F.}}:
+\batitle{{Comprehensive profiling of circular RNAs with nanopore sequencing and CIRI-long}}.
+\bjtitle{Nat. Biotechnol.}
+\bvolume{39},
+\bfpage{836}--\blpage{845}
+(\byear{2021})
+\doiurl{10.1038/s41587-021-00842-6}
+\end{barticle}
+\endbibitem
+
+%%% 117
+\bibitem[\protect\citeauthoryear{Xiao and Wilusz}{2019}]{Xiao2019Sep}
+\begin{barticle}
+\bauthor{\bsnm{Xiao}, \binits{M.-S.}},
+\bauthor{\bsnm{Wilusz}, \binits{J.E.}}:
+\batitle{{An improved method for circular RNA purification using RNase R that efficiently removes linear RNAs containing G-quadruplexes or structured 3' ends}}.
+\bjtitle{Nucleic Acids Res.}
+\bvolume{47}(\bissue{16}),
+\bfpage{8755}--\blpage{8769}
+(\byear{2019})
+\doiurl{10.1093/nar/gkz576}
+{\href{https://arxiv.org/abs/31269210}{{31269210}}}
+\end{barticle}
+\endbibitem
+
+%%% 118
+\bibitem[\protect\citeauthoryear{Vaser et~al.}{2017}]{Vaser2017May}
+\begin{barticle}
+\bauthor{\bsnm{Vaser}, \binits{R.}},
+\bauthor{\bsnm{Sovi{\ifmmode\acute{c}\else\'{c}\fi}}, \binits{I.}},
+\bauthor{\bsnm{Nagarajan}, \binits{N.}},
+\bauthor{\bsnm{{\ifmmode\check{S}\else\v{S}\fi}iki{\ifmmode\acute{c}\else\'{c}\fi}}, \binits{M.}}:
+\batitle{{Fast and accurate de novo genome assembly from long uncorrected reads}}.
+\bjtitle{Genome Res.}
+\bvolume{27}(\bissue{5}),
+\bfpage{737}--\blpage{746}
+(\byear{2017})
+\doiurl{10.1101/gr.214270.116}
+{\href{https://arxiv.org/abs/28100585}{{28100585}}}
+\end{barticle}
+\endbibitem
+
+%%% 119
+\bibitem[\protect\citeauthoryear{Liu et~al.}{2021}]{circFLseq}
+\begin{barticle}
+\bauthor{\bsnm{Liu}, \binits{Z.}},
+\bauthor{\bsnm{Tao}, \binits{C.}},
+\bauthor{\bsnm{Li}, \binits{S.}},
+\bauthor{\bsnm{Du}, \binits{M.}},
+\bauthor{\bsnm{Bai}, \binits{Y.}},
+\bauthor{\bsnm{Hu}, \binits{X.}},
+\bauthor{\bsnm{Li}, \binits{Y.}},
+\bauthor{\bsnm{Chen}, \binits{J.}},
+\bauthor{\bsnm{Yang}, \binits{E.}}:
+\batitle{{circFL-seq reveals full-length circular RNAs with rolling circular reverse transcription and nanopore sequencing}}.
+\bjtitle{eLife}
+(\byear{2021})
+\doiurl{10.7554/eLife.69457}
+\end{barticle}
+\endbibitem
+
+%%% 120
+\bibitem[\protect\citeauthoryear{Gao et~al.}{2019}]{Gao2019Jul}
+\begin{barticle}
+\bauthor{\bsnm{Gao}, \binits{Y.}},
+\bauthor{\bsnm{Liu}, \binits{B.}},
+\bauthor{\bsnm{Wang}, \binits{Y.}},
+\bauthor{\bsnm{Xing}, \binits{Y.}}:
+\batitle{{TideHunter: efficient and sensitive tandem repeat detection from noisy long-reads using seed-and-chain}}.
+\bjtitle{Bioinformatics}
+\bvolume{35}(\bissue{14}),
+\bfpage{200}--\blpage{207}
+(\byear{2019})
+\doiurl{10.1093/bioinformatics/btz376}
+\end{barticle}
+\endbibitem
+
+%%% 121
+\bibitem[\protect\citeauthoryear{Rahimi et~al.}{2021}]{Rahimi2021Dec}
+\begin{barticle}
+\bauthor{\bsnm{Rahimi}, \binits{K.}},
+\bauthor{\bsnm{F{\ae}rch~Nielsen}, \binits{A.}},
+\bauthor{\bsnm{Ven{\o}}, \binits{M.T.}},
+\bauthor{\bsnm{Kjems}, \binits{J.}}:
+\batitle{{Nanopore long-read sequencing of circRNAs}}.
+\bjtitle{Methods}
+\bvolume{196},
+\bfpage{23}--\blpage{29}
+(\byear{2021})
+\doiurl{10.1016/j.ymeth.2021.09.010}
+\end{barticle}
+\endbibitem
+
+%%% 122
+\bibitem[\protect\citeauthoryear{Ivanov et~al.}{2015}]{Ivanov2015Jan}
+\begin{barticle}
+\bauthor{\bsnm{Ivanov}, \binits{A.}},
+\bauthor{\bsnm{Memczak}, \binits{S.}},
+\bauthor{\bsnm{Wyler}, \binits{E.}},
+\bauthor{\bsnm{Torti}, \binits{F.}},
+\bauthor{\bsnm{Porath}, \binits{H.T.}},
+\bauthor{\bsnm{Orejuela}, \binits{M.R.}},
+\bauthor{\bsnm{Piechotta}, \binits{M.}},
+\bauthor{\bsnm{Levanon}, \binits{E.Y.}},
+\bauthor{\bsnm{Landthaler}, \binits{M.}},
+\bauthor{\bsnm{Dieterich}, \binits{C.}},
+\bauthor{\bsnm{Rajewsky}, \binits{N.}}:
+\batitle{{Analysis of intron sequences reveals hallmarks of circular RNA biogenesis in animals}}.
+\bjtitle{Cell Rep.}
+\bvolume{10}(\bissue{2}),
+\bfpage{170}--\blpage{177}
+(\byear{2015})
+\doiurl{10.1016/j.celrep.2014.12.019}
+{\href{https://arxiv.org/abs/25558066}{{25558066}}}
+\end{barticle}
+\endbibitem
+
+%%% 123
+\bibitem[\protect\citeauthoryear{Dubin et~al.}{1995}]{Dubin1995Dec}
+\begin{barticle}
+\bauthor{\bsnm{Dubin}, \binits{R.A.}},
+\bauthor{\bsnm{Kazmi}, \binits{M.A.}},
+\bauthor{\bsnm{Ostrer}, \binits{H.}}:
+\batitle{{Inverted repeats are necessary for circularization of the mouse testis Sry transcript}}.
+\bjtitle{Gene}
+\bvolume{167}(\bissue{1-2}),
+\bfpage{245}--\blpage{248}
+(\byear{1995})
+\doiurl{10.1016/0378-1119(95)00639-7}
+{\href{https://arxiv.org/abs/8566785}{{8566785}}}
+\end{barticle}
+\endbibitem
+
+%%% 124
+\bibitem[\protect\citeauthoryear{Thomas and S{\ae}trom}{2014}]{Thomas2014Aug}
+\begin{barticle}
+\bauthor{\bsnm{Thomas}, \binits{L.F.}},
+\bauthor{\bsnm{S{\ae}trom}, \binits{P.}}:
+\batitle{{Circular RNAs are depleted of polymorphisms at microRNA binding sites}}.
+\bjtitle{Bioinformatics}
+\bvolume{30}(\bissue{16}),
+\bfpage{2243}--\blpage{2246}
+(\byear{2014})
+\doiurl{10.1093/bioinformatics/btu257}
+{\href{https://arxiv.org/abs/24764460}{{24764460}}}
+\end{barticle}
+\endbibitem
+
+%%% 125
+\bibitem[\protect\citeauthoryear{Pan and Xiong}{2015}]{PredcircRNA}
+\begin{barticle}
+\bauthor{\bsnm{Pan}, \binits{X.}},
+\bauthor{\bsnm{Xiong}, \binits{K.}}:
+\batitle{{PredcircRNA: computational classification of circular RNA from other long non-coding RNA using hybrid features}}.
+\bjtitle{Mol. Biosyst.}
+\bvolume{11}(\bissue{8}),
+\bfpage{2219}--\blpage{2226}
+(\byear{2015})
+\doiurl{10.1039/c5mb00214a}
+{\href{https://arxiv.org/abs/26028480}{{26028480}}}
+\end{barticle}
+\endbibitem
+
+%%% 126
+\bibitem[\protect\citeauthoryear{Chaabane et~al.}{2020}]{circDeep}
+\begin{barticle}
+\bauthor{\bsnm{Chaabane}, \binits{M.}},
+\bauthor{\bsnm{Williams}, \binits{R.M.}},
+\bauthor{\bsnm{Stephens}, \binits{A.T.}},
+\bauthor{\bsnm{Park}, \binits{J.W.}}:
+\batitle{{circDeep: deep learning approach for circular RNA classification from other long non-coding RNA}}.
+\bjtitle{Bioinformatics}
+\bvolume{36}(\bissue{1}),
+\bfpage{73}--\blpage{80}
+(\byear{2020})
+\doiurl{10.1093/bioinformatics/btz537}
+\end{barticle}
+\endbibitem
+
+%%% 127
+\bibitem[\protect\citeauthoryear{Wang et~al.}{2022}]{StackCirRNAPred}
+\begin{barticle}
+\bauthor{\bsnm{Wang}, \binits{X.}},
+\bauthor{\bsnm{Liu}, \binits{Y.}},
+\bauthor{\bsnm{Li}, \binits{J.}},
+\bauthor{\bsnm{Wang}, \binits{G.}}:
+\batitle{{StackCirRNAPred: computational classification of long circRNA from other lncRNA based on stacking strategy}}.
+\bjtitle{BMC Bioinf.}
+\bvolume{23}(\bissue{1}),
+\bfpage{1}--\blpage{15}
+(\byear{2022})
+\doiurl{10.1186/s12859-022-05118-7}
+\end{barticle}
+\endbibitem
+
+%%% 128
+\bibitem[\protect\citeauthoryear{Niu et~al.}{2020}]{CirRNAPL}
+\begin{barticle}
+\bauthor{\bsnm{Niu}, \binits{M.}},
+\bauthor{\bsnm{Zhang}, \binits{J.}},
+\bauthor{\bsnm{Li}, \binits{Y.}},
+\bauthor{\bsnm{Wang}, \binits{C.}},
+\bauthor{\bsnm{Liu}, \binits{Z.}},
+\bauthor{\bsnm{Ding}, \binits{H.}},
+\bauthor{\bsnm{Zou}, \binits{Q.}},
+\bauthor{\bsnm{Ma}, \binits{Q.}}:
+\batitle{{CirRNAPL: A web server for the identification of circRNA based on extreme learning machine}}.
+\bjtitle{Comput. Struct. Biotechnol. J.}
+\bvolume{18},
+\bfpage{834}--\blpage{842}
+(\byear{2020})
+\doiurl{10.1016/j.csbj.2020.03.028}
+\end{barticle}
+\endbibitem
+
+%%% 129
+\bibitem[\protect\citeauthoryear{Maticzka et~al.}{2014}]{GraphProt}
+\begin{barticle}
+\bauthor{\bsnm{Maticzka}, \binits{D.}},
+\bauthor{\bsnm{Lange}, \binits{S.J.}},
+\bauthor{\bsnm{Costa}, \binits{F.}},
+\bauthor{\bsnm{Backofen}, \binits{R.}}:
+\batitle{{GraphProt: modeling binding preferences of RNA-binding proteins}}.
+\bjtitle{Genome Biol.}
+\bvolume{15}(\bissue{1}),
+\bfpage{1}--\blpage{18}
+(\byear{2014})
+\doiurl{10.1186/gb-2014-15-1-r17}
+\end{barticle}
+\endbibitem
+
+%%% 130
+\bibitem[\protect\citeauthoryear{Pollard et~al.}{2009}]{PhyloP}
+\begin{barticle}
+\bauthor{\bsnm{Pollard}, \binits{K.S.}},
+\bauthor{\bsnm{Hubisz}, \binits{M.J.}},
+\bauthor{\bsnm{Rosenbloom}, \binits{K.R.}},
+\bauthor{\bsnm{Siepel}, \binits{A.}}:
+\batitle{{Detection of nonneutral substitution rates on mammalian phylogenies}}.
+\bjtitle{Genome Res.}
+\bvolume{20}(\bissue{1}),
+\bfpage{110}--\blpage{121}
+(\byear{2009})
+\doiurl{10.1101/gr.097857.109}
+\end{barticle}
+\endbibitem
+
+%%% 131
+\bibitem[\protect\citeauthoryear{Siepel et~al.}{2005}]{phastCons}
+\begin{barticle}
+\bauthor{\bsnm{Siepel}, \binits{A.}},
+\bauthor{\bsnm{Bejerano}, \binits{G.}},
+\bauthor{\bsnm{Pedersen}, \binits{J.S.}},
+\bauthor{\bsnm{Hinrichs}, \binits{A.S.}},
+\bauthor{\bsnm{Hou}, \binits{M.}},
+\bauthor{\bsnm{Rosenbloom}, \binits{K.}},
+\bauthor{\bsnm{Clawson}, \binits{H.}},
+\bauthor{\bsnm{Spieth}, \binits{J.}},
+\bauthor{\bsnm{Hillier}, \binits{L.W.}},
+\bauthor{\bsnm{Richards}, \binits{S.}},
+\bauthor{\bsnm{Weinstock}, \binits{G.M.}},
+\bauthor{\bsnm{Wilson}, \binits{R.K.}},
+\bauthor{\bsnm{Gibbs}, \binits{R.A.}},
+\bauthor{\bsnm{Kent}, \binits{W.J.}},
+\bauthor{\bsnm{Miller}, \binits{W.}},
+\bauthor{\bsnm{Haussler}, \binits{D.}}:
+\batitle{{Evolutionarily conserved elements in vertebrate, insect, worm, and yeast genomes}}.
+\bjtitle{Genome Res.}
+\bvolume{15}(\bissue{8}),
+\bfpage{1034}--\blpage{1050}
+(\byear{2005})
+\doiurl{10.1101/gr.3715005}
+\end{barticle}
+\endbibitem
+
+%%% 132
+\bibitem[\protect\citeauthoryear{Wang and Wang}{2019}]{DeepCirCode}
+\begin{barticle}
+\bauthor{\bsnm{Wang}, \binits{J.}},
+\bauthor{\bsnm{Wang}, \binits{L.}}:
+\batitle{{Deep learning of the back-splicing code for circular RNA formation}}.
+\bjtitle{Bioinformatics}
+\bvolume{35}(\bissue{24}),
+\bfpage{5235}--\blpage{5242}
+(\byear{2019})
+\doiurl{10.1093/bioinformatics/btz382}
+{\href{https://arxiv.org/abs/31077303}{{31077303}}}
+\end{barticle}
+\endbibitem
+
+%%% 133
+\bibitem[\protect\citeauthoryear{Chen et~al.}{2016}]{circrnadb}
+\begin{barticle}
+\bauthor{\bsnm{Chen}, \binits{X.}},
+\bauthor{\bsnm{Han}, \binits{P.}},
+\bauthor{\bsnm{Zhou}, \binits{T.}},
+\bauthor{\bsnm{Guo}, \binits{X.}},
+\bauthor{\bsnm{Song}, \binits{X.}},
+\bauthor{\bsnm{Li}, \binits{Y.}}:
+\batitle{{circRNADb: A comprehensive database for human circular RNAs with protein-coding annotations}}.
+\bjtitle{Sci. Rep.}
+\bvolume{6}(\bissue{34985}),
+\bfpage{1}--\blpage{6}
+(\byear{2016})
+\doiurl{10.1038/srep34985}
+\end{barticle}
+\endbibitem
+
+%%% 134
+\bibitem[\protect\citeauthoryear{Gla{\ifmmode\check{z}\else\v{z}\fi}ar et~al.}{2014}]{circbase}
+\begin{barticle}
+\bauthor{\bsnm{Gla{\ifmmode\check{z}\else\v{z}\fi}ar}, \binits{P.}},
+\bauthor{\bsnm{Papavasileiou}, \binits{P.}},
+\bauthor{\bsnm{Rajewsky}, \binits{N.}}:
+\batitle{{circBase: a database for circular RNAs}}.
+\bjtitle{RNA}
+(\byear{2014})
+\doiurl{10.1261/rna.043687.113}
+\end{barticle}
+\endbibitem
+
+%%% 135
+\bibitem[\protect\citeauthoryear{Jiang et~al.}{2021}]{JEDI}
+\begin{barticle}
+\bauthor{\bsnm{Jiang}, \binits{J.-Y.}},
+\bauthor{\bsnm{Ju}, \binits{C.J.-T.}},
+\bauthor{\bsnm{Hao}, \binits{J.}},
+\bauthor{\bsnm{Chen}, \binits{M.}},
+\bauthor{\bsnm{Wang}, \binits{W.}}:
+\batitle{{JEDI: circular RNA prediction based on junction encoders and deep interaction among splice sites}}.
+\bjtitle{Bioinformatics}
+\bvolume{37}(\bissue{1}),
+\bfpage{289}--\blpage{298}
+(\byear{2021})
+\doiurl{10.1093/bioinformatics/btab288}
+\end{barticle}
+\endbibitem
+
+%%% 136
+\bibitem[\protect\citeauthoryear{Zhou et~al.}{2024}]{CIRIdeep}
+\begin{barticle}
+\bauthor{\bsnm{Zhou}, \binits{Z.}},
+\bauthor{\bsnm{Zhang}, \binits{J.}},
+\bauthor{\bsnm{Zheng}, \binits{X.}},
+\bauthor{\bsnm{Pan}, \binits{Z.}},
+\bauthor{\bsnm{Zhao}, \binits{F.}},
+\bauthor{\bsnm{Gao}, \binits{Y.}}:
+\batitle{{CIRI-Deep Enables Single-Cell and Spatial Transcriptomic Analysis of Circular RNAs with Deep Learning}}.
+\bjtitle{Adv. Sci.}
+\bvolume{n/a}(\bissue{n/a}),
+\bfpage{2308115}
+(\byear{2024})
+\doiurl{10.1002/advs.202308115}
+\end{barticle}
+\endbibitem
+
+%%% 137
+\bibitem[\protect\citeauthoryear{Zhang et~al.}{2019}]{DARTS}
+\begin{barticle}
+\bauthor{\bsnm{Zhang}, \binits{Z.}},
+\bauthor{\bsnm{Pan}, \binits{Z.}},
+\bauthor{\bsnm{Ying}, \binits{Y.}},
+\bauthor{\bsnm{Xie}, \binits{Z.}},
+\bauthor{\bsnm{Adhikari}, \binits{S.}},
+\bauthor{\bsnm{Phillips}, \binits{J.}},
+\bauthor{\bsnm{Carstens}, \binits{R.P.}},
+\bauthor{\bsnm{Black}, \binits{D.L.}},
+\bauthor{\bsnm{Wu}, \binits{Y.}},
+\bauthor{\bsnm{Xing}, \binits{Y.}}:
+\batitle{{Deep-learning augmented RNA-seq analysis of transcript splicing}}.
+\bjtitle{Nat. Methods}
+\bvolume{16},
+\bfpage{307}--\blpage{310}
+(\byear{2019})
+\doiurl{10.1038/s41592-019-0351-9}
+\end{barticle}
+\endbibitem
+
+%%% 138
+\bibitem[\protect\citeauthoryear{Ji et~al.}{2019}]{RNAAtlas}
+\begin{barticle}
+\bauthor{\bsnm{Ji}, \binits{P.}},
+\bauthor{\bsnm{Wu}, \binits{W.}},
+\bauthor{\bsnm{Chen}, \binits{S.}},
+\bauthor{\bsnm{Zheng}, \binits{Y.}},
+\bauthor{\bsnm{Zhou}, \binits{L.}},
+\bauthor{\bsnm{Zhang}, \binits{J.}},
+\bauthor{\bsnm{Cheng}, \binits{H.}},
+\bauthor{\bsnm{Yan}, \binits{J.}},
+\bauthor{\bsnm{Zhang}, \binits{S.}},
+\bauthor{\bsnm{Yang}, \binits{P.}},
+\bauthor{\bsnm{Zhao}, \binits{F.}}:
+\batitle{{Expanded Expression Landscape and Prioritization of Circular RNAs in Mammals}}.
+\bjtitle{Cell Rep.}
+\bvolume{26}(\bissue{12}),
+\bfpage{3444}--\blpage{34605}
+(\byear{2019})
+\doiurl{10.1016/j.celrep.2019.02.078}
+{\href{https://arxiv.org/abs/30893614}{{30893614}}}
+\end{barticle}
+\endbibitem
+
+%%% 139
+\bibitem[\protect\citeauthoryear{Wu et~al.}{2020}]{circatlas}
+\begin{barticle}
+\bauthor{\bsnm{Wu}, \binits{W.}},
+\bauthor{\bsnm{Ji}, \binits{P.}},
+\bauthor{\bsnm{Zhao}, \binits{F.}}:
+\batitle{{CircAtlas: an integrated resource of one million highly accurate circular RNAs from 1070 vertebrate transcriptomes}}.
+\bjtitle{Genome Biol.}
+\bvolume{21}(\bissue{1}),
+\bfpage{1}--\blpage{14}
+(\byear{2020})
+\doiurl{10.1186/s13059-020-02018-y}
+\end{barticle}
+\endbibitem
+
+%%% 140
+\bibitem[\protect\citeauthoryear{{GTEx Consortium} et~al.}{2013}]{GTExConsortium2013Jun}
+\begin{barticle}
+\bauthor{\bsnm{{GTEx Consortium}}},
+\bauthor{\bsnm{Lonsdale}, \binits{J.}},
+\bauthor{\bsnm{Thomas}, \binits{J.}},
+\bauthor{\bsnm{Salvatore}, \binits{M.}},
+\bauthor{\bsnm{Phillips}, \binits{R.}},
+\bauthor{\bsnm{Lo}, \binits{E.}},
+\bauthor{\bsnm{Shad}, \binits{S.}},
+\bauthor{\bsnm{Hasz}, \binits{R.}},
+\bauthor{\bsnm{Walters}, \binits{G.}},
+\bauthor{\bsnm{Garcia}, \binits{F.}},
+\bauthor{\bsnm{Young}, \binits{N.}},
+\bauthor{\bsnm{Foster}, \binits{B.}},
+\bauthor{\bsnm{Moser}, \binits{M.}},
+\bauthor{\bsnm{Karasik}, \binits{E.}},
+\bauthor{\bsnm{Gillard}, \binits{B.}},
+\bauthor{\bsnm{Ramsey}, \binits{K.}},
+\bauthor{\bsnm{Sullivan}, \binits{S.}},
+\bauthor{\bsnm{Bridge}, \binits{J.}},
+\bauthor{\bsnm{Magazine}, \binits{H.}},
+\bauthor{\bsnm{Syron}, \binits{J.}},
+\bauthor{\bsnm{Fleming}, \binits{J.}},
+\bauthor{\bsnm{Siminoff}, \binits{L.}},
+\bauthor{\bsnm{Traino}, \binits{H.}},
+\bauthor{\bsnm{Mosavel}, \binits{M.}},
+\bauthor{\bsnm{Barker}, \binits{L.}},
+\bauthor{\bsnm{Jewell}, \binits{S.}},
+\bauthor{\bsnm{Rohrer}, \binits{D.}},
+\bauthor{\bsnm{Maxim}, \binits{D.}},
+\bauthor{\bsnm{Filkins}, \binits{D.}},
+\bauthor{\bsnm{Harbach}, \binits{P.}},
+\bauthor{\bsnm{Cortadillo}, \binits{E.}},
+\bauthor{\bsnm{Berghuis}, \binits{B.}},
+\bauthor{\bsnm{Turner}, \binits{L.}},
+\bauthor{\bsnm{Hudson}, \binits{E.}},
+\bauthor{\bsnm{Feenstra}, \binits{K.}},
+\bauthor{\bsnm{Sobin}, \binits{L.}},
+\bauthor{\bsnm{Robb}, \binits{J.}},
+\bauthor{\bsnm{Branton}, \binits{P.}},
+\bauthor{\bsnm{Korzeniewski}, \binits{G.}},
+\bauthor{\bsnm{Shive}, \binits{C.}},
+\bauthor{\bsnm{Tabor}, \binits{D.}},
+\bauthor{\bsnm{Qi}, \binits{L.}},
+\bauthor{\bsnm{Groch}, \binits{K.}},
+\bauthor{\bsnm{Nampally}, \binits{S.}},
+\bauthor{\bsnm{Buia}, \binits{S.}},
+\bauthor{\bsnm{Zimmerman}, \binits{A.}},
+\bauthor{\bsnm{Smith}, \binits{A.}},
+\bauthor{\bsnm{Burges}, \binits{R.}},
+\bauthor{\bsnm{Robinson}, \binits{K.}},
+\bauthor{\bsnm{Valentino}, \binits{K.}},
+\bauthor{\bsnm{Bradbury}, \binits{D.}},
+\bauthor{\bsnm{Cosentino}, \binits{M.}},
+\bauthor{\bsnm{Diaz-Mayoral}, \binits{N.}},
+\bauthor{\bsnm{Kennedy}, \binits{M.}},
+\bauthor{\bsnm{Engel}, \binits{T.}},
+\bauthor{\bsnm{Williams}, \binits{P.}},
+\bauthor{\bsnm{Erickson}, \binits{K.}},
+\bauthor{\bsnm{Ardlie}, \binits{K.}},
+\bauthor{\bsnm{Winckler}, \binits{W.}},
+\bauthor{\bsnm{Getz}, \binits{G.}},
+\bauthor{\bsnm{DeLuca}, \binits{D.}},
+\bauthor{\bsnm{MacArthur}, \binits{D.}},
+\bauthor{\bsnm{Kellis}, \binits{M.}},
+\bauthor{\bsnm{Thomson}, \binits{A.}},
+\bauthor{\bsnm{Young}, \binits{T.}},
+\bauthor{\bsnm{Gelfand}, \binits{E.}},
+\bauthor{\bsnm{Donovan}, \binits{M.}},
+\bauthor{\bsnm{Grant}, \binits{G.}},
+\bauthor{\bsnm{Mash}, \binits{D.}},
+\bauthor{\bsnm{Marcus}, \binits{Y.}},
+\bauthor{\bsnm{Basile}, \binits{M.}},
+\bauthor{\bsnm{Liu}, \binits{J.}},
+\bauthor{\bsnm{Zhu}, \binits{J.}},
+\bauthor{\bsnm{Tu}, \binits{Z.}},
+\bauthor{\bsnm{Cox}, \binits{N.J.}},
+\bauthor{\bsnm{Nicolae}, \binits{D.L.}},
+\bauthor{\bsnm{Gamazon}, \binits{E.R.}},
+\bauthor{\bsnm{Kyung}, \binits{H.}},
+\bauthor{\bsnm{Konkashbaev}, \binits{A.}},
+\bauthor{\bsnm{Pritchard}, \binits{J.}},
+\bauthor{\bsnm{Stevens}, \binits{M.}},
+\bauthor{\bsnm{Flutre}, \binits{T.}},
+\bauthor{\bsnm{Wen}, \binits{X.}},
+\bauthor{\bsnm{Dermitzakis}, \binits{T.}},
+\bauthor{\bsnm{Lappalainen}, \binits{T.}},
+\bauthor{\bsnm{Guigo}, \binits{R.}},
+\bauthor{\bsnm{Monlong}, \binits{J.}},
+\bauthor{\bsnm{Sammeth}, \binits{M.}},
+\bauthor{\bsnm{Koller}, \binits{D.}},
+\bauthor{\bsnm{Battle}, \binits{A.}},
+\bauthor{\bsnm{Mostafavi}, \binits{S.}},
+\bauthor{\bsnm{McCarthy}, \binits{M.}},
+\bauthor{\bsnm{Rivas}, \binits{M.}},
+\bauthor{\bsnm{Maller}, \binits{J.}},
+\bauthor{\bsnm{Rusyn}, \binits{I.}},
+\bauthor{\bsnm{Nobel}, \binits{A.}},
+\bauthor{\bsnm{Wright}, \binits{F.}},
+\bauthor{\bsnm{Shabalin}, \binits{A.}},
+\bauthor{\bsnm{Feolo}, \binits{M.}},
+\bauthor{\bsnm{Sharopova}, \binits{N.}},
+\bauthor{\bsnm{Sturcke}, \binits{A.}},
+\bauthor{\bsnm{Paschal}, \binits{J.}},
+\bauthor{\bsnm{Anderson}, \binits{J.M.}},
+\bauthor{\bsnm{Wilder}, \binits{E.L.}},
+\bauthor{\bsnm{Derr}, \binits{L.K.}},
+\bauthor{\bsnm{Green}, \binits{E.D.}},
+\bauthor{\bsnm{Struewing}, \binits{J.P.}},
+\bauthor{\bsnm{Temple}, \binits{G.}},
+\bauthor{\bsnm{Volpi}, \binits{S.}},
+\bauthor{\bsnm{Boyer}, \binits{J.T.}},
+\bauthor{\bsnm{Thomson}, \binits{E.J.}},
+\bauthor{\bsnm{Guyer}, \binits{M.S.}},
+\bauthor{\bsnm{Ng}, \binits{C.}},
+\bauthor{\bsnm{Abdallah}, \binits{A.}},
+\bauthor{\bsnm{Colantuoni}, \binits{D.}},
+\bauthor{\bsnm{Insel}, \binits{T.R.}},
+\bauthor{\bsnm{Koester}, \binits{S.E.}},
+\bauthor{\bsnm{Little}, \binits{A.R.}},
+\bauthor{\bsnm{Bender}, \binits{P.K.}},
+\bauthor{\bsnm{Lehner}, \binits{T.}},
+\bauthor{\bsnm{Yao}, \binits{Y.}},
+\bauthor{\bsnm{Compton}, \binits{C.C.}},
+\bauthor{\bsnm{Vaught}, \binits{J.B.}},
+\bauthor{\bsnm{Sawyer}, \binits{S.}},
+\bauthor{\bsnm{Lockhart}, \binits{N.C.}},
+\bauthor{\bsnm{Demchok}, \binits{J.}},
+\bauthor{\bsnm{Moore}, \binits{H.F.}}:
+\batitle{{The Genotype-Tissue Expression (GTEx) project}}.
+\bjtitle{Nat. Genet.}
+\bvolume{45}(\bissue{6}),
+\bfpage{580}--\blpage{585}
+(\byear{2013})
+\doiurl{10.1038/ng.2653}
+{\href{https://arxiv.org/abs/23715323}{{23715323}}}
+\end{barticle}
+\endbibitem
+
+%%% 141
+\bibitem[\protect\citeauthoryear{}{2012}]{TCGA}
+\begin{botherref}
+{Comprehensive molecular portraits of human breast tumours}.
+Nature Publishing Group.
+[Online; accessed 20. Mar. 2024]
+(2012).
+\doiurl{10.1038/nature11412}
+\end{botherref}
+\endbibitem
+
+%%% 142
+\bibitem[\protect\citeauthoryear{Szabo and Salzman}{2016}]{Szabo2016Oct}
+\begin{barticle}
+\bauthor{\bsnm{Szabo}, \binits{L.}},
+\bauthor{\bsnm{Salzman}, \binits{J.}}:
+\batitle{{Detecting circular RNAs: bioinformatic and experimental challenges}}.
+\bjtitle{Nat. Rev. Genet.}
+\bvolume{17}(\bissue{11}),
+\bfpage{679}--\blpage{692}
+(\byear{2016})
+\doiurl{10.1038/nrg.2016.114}
+{\href{https://arxiv.org/abs/27739534}{{27739534}}}
+\end{barticle}
+\endbibitem
+
+%%% 143
+\bibitem[\protect\citeauthoryear{Li et~al.}{2017}]{RAISE}
+\begin{barticle}
+\bauthor{\bsnm{Li}, \binits{L.}},
+\bauthor{\bsnm{Zheng}, \binits{Y.-C.}},
+\bauthor{\bsnm{Kayani}, \binits{M.U.R.}},
+\bauthor{\bsnm{Xu}, \binits{W.}},
+\bauthor{\bsnm{Wang}, \binits{G.-Q.}},
+\bauthor{\bsnm{Sun}, \binits{P.}},
+\bauthor{\bsnm{Ao}, \binits{N.}},
+\bauthor{\bsnm{Zhang}, \binits{L.-N.}},
+\bauthor{\bsnm{Gu}, \binits{Z.-Q.}},
+\bauthor{\bsnm{Wu}, \binits{L.-C.}},
+\bauthor{\bsnm{Zhao}, \binits{H.-T.}}:
+\batitle{{Comprehensive analysis of circRNA expression profiles in humans by RAISE}}.
+\bjtitle{Int. J. Oncol.}
+\bvolume{51}(\bissue{6}),
+\bfpage{1625}--\blpage{1638}
+(\byear{2017})
+\doiurl{10.3892/ijo.2017.4162}
+\end{barticle}
+\endbibitem
+
+%%% 144
+\bibitem[\protect\citeauthoryear{Zeng et~al.}{2017}]{Zeng2017Jun}
+\begin{barticle}
+\bauthor{\bsnm{Zeng}, \binits{X.}},
+\bauthor{\bsnm{Lin}, \binits{W.}},
+\bauthor{\bsnm{Guo}, \binits{M.}},
+\bauthor{\bsnm{Zou}, \binits{Q.}}:
+\batitle{{A comprehensive overview and evaluation of circular RNA detection tools}}.
+\bjtitle{PLoS Comput. Biol.}
+\bvolume{13}(\bissue{6}),
+\bfpage{1005420}
+(\byear{2017})
+\doiurl{10.1371/journal.pcbi.1005420}
+\end{barticle}
+\endbibitem
+
+%%% 145
+\bibitem[\protect\citeauthoryear{Vromman et~al.}{2023}]{Vromman2023Aug}
+\begin{barticle}
+\bauthor{\bsnm{Vromman}, \binits{M.}},
+\bauthor{\bsnm{Anckaert}, \binits{J.}},
+\bauthor{\bsnm{Bortoluzzi}, \binits{S.}},
+\bauthor{\bsnm{Buratin}, \binits{A.}},
+\bauthor{\bsnm{Chen}, \binits{C.-Y.}},
+\bauthor{\bsnm{Chu}, \binits{Q.}},
+\bauthor{\bsnm{Chuang}, \binits{T.-J.}},
+\bauthor{\bsnm{Dehghannasiri}, \binits{R.}},
+\bauthor{\bsnm{Dieterich}, \binits{C.}},
+\bauthor{\bsnm{Dong}, \binits{X.}},
+\bauthor{\bsnm{Flicek}, \binits{P.}},
+\bauthor{\bsnm{Gaffo}, \binits{E.}},
+\bauthor{\bsnm{Gu}, \binits{W.}},
+\bauthor{\bsnm{He}, \binits{C.}},
+\bauthor{\bsnm{Hoffmann}, \binits{S.}},
+\bauthor{\bsnm{Izuogu}, \binits{O.}},
+\bauthor{\bsnm{Jackson}, \binits{M.S.}},
+\bauthor{\bsnm{Jakobi}, \binits{T.}},
+\bauthor{\bsnm{Lai}, \binits{E.C.}},
+\bauthor{\bsnm{Nuytens}, \binits{J.}},
+\bauthor{\bsnm{Salzman}, \binits{J.}},
+\bauthor{\bsnm{Santibanez-Koref}, \binits{M.}},
+\bauthor{\bsnm{Stadler}, \binits{P.}},
+\bauthor{\bsnm{Thas}, \binits{O.}},
+\bauthor{\bsnm{Vanden~Eynde}, \binits{E.}},
+\bauthor{\bsnm{Verniers}, \binits{K.}},
+\bauthor{\bsnm{Wen}, \binits{G.}},
+\bauthor{\bsnm{Westholm}, \binits{J.}},
+\bauthor{\bsnm{Yang}, \binits{L.}},
+\bauthor{\bsnm{Ye}, \binits{C.-Y.}},
+\bauthor{\bsnm{Yigit}, \binits{N.}},
+\bauthor{\bsnm{Yuan}, \binits{G.-H.}},
+\bauthor{\bsnm{Zhang}, \binits{J.}},
+\bauthor{\bsnm{Zhao}, \binits{F.}},
+\bauthor{\bsnm{Vandesompele}, \binits{J.}},
+\bauthor{\bsnm{Volders}, \binits{P.-J.}}:
+\batitle{{Large-scale benchmarking of circRNA detection tools reveals large differences in sensitivity but not in precision}}.
+\bjtitle{Nat. Methods}
+\bvolume{20},
+\bfpage{1159}--\blpage{1169}
+(\byear{2023})
+\doiurl{10.1038/s41592-023-01944-6}
+\end{barticle}
+\endbibitem
+
+%%% 146
+\bibitem[\protect\citeauthoryear{Kim et~al.}{2013}]{TopHat2}
+\begin{barticle}
+\bauthor{\bsnm{Kim}, \binits{D.}},
+\bauthor{\bsnm{Pertea}, \binits{G.}},
+\bauthor{\bsnm{Trapnell}, \binits{C.}},
+\bauthor{\bsnm{Pimentel}, \binits{H.}},
+\bauthor{\bsnm{Kelley}, \binits{R.}},
+\bauthor{\bsnm{Salzberg}, \binits{S.L.}}:
+\batitle{{TopHat2: accurate alignment of transcriptomes in the presence of insertions, deletions and gene fusions}}.
+\bjtitle{Genome Biol.}
+\bvolume{14}(\bissue{4}),
+\bfpage{1}--\blpage{13}
+(\byear{2013})
+\doiurl{10.1186/gb-2013-14-4-r36}
+\end{barticle}
+\endbibitem
+
+%%% 147
+\bibitem[\protect\citeauthoryear{Ma et~al.}{2019}]{CIRCexplorer3}
+\begin{barticle}
+\bauthor{\bsnm{Ma}, \binits{X.-K.}},
+\bauthor{\bsnm{Wang}, \binits{M.-R.}},
+\bauthor{\bsnm{Liu}, \binits{C.-X.}},
+\bauthor{\bsnm{Dong}, \binits{R.}},
+\bauthor{\bsnm{Carmichael}, \binits{G.G.}},
+\bauthor{\bsnm{Chen}, \binits{L.-L.}},
+\bauthor{\bsnm{Yang}, \binits{L.}}:
+\batitle{{CIRCexplorer3: A CLEAR Pipeline for Direct Comparison of Circular and Linear RNA Expression}}.
+\bjtitle{Genomics Proteomics Bioinformatics}
+\bvolume{17}(\bissue{5}),
+\bfpage{511}--\blpage{521}
+(\byear{2019})
+\doiurl{10.1016/j.gpb.2019.11.004}
+\end{barticle}
+\endbibitem
+
+%%% 148
+\bibitem[\protect\citeauthoryear{Ye et~al.}{2017}]{circseq_cup}
+\begin{botherref}
+\oauthor{\bsnm{Ye}, \binits{C.-Y.}},
+\oauthor{\bsnm{Zhang}, \binits{X.}},
+\oauthor{\bsnm{Chu}, \binits{Q.}},
+\oauthor{\bsnm{Liu}, \binits{C.}},
+\oauthor{\bsnm{Yu}, \binits{Y.}},
+\oauthor{\bsnm{Jiang}, \binits{W.}},
+\oauthor{\bsnm{Zhu}, \binits{Q.-H.}},
+\oauthor{\bsnm{Fan}, \binits{L.}},
+\oauthor{\bsnm{Guo}, \binits{L.}}:
+{Full-length sequence assembly reveals circular RNAs with diverse non-GT/AG splicing signals in rice}.
+RNA Biol.
+(2017)
+\end{botherref}
+\endbibitem
+
+%%% 149
+\bibitem[\protect\citeauthoryear{Feng et~al.}{2019}]{CircSplice}
+\begin{barticle}
+\bauthor{\bsnm{Feng}, \binits{J.}},
+\bauthor{\bsnm{Chen}, \binits{K.}},
+\bauthor{\bsnm{Dong}, \binits{X.}},
+\bauthor{\bsnm{Xu}, \binits{X.}},
+\bauthor{\bsnm{Jin}, \binits{Y.}},
+\bauthor{\bsnm{Zhang}, \binits{X.}},
+\bauthor{\bsnm{Chen}, \binits{W.}},
+\bauthor{\bsnm{Han}, \binits{Y.}},
+\bauthor{\bsnm{Shao}, \binits{L.}},
+\bauthor{\bsnm{Gao}, \binits{Y.}},
+\bauthor{\bsnm{He}, \binits{C.}}:
+\batitle{{Genome-wide identification of cancer-specific alternative splicing in circRNA}}.
+\bjtitle{Mol. Cancer}
+\bvolume{18}(\bissue{1}),
+\bfpage{1}--\blpage{5}
+(\byear{2019})
+\doiurl{10.1186/s12943-019-0996-0}
+\end{barticle}
+\endbibitem
+
+%%% 150
+\bibitem[\protect\citeauthoryear{Jakobi et~al.}{2019}]{circtools}
+\begin{barticle}
+\bauthor{\bsnm{Jakobi}, \binits{T.}},
+\bauthor{\bsnm{Uvarovskii}, \binits{A.}},
+\bauthor{\bsnm{Dieterich}, \binits{C.}}:
+\batitle{{circtools-a one-stop software solution for circular RNA research}}.
+\bjtitle{Bioinformatics}
+\bvolume{35}(\bissue{13}),
+\bfpage{2326}--\blpage{2328}
+(\byear{2019})
+\doiurl{10.1093/bioinformatics/bty948}
+{\href{https://arxiv.org/abs/30462173}{{30462173}}}
+\end{barticle}
+\endbibitem
+
+%%% 151
+\bibitem[\protect\citeauthoryear{Chen and Chuang}{2019}]{NCLcomparator}
+\begin{barticle}
+\bauthor{\bsnm{Chen}, \binits{C.-Y.}},
+\bauthor{\bsnm{Chuang}, \binits{T.-J.}}:
+\batitle{{NCLcomparator: systematically post-screening non-co-linear transcripts (circular, trans-spliced, or fusion RNAs) identified from various detectors}}.
+\bjtitle{BMC Bioinf.}
+\bvolume{20}(\bissue{1}),
+\bfpage{1}--\blpage{11}
+(\byear{2019})
+\doiurl{10.1186/s12859-018-2589-0}
+\end{barticle}
+\endbibitem
+
+%%% 152
+\bibitem[\protect\citeauthoryear{Izuogu et~al.}{2018}]{PFv2}
+\begin{barticle}
+\bauthor{\bsnm{Izuogu}, \binits{O.G.}},
+\bauthor{\bsnm{Alhasan}, \binits{A.A.}},
+\bauthor{\bsnm{Mellough}, \binits{C.}},
+\bauthor{\bsnm{Collin}, \binits{J.}},
+\bauthor{\bsnm{Gallon}, \binits{R.}},
+\bauthor{\bsnm{Hyslop}, \binits{J.}},
+\bauthor{\bsnm{Mastrorosa}, \binits{F.K.}},
+\bauthor{\bsnm{Ehrmann}, \binits{I.}},
+\bauthor{\bsnm{Lako}, \binits{M.}},
+\bauthor{\bsnm{Elliott}, \binits{D.J.}},
+\bauthor{\bsnm{Santibanez-Koref}, \binits{M.}},
+\bauthor{\bsnm{Jackson}, \binits{M.S.}}:
+\batitle{{Analysis of human ES cell differentiation establishes that the dominant isoforms of the lncRNAs RMST and FIRRE are circular}}.
+\bjtitle{BMC Genomics}
+\bvolume{19}(\bissue{1}),
+\bfpage{1}--\blpage{18}
+(\byear{2018})
+\doiurl{10.1186/s12864-018-4660-7}
+\end{barticle}
+\endbibitem
+
+%%% 153
+\bibitem[\protect\citeauthoryear{Sekar et~al.}{2020}]{ACValidator}
+\begin{botherref}
+\oauthor{\bsnm{Sekar}, \binits{S.}},
+\oauthor{\bsnm{Geiger}, \binits{P.}},
+\oauthor{\bsnm{Adkins}, \binits{J.}},
+\oauthor{\bsnm{Tassone}, \binits{E.}},
+\oauthor{\bsnm{Serrano}, \binits{G.}},
+\oauthor{\bsnm{Beach}, \binits{T.G.}},
+\oauthor{\bsnm{Liang}, \binits{W.S.}}:
+{ACValidator: A novel assembly-based approach for in silico verification of circular RNAs}.
+Biol. Methods Protoc.
+\textbf{5}(1)
+(2020)
+\doiurl{10.1093/biomethods/bpaa010}
+\end{botherref}
+\endbibitem
+
+%%% 154
+\bibitem[\protect\citeauthoryear{Yu et~al.}{2018}]{ANNOgesic}
+\begin{barticle}
+\bauthor{\bsnm{Yu}, \binits{S.-H.}},
+\bauthor{\bsnm{Vogel}, \binits{J.}},
+\bauthor{\bsnm{F{\ifmmode\ddot{o}\else\"{o}\fi}rstner}, \binits{K.U.}}:
+\batitle{{ANNOgesic: a Swiss army knife for the RNA-seq based annotation of bacterial/archaeal genomes}}.
+\bjtitle{GigaScience}
+\bvolume{7}(\bissue{9}),
+\bfpage{096}
+(\byear{2018})
+\doiurl{10.1093/gigascience/giy096}
+\end{barticle}
+\endbibitem
+
+%%% 155
+\bibitem[\protect\citeauthoryear{Zhou et~al.}{2017}]{AutoCirc}
+\begin{barticle}
+\bauthor{\bsnm{Zhou}, \binits{C.}},
+\bauthor{\bsnm{Molinie}, \binits{B.}},
+\bauthor{\bsnm{Daneshvar}, \binits{K.}},
+\bauthor{\bsnm{Pondick}, \binits{J.V.}},
+\bauthor{\bsnm{Wang}, \binits{J.}},
+\bauthor{\bsnm{Van~Wittenberghe}, \binits{N.O.}},
+\bauthor{\bsnm{Xing}, \binits{Y.}},
+\bauthor{\bsnm{Giallourakis}, \binits{C.C.}},
+\bauthor{\bsnm{Mullen}, \binits{A.C.}}:
+\batitle{{Genome-wide maps of m6A circRNAs identify widespread and cell-type-specific methylation patterns that are distinct from mRNAs}}.
+\bjtitle{Cell Rep.}
+\bvolume{20}(\bissue{9}),
+\bfpage{2262}
+(\byear{2017})
+\doiurl{10.1016/j.celrep.2017.08.027}
+\end{barticle}
+\endbibitem
+
+%%% 156
+\bibitem[\protect\citeauthoryear{Menzel and Meyer}{2019}]{BIQ}
+\begin{botherref}
+\oauthor{\bsnm{Menzel}, \binits{P.}},
+\oauthor{\bsnm{Meyer}, \binits{I.M.}}:
+{BIQ: A method for searching circular RNAs in transcriptome databases by indexing backsplice junctions}.
+bioRxiv,
+556993
+(2019)
+\doiurl{10.1101/556993}
+{\href{https://arxiv.org/abs/556993}{{556993}}}
+\end{botherref}
+\endbibitem
+
+%%% 157
+\bibitem[\protect\citeauthoryear{Wu et~al.}{2019}]{CircAST}
+\begin{barticle}
+\bauthor{\bsnm{Wu}, \binits{J.}},
+\bauthor{\bsnm{Li}, \binits{Y.}},
+\bauthor{\bsnm{Wang}, \binits{C.}},
+\bauthor{\bsnm{Cui}, \binits{Y.}},
+\bauthor{\bsnm{Xu}, \binits{T.}},
+\bauthor{\bsnm{Wang}, \binits{C.}},
+\bauthor{\bsnm{Wang}, \binits{X.}},
+\bauthor{\bsnm{Sha}, \binits{J.}},
+\bauthor{\bsnm{Jiang}, \binits{B.}},
+\bauthor{\bsnm{Wang}, \binits{K.}},
+\bauthor{\bsnm{Hu}, \binits{Z.}},
+\bauthor{\bsnm{Guo}, \binits{X.}},
+\bauthor{\bsnm{Song}, \binits{X.}}:
+\batitle{{CircAST: Full-length Assembly and Quantification of Alternatively Spliced Isoforms in Circular RNAs}}.
+\bjtitle{Genomics Proteomics Bioinformatics}
+\bvolume{17}(\bissue{5}),
+\bfpage{522}--\blpage{534}
+(\byear{2019})
+\doiurl{10.1016/j.gpb.2019.03.004}
+\end{barticle}
+\endbibitem
+
+%%% 158
+\bibitem[\protect\citeauthoryear{Li and Wu}{2020}]{CircDBG}
+\begin{botherref}
+\oauthor{\bsnm{Li}, \binits{X.}},
+\oauthor{\bsnm{Wu}, \binits{Y.}}:
+{Detecting circular RNA from high-throughput sequence data with de Bruijn graph}.
+BMC Genomics
+\textbf{21}(Suppl 1)
+(2020)
+\doiurl{10.1186/s12864-019-6154-7}
+\end{botherref}
+\endbibitem
+
+%%% 159
+\bibitem[\protect\citeauthoryear{Zhang et~al.}{2020}]{circLGB-circMRT}
+\begin{botherref}
+\oauthor{\bsnm{Zhang}, \binits{G.}},
+\oauthor{\bsnm{Deng}, \binits{Y.}},
+\oauthor{\bsnm{Liu}, \binits{Q.}},
+\oauthor{\bsnm{Ye}, \binits{B.}},
+\oauthor{\bsnm{Dai}, \binits{Z.}},
+\oauthor{\bsnm{Chen}, \binits{Y.}},
+\oauthor{\bsnm{Dai}, \binits{X.}}:
+{Identifying Circular RNA and Predicting Its Regulatory Interactions by Machine Learning}.
+Front. Genet.
+\textbf{11}
+(2020)
+\doiurl{10.3389/fgene.2020.00655}
+\end{botherref}
+\endbibitem
+
+%%% 160
+\bibitem[\protect\citeauthoryear{Li et~al.}{2018}]{CircMarker}
+\begin{barticle}
+\bauthor{\bsnm{Li}, \binits{X.}},
+\bauthor{\bsnm{Chu}, \binits{C.}},
+\bauthor{\bsnm{Pei}, \binits{J.}},
+\bauthor{\bsnm{M{\ifmmode\u{a}\else\u{a}\fi}ndoiu}, \binits{I.}},
+\bauthor{\bsnm{Wu}, \binits{Y.}}:
+\batitle{{CircMarker: a fast and accurate algorithm for circular RNA detection}}.
+\bjtitle{BMC Genomics}
+\bvolume{19}(\bissue{6}),
+\bfpage{79}--\blpage{87}
+(\byear{2018})
+\doiurl{10.1186/s12864-018-4926-0}
+\end{barticle}
+\endbibitem
+
+%%% 161
+\bibitem[\protect\citeauthoryear{Meng et~al.}{2017}]{CircPro}
+\begin{barticle}
+\bauthor{\bsnm{Meng}, \binits{X.}},
+\bauthor{\bsnm{Chen}, \binits{Q.}},
+\bauthor{\bsnm{Zhang}, \binits{P.}},
+\bauthor{\bsnm{Chen}, \binits{M.}}:
+\batitle{{CircPro: an integrated tool for the identification of circRNAs with protein-coding potential}}.
+\bjtitle{Bioinformatics}
+\bvolume{33}(\bissue{20}),
+\bfpage{3314}--\blpage{3316}
+(\byear{2017})
+\doiurl{10.1093/bioinformatics/btx446}
+\end{barticle}
+\endbibitem
+
+%%% 162
+\bibitem[\protect\citeauthoryear{Jia et~al.}{2019}]{circRNAFisher}
+\begin{barticle}
+\bauthor{\bsnm{Jia}, \binits{G.-y.}},
+\bauthor{\bsnm{Wang}, \binits{D.-l.}},
+\bauthor{\bsnm{Xue}, \binits{M.-z.}},
+\bauthor{\bsnm{Liu}, \binits{Y.-w.}},
+\bauthor{\bsnm{Pei}, \binits{Y.-c.}},
+\bauthor{\bsnm{Yang}, \binits{Y.-q.}},
+\bauthor{\bsnm{Xu}, \binits{J.-m.}},
+\bauthor{\bsnm{Liang}, \binits{Y.-c.}},
+\bauthor{\bsnm{Wang}, \binits{P.}}:
+\batitle{{CircRNAFisher: a systematic computational approach for de novo circular RNA identification}}.
+\bjtitle{Acta Pharmacol. Sin.}
+\bvolume{40}(\bissue{1}),
+\bfpage{55}
+(\byear{2019})
+\doiurl{10.1038/s41401-018-0063-1}
+\end{barticle}
+\endbibitem
+
+%%% 163
+\bibitem[\protect\citeauthoryear{Wang and Lei}{2022}]{CirRBP}
+\begin{botherref}
+\oauthor{\bsnm{Wang}, \binits{Z.}},
+\oauthor{\bsnm{Lei}, \binits{X.}}:
+{A web server for identifying circRNA-RBP variable-length binding sites based on stacked generalization ensemble deep learning network}.
+Methods
+\textbf{205:179-190.}
+(2022)
+\doiurl{10.1016/j.ymeth.2022.06.014}
+{\href{https://arxiv.org/abs/35810958}{{35810958}}}
+\end{botherref}
+\endbibitem
+
+%%% 164
+\bibitem[\protect\citeauthoryear{Zhang et~al.}{2019}]{CRIP}
+\begin{barticle}
+\bauthor{\bsnm{Zhang}, \binits{K.}},
+\bauthor{\bsnm{Pan}, \binits{X.}},
+\bauthor{\bsnm{Yang}, \binits{Y.}},
+\bauthor{\bsnm{Shen}, \binits{H.-B.}}:
+\batitle{{CRIP: predicting circRNA{\textendash}RBP-binding sites using a codon-based encoding and hybrid deep neural networks}}.
+\bjtitle{Cold Spring Harbor Lab}
+(\byear{2019})
+\doiurl{10.1261/rna.070565.119}
+\end{barticle}
+\endbibitem
+
+%%% 165
+\bibitem[\protect\citeauthoryear{Stefanov and Meyer}{2023}]{CYCLeR}
+\begin{barticle}
+\bauthor{\bsnm{Stefanov}, \binits{S.R.}},
+\bauthor{\bsnm{Meyer}, \binits{I.M.}}:
+\batitle{{CYCLeR{\ifmmode---\else\textemdash\fi}a novel tool for the full isoform assembly and quantification of circRNAs}}.
+\bjtitle{Nucleic Acids Res.}
+\bvolume{51}(\bissue{2}),
+\bfpage{10}
+(\byear{2023})
+\doiurl{10.1093/nar/gkac1100}
+\end{barticle}
+\endbibitem
+
+%%% 166
+\bibitem[\protect\citeauthoryear{Rozowsky et~al.}{2019}]{exceRpt}
+\begin{barticle}
+\bauthor{\bsnm{Rozowsky}, \binits{J.}},
+\bauthor{\bsnm{Kitchen}, \binits{R.R.}},
+\bauthor{\bsnm{Park}, \binits{J.J.}},
+\bauthor{\bsnm{Galeev}, \binits{T.R.}},
+\bauthor{\bsnm{Diao}, \binits{J.}},
+\bauthor{\bsnm{Warrell}, \binits{J.}},
+\bauthor{\bsnm{Thistlethwaite}, \binits{W.}},
+\bauthor{\bsnm{Subramanian}, \binits{S.L.}},
+\bauthor{\bsnm{Milosavljevic}, \binits{A.}},
+\bauthor{\bsnm{Gerstein}, \binits{M.}}:
+\batitle{{exceRpt: A Comprehensive Analytic Platform for Extracellular RNA Profiling}}.
+\bjtitle{Cell Syst.}
+\bvolume{8}(\bissue{4}),
+\bfpage{352}--\blpage{3573}
+(\byear{2019})
+\doiurl{10.1016/j.cels.2019.03.004}
+{\href{https://arxiv.org/abs/30956140}{{30956140}}}
+\end{barticle}
+\endbibitem
+
+%%% 167
+\bibitem[\protect\citeauthoryear{Wang}{2018}]{hppRNA}
+\begin{barticle}
+\bauthor{\bsnm{Wang}, \binits{D.}}:
+\batitle{{hppRNA{\ifmmode---\else\textemdash\fi}a Snakemake-based handy parameter-free pipeline for RNA-Seq analysis of numerous samples}}.
+\bjtitle{Briefings Bioinf.}
+\bvolume{19}(\bissue{4}),
+\bfpage{622}--\blpage{626}
+(\byear{2018})
+\doiurl{10.1093/bib/bbw143}
+\end{barticle}
+\endbibitem
+
+%%% 168
+\bibitem[\protect\citeauthoryear{Andr{\ifmmode\acute{e}\else\'{e}\fi}s-Le{\ifmmode\acute{o}\else\'{o}\fi}n et~al.}{2016}]{miARma}
+\begin{barticle}
+\bauthor{\bsnm{Andr{\ifmmode\acute{e}\else\'{e}\fi}s-Le{\ifmmode\acute{o}\else\'{o}\fi}n}, \binits{E.}},
+\bauthor{\bsnm{N{\ifmmode\acute{u}\else\'{u}\fi}{\ifmmode\tilde{n}\else\~{n}\fi}ez-Torres}, \binits{R.}},
+\bauthor{\bsnm{Rojas}, \binits{A.M.}}:
+\batitle{{miARma-Seq: a comprehensive tool for miRNA, mRNA and circRNA analysis}}.
+\bjtitle{Sci. Rep.}
+\bvolume{6}(\bissue{25749}),
+\bfpage{1}--\blpage{8}
+(\byear{2016})
+\doiurl{10.1038/srep25749}
+\end{barticle}
+\endbibitem
+
+%%% 169
+\bibitem[\protect\citeauthoryear{Yin et~al.}{2021}]{Pcirc}
+\begin{barticle}
+\bauthor{\bsnm{Yin}, \binits{S.}},
+\bauthor{\bsnm{Tian}, \binits{X.}},
+\bauthor{\bsnm{Zhang}, \binits{J.}},
+\bauthor{\bsnm{Sun}, \binits{P.}},
+\bauthor{\bsnm{Li}, \binits{G.}}:
+\batitle{{PCirc: random forest-based plant circRNA identification software}}.
+\bjtitle{BMC Bioinf.}
+\bvolume{22}(\bissue{1}),
+\bfpage{1}--\blpage{14}
+(\byear{2021})
+\doiurl{10.1186/s12859-020-03944-1}
+\end{barticle}
+\endbibitem
+
+%%% 170
+\bibitem[\protect\citeauthoryear{Chen et~al.}{2016}]{PcircRNA_finder}
+\begin{barticle}
+\bauthor{\bsnm{Chen}, \binits{L.}},
+\bauthor{\bsnm{Yu}, \binits{Y.}},
+\bauthor{\bsnm{Zhang}, \binits{X.}},
+\bauthor{\bsnm{Liu}, \binits{C.}},
+\bauthor{\bsnm{Ye}, \binits{C.}},
+\bauthor{\bsnm{Fan}, \binits{L.}}:
+\batitle{{PcircRNA{$\_$}finder: a software for circRNA prediction in plants}}.
+\bjtitle{Bioinformatics}
+\bvolume{32}(\bissue{22}),
+\bfpage{3528}--\blpage{3529}
+(\byear{2016})
+\doiurl{10.1093/bioinformatics/btw496}
+\end{barticle}
+\endbibitem
+
+%%% 171
+\bibitem[\protect\citeauthoryear{Gao et~al.}{2018}]{PRAPI}
+\begin{barticle}
+\bauthor{\bsnm{Gao}, \binits{Y.}},
+\bauthor{\bsnm{Wang}, \binits{H.}},
+\bauthor{\bsnm{Zhang}, \binits{H.}},
+\bauthor{\bsnm{Wang}, \binits{Y.}},
+\bauthor{\bsnm{Chen}, \binits{J.}},
+\bauthor{\bsnm{Gu}, \binits{L.}}:
+\batitle{{PRAPI: post-transcriptional regulation analysis pipeline for Iso-Seq}}.
+\bjtitle{Bioinformatics}
+\bvolume{34}(\bissue{9}),
+\bfpage{1580}--\blpage{1582}
+(\byear{2018})
+\doiurl{10.1093/bioinformatics/btx830}
+\end{barticle}
+\endbibitem
+
+%%% 172
+\bibitem[\protect\citeauthoryear{Liu et~al.}{2016}]{PredcircRNATool}
+\begin{barticle}
+\bauthor{\bsnm{Liu}, \binits{Z.}},
+\bauthor{\bsnm{Han}, \binits{J.}},
+\bauthor{\bsnm{Lv}, \binits{H.}},
+\bauthor{\bsnm{Liu}, \binits{J.}},
+\bauthor{\bsnm{Liu}, \binits{R.}}:
+\batitle{{Computational identification of circular RNAs based on conformational and thermodynamic properties in the flanking introns}}.
+\bjtitle{Comput. Biol. Chem.}
+\bvolume{61},
+\bfpage{221}--\blpage{225}
+(\byear{2016})
+\doiurl{10.1016/j.compbiolchem.2016.02.003}
+\end{barticle}
+\endbibitem
+
+%%% 173
+\bibitem[\protect\citeauthoryear{Mangul et~al.}{2018}]{ROP}
+\begin{barticle}
+\bauthor{\bsnm{Mangul}, \binits{S.}},
+\bauthor{\bsnm{Yang}, \binits{H.T.}},
+\bauthor{\bsnm{Strauli}, \binits{N.}},
+\bauthor{\bsnm{Gruhl}, \binits{F.}},
+\bauthor{\bsnm{Porath}, \binits{H.T.}},
+\bauthor{\bsnm{Hsieh}, \binits{K.}},
+\bauthor{\bsnm{Chen}, \binits{L.}},
+\bauthor{\bsnm{Daley}, \binits{T.}},
+\bauthor{\bsnm{Christenson}, \binits{S.}},
+\bauthor{\bsnm{Wesolowska-Andersen}, \binits{A.}},
+\bauthor{\bsnm{Spreafico}, \binits{R.}},
+\bauthor{\bsnm{Rios}, \binits{C.}},
+\bauthor{\bsnm{Eng}, \binits{C.}},
+\bauthor{\bsnm{Smith}, \binits{A.D.}},
+\bauthor{\bsnm{Hernandez}, \binits{R.D.}},
+\bauthor{\bsnm{Ophoff}, \binits{R.A.}},
+\bauthor{\bsnm{Santana}, \binits{J.R.}},
+\bauthor{\bsnm{Levanon}, \binits{E.Y.}},
+\bauthor{\bsnm{Woodruff}, \binits{P.G.}},
+\bauthor{\bsnm{Burchard}, \binits{E.}},
+\bauthor{\bsnm{Seibold}, \binits{M.A.}},
+\bauthor{\bsnm{Shifman}, \binits{S.}},
+\bauthor{\bsnm{Eskin}, \binits{E.}},
+\bauthor{\bsnm{Zaitlen}, \binits{N.}}:
+\batitle{{ROP: dumpster diving in RNA-sequencing to find the source of 1 trillion reads across diverse adult human tissues}}.
+\bjtitle{Genome Biol.}
+\bvolume{19}(\bissue{1}),
+\bfpage{1}--\blpage{12}
+(\byear{2018})
+\doiurl{10.1186/s13059-018-1403-7}
+\end{barticle}
+\endbibitem
+
+%%% 174
+\bibitem[\protect\citeauthoryear{Akers et~al.}{2018}]{STARChip}
+\begin{barticle}
+\bauthor{\bsnm{Akers}, \binits{N.K.}},
+\bauthor{\bsnm{Schadt}, \binits{E.E.}},
+\bauthor{\bsnm{Losic}, \binits{B.}}:
+\batitle{{STAR Chimeric Post for rapid detection of circular RNA and fusion transcripts}}.
+\bjtitle{Bioinformatics}
+\bvolume{34}(\bissue{14}),
+\bfpage{2364}--\blpage{2370}
+(\byear{2018})
+\doiurl{10.1093/bioinformatics/bty091}
+\end{barticle}
+\endbibitem
+
+%%% 175
+\bibitem[\protect\citeauthoryear{Humphreys et~al.}{2019}]{Ularcirc}
+\begin{barticle}
+\bauthor{\bsnm{Humphreys}, \binits{D.T.}},
+\bauthor{\bsnm{Fossat}, \binits{N.}},
+\bauthor{\bsnm{Demuth}, \binits{M.}},
+\bauthor{\bsnm{Tam}, \binits{P.P.L.}},
+\bauthor{\bsnm{Ho}, \binits{J.W.K.}}:
+\batitle{{Ularcirc: visualization and enhanced analysis of circular RNAs via back and canonical forward splicing}}.
+\bjtitle{Nucleic Acids Res.}
+\bvolume{47}(\bissue{20}),
+\bfpage{123}
+(\byear{2019})
+\doiurl{10.1093/nar/gkz718}
+\end{barticle}
+\endbibitem
+
+%%% 176
+\bibitem[\protect\citeauthoryear{Love et~al.}{2014}]{Love2014Dec}
+\begin{barticle}
+\bauthor{\bsnm{Love}, \binits{M.I.}},
+\bauthor{\bsnm{Huber}, \binits{W.}},
+\bauthor{\bsnm{Anders}, \binits{S.}}:
+\batitle{{Moderated estimation of fold change and dispersion for RNA-seq data with DESeq2}}.
+\bjtitle{Genome Biol.}
+\bvolume{15}(\bissue{12}),
+\bfpage{1}--\blpage{21}
+(\byear{2014})
+\doiurl{10.1186/s13059-014-0550-8}
+\end{barticle}
+\endbibitem
+
+%%% 177
+\bibitem[\protect\citeauthoryear{Robinson et~al.}{2010}]{Robinson2010Jan}
+\begin{barticle}
+\bauthor{\bsnm{Robinson}, \binits{M.D.}},
+\bauthor{\bsnm{McCarthy}, \binits{D.J.}},
+\bauthor{\bsnm{Smyth}, \binits{G.K.}}:
+\batitle{{edgeR: a Bioconductor package for differential expression analysis of digital gene expression data}}.
+\bjtitle{Bioinformatics}
+\bvolume{26}(\bissue{1}),
+\bfpage{139}
+(\byear{2010})
+\doiurl{10.1093/bioinformatics/btp616}
+\end{barticle}
+\endbibitem
+
+%%% 178
+\bibitem[\protect\citeauthoryear{Law et~al.}{2014}]{Law2014Feb}
+\begin{barticle}
+\bauthor{\bsnm{Law}, \binits{C.W.}},
+\bauthor{\bsnm{Chen}, \binits{Y.}},
+\bauthor{\bsnm{Shi}, \binits{W.}},
+\bauthor{\bsnm{Smyth}, \binits{G.K.}}:
+\batitle{{voom: precision weights unlock linear model analysis tools for RNA-seq read counts}}.
+\bjtitle{Genome Biol.}
+\bvolume{15}(\bissue{2}),
+\bfpage{1}--\blpage{17}
+(\byear{2014})
+\doiurl{10.1186/gb-2014-15-2-r29}
+\end{barticle}
+\endbibitem
+
+%%% 179
+\bibitem[\protect\citeauthoryear{Buratin et~al.}{2022}]{Buratin2022}
+\begin{barticle}
+\bauthor{\bsnm{Buratin}, \binits{A.}},
+\bauthor{\bsnm{Romualdi}, \binits{C.}},
+\bauthor{\bsnm{Bortoluzzi}, \binits{S.}},
+\bauthor{\bsnm{Gaffo}, \binits{E.}}:
+\batitle{{Detecting differentially expressed circular RNAs from multiple quantification methods using a generalized linear mixed model}}.
+\bjtitle{Comput. Struct. Biotechnol. J.}
+\bvolume{20},
+\bfpage{2495}
+(\byear{2022})
+\doiurl{10.1016/j.csbj.2022.05.026}
+\end{barticle}
+\endbibitem
+
+%%% 180
+\bibitem[\protect\citeauthoryear{Fay}{2022}]{Fay2022May}
+\begin{botherref}
+\oauthor{\bsnm{Fay}, \binits{M.}}:
+{rateratio.test: Exact Rate Ratio Test}.
+[Online; accessed 25. Mar. 2024]
+(2022).
+\url{https://rdrr.io/cran/rateratio.test}
+\end{botherref}
+\endbibitem
+
+%%% 181
+\bibitem[\protect\citeauthoryear{Lancelot and Renaud}{2022}]{Lancelot2022Apr}
+\begin{botherref}
+\oauthor{\bsnm{Lancelot}, \binits{M.L.}},
+\oauthor{\bsnm{Renaud}}:
+{aod: Analysis of Overdispersed Data}.
+[Online; accessed 25. Mar. 2024]
+(2022).
+\url{https://rdrr.io/cran/aod}
+\end{botherref}
+\endbibitem
+
+%%% 182
+\bibitem[\protect\citeauthoryear{Xia et~al.}{2018}]{CSCD}
+\begin{barticle}
+\bauthor{\bsnm{Xia}, \binits{S.}},
+\bauthor{\bsnm{Feng}, \binits{J.}},
+\bauthor{\bsnm{Chen}, \binits{K.}},
+\bauthor{\bsnm{Ma}, \binits{Y.}},
+\bauthor{\bsnm{Gong}, \binits{J.}},
+\bauthor{\bsnm{Cai}, \binits{F.}},
+\bauthor{\bsnm{Jin}, \binits{Y.}},
+\bauthor{\bsnm{Gao}, \binits{Y.}},
+\bauthor{\bsnm{Xia}, \binits{L.}},
+\bauthor{\bsnm{Chang}, \binits{H.}},
+\bauthor{\bsnm{Wei}, \binits{L.}},
+\bauthor{\bsnm{Han}, \binits{L.}},
+\bauthor{\bsnm{He}, \binits{C.}}:
+\batitle{{CSCD: a database for cancer-specific circular RNAs}}.
+\bjtitle{Nucleic Acids Res.}
+\bvolume{46}(\bissue{D1}),
+\bfpage{925}--\blpage{929}
+(\byear{2018})
+\doiurl{10.1093/nar/gkx863}
+{\href{https://arxiv.org/abs/29036403}{{29036403}}}
+\end{barticle}
+\endbibitem
+
+%%% 183
+\bibitem[\protect\citeauthoryear{Li et~al.}{2014}]{starbase}
+\begin{barticle}
+\bauthor{\bsnm{Li}, \binits{J.-H.}},
+\bauthor{\bsnm{Liu}, \binits{S.}},
+\bauthor{\bsnm{Zhou}, \binits{H.}},
+\bauthor{\bsnm{Qu}, \binits{L.-H.}},
+\bauthor{\bsnm{Yang}, \binits{J.-H.}}:
+\batitle{{starBase v2.0: decoding miRNA-ceRNA, miRNA-ncRNA and protein{\textendash}RNA interaction networks from large-scale CLIP-Seq data}}.
+\bjtitle{Nucleic Acids Res.}
+\bvolume{42}(\bissue{D1}),
+\bfpage{92}--\blpage{97}
+(\byear{2014})
+\doiurl{10.1093/nar/gkt1248}
+\end{barticle}
+\endbibitem
+
+%%% 184
+\bibitem[\protect\citeauthoryear{Kozomara et~al.}{2019}]{mirbase}
+\begin{barticle}
+\bauthor{\bsnm{Kozomara}, \binits{A.}},
+\bauthor{\bsnm{Birgaoanu}, \binits{M.}},
+\bauthor{\bsnm{Griffiths-Jones}, \binits{S.}}:
+\batitle{{miRBase: from microRNA sequences to function}}.
+\bjtitle{Nucleic Acids Res.}
+\bvolume{47}(\bissue{D1}),
+\bfpage{155}--\blpage{162}
+(\byear{2019})
+\doiurl{10.1093/nar/gky1141}
+\end{barticle}
+\endbibitem
+
+%%% 185
+\bibitem[\protect\citeauthoryear{Hsu et~al.}{2011}]{mirtarbase}
+\begin{barticle}
+\bauthor{\bsnm{Hsu}, \binits{S.-D.}},
+\bauthor{\bsnm{Lin}, \binits{F.-M.}},
+\bauthor{\bsnm{Wu}, \binits{W.-Y.}},
+\bauthor{\bsnm{Liang}, \binits{C.}},
+\bauthor{\bsnm{Huang}, \binits{W.-C.}},
+\bauthor{\bsnm{Chan}, \binits{W.-L.}},
+\bauthor{\bsnm{Tsai}, \binits{W.-T.}},
+\bauthor{\bsnm{Chen}, \binits{G.-Z.}},
+\bauthor{\bsnm{Lee}, \binits{C.-J.}},
+\bauthor{\bsnm{Chiu}, \binits{C.-M.}},
+\bauthor{\bsnm{Chien}, \binits{C.-H.}},
+\bauthor{\bsnm{Wu}, \binits{M.-C.}},
+\bauthor{\bsnm{Huang}, \binits{C.-Y.}},
+\bauthor{\bsnm{Tsou}, \binits{A.-P.}},
+\bauthor{\bsnm{Huang}, \binits{H.-D.}}:
+\batitle{{miRTarBase: a database curates experimentally validated microRNA-target interactions}}.
+\bjtitle{Nucleic Acids Res.}
+\bvolume{39}(\bissue{Database}),
+(\byear{2011})
+\doiurl{10.1093/nar/gkq1107}
+{\href{https://arxiv.org/abs/21071411}{{21071411}}}
+\end{barticle}
+\endbibitem
+
+%%% 186
+\bibitem[\protect\citeauthoryear{Chang et~al.}{2020}]{mirnet}
+\begin{barticle}
+\bauthor{\bsnm{Chang}, \binits{L.}},
+\bauthor{\bsnm{Zhou}, \binits{G.}},
+\bauthor{\bsnm{Soufan}, \binits{O.}},
+\bauthor{\bsnm{Xia}, \binits{J.}}:
+\batitle{{miRNet 2.0: network-based visual analytics for miRNA functional analysis and systems biology}}.
+\bjtitle{Nucleic Acids Res.}
+\bvolume{48}(\bissue{W1}),
+\bfpage{244}--\blpage{251}
+(\byear{2020})
+\doiurl{10.1093/nar/gkaa467}
+\end{barticle}
+\endbibitem
+
+%%% 187
+\bibitem[\protect\citeauthoryear{Agarwal et~al.}{2015}]{Targetscan}
+\begin{barticle}
+\bauthor{\bsnm{Agarwal}, \binits{V.}},
+\bauthor{\bsnm{Bell}, \binits{G.W.}},
+\bauthor{\bsnm{Nam}, \binits{J.-W.}},
+\bauthor{\bsnm{Bartel}, \binits{D.P.}}:
+\batitle{{Predicting effective microRNA target sites in mammalian mRNAs}}.
+\bjtitle{eLife}
+(\byear{2015})
+\doiurl{10.7554/eLife.05005}
+\end{barticle}
+\endbibitem
+
+%%% 188
+\bibitem[\protect\citeauthoryear{Enright et~al.}{2003}]{miranda}
+\begin{barticle}
+\bauthor{\bsnm{Enright}, \binits{A.J.}},
+\bauthor{\bsnm{John}, \binits{B.}},
+\bauthor{\bsnm{Gaul}, \binits{U.}},
+\bauthor{\bsnm{Tuschl}, \binits{T.}},
+\bauthor{\bsnm{Sander}, \binits{C.}},
+\bauthor{\bsnm{Marks}, \binits{D.S.}}:
+\batitle{{MicroRNA targets in Drosophila}}.
+\bjtitle{Genome Biol.}
+\bvolume{5}(\bissue{1}),
+\bfpage{1}--\blpage{14}
+(\byear{2003})
+\doiurl{10.1186/gb-2003-5-1-r1}
+\end{barticle}
+\endbibitem
+
+%%% 189
+\bibitem[\protect\citeauthoryear{Shannon et~al.}{2003}]{cytoscape}
+\begin{barticle}
+\bauthor{\bsnm{Shannon}, \binits{P.}},
+\bauthor{\bsnm{Markiel}, \binits{A.}},
+\bauthor{\bsnm{Ozier}, \binits{O.}},
+\bauthor{\bsnm{Baliga}, \binits{N.S.}},
+\bauthor{\bsnm{Wang}, \binits{J.T.}},
+\bauthor{\bsnm{Ramage}, \binits{D.}},
+\bauthor{\bsnm{Amin}, \binits{N.}},
+\bauthor{\bsnm{Schwikowski}, \binits{B.}},
+\bauthor{\bsnm{Ideker}, \binits{T.}}:
+\batitle{{Cytoscape: A Software Environment for Integrated Models of Biomolecular Interaction Networks}}.
+\bjtitle{Genome Res.}
+\bvolume{13}(\bissue{11}),
+\bfpage{2498}
+(\byear{2003})
+\doiurl{10.1101/gr.1239303}
+\end{barticle}
+\endbibitem
+
+%%% 190
+\bibitem[\protect\citeauthoryear{Fei et~al.}{2017}]{Fei2017Jun}
+\begin{barticle}
+\bauthor{\bsnm{Fei}, \binits{T.}},
+\bauthor{\bsnm{Chen}, \binits{Y.}},
+\bauthor{\bsnm{Xiao}, \binits{T.}},
+\bauthor{\bsnm{Li}, \binits{W.}},
+\bauthor{\bsnm{Cato}, \binits{L.}},
+\bauthor{\bsnm{Zhang}, \binits{P.}},
+\bauthor{\bsnm{Cotter}, \binits{M.B.}},
+\bauthor{\bsnm{Bowden}, \binits{M.}},
+\bauthor{\bsnm{Lis}, \binits{R.T.}},
+\bauthor{\bsnm{Zhao}, \binits{S.G.}},
+\bauthor{\bsnm{Wu}, \binits{Q.}},
+\bauthor{\bsnm{Feng}, \binits{F.Y.}},
+\bauthor{\bsnm{Loda}, \binits{M.}},
+\bauthor{\bsnm{He}, \binits{H.H.}},
+\bauthor{\bsnm{Liu}, \binits{X.S.}},
+\bauthor{\bsnm{Brown}, \binits{M.}}:
+\batitle{{Genome-wide CRISPR screen identifies HNRNPL as a prostate cancer dependency regulating RNA splicing}}.
+\bjtitle{Proc. Natl. Acad. Sci. U.S.A.}
+\bvolume{114}(\bissue{26}),
+\bfpage{5207}--\blpage{5215}
+(\byear{2017})
+\doiurl{10.1073/pnas.1617467114}
+\end{barticle}
+\endbibitem
+
+%%% 191
+\bibitem[\protect\citeauthoryear{Khan et~al.}{2016}]{Khan2016Oct}
+\begin{botherref}
+\oauthor{\bsnm{Khan}, \binits{M.A.F.}},
+\oauthor{\bsnm{Reckman}, \binits{Y.J.}},
+\oauthor{\bsnm{Aufiero}, \binits{S.}},
+\oauthor{\bsnm{Hoogenhof}, \binits{M.M.G.}},
+\oauthor{\bsnm{Made}, \binits{I.}},
+\oauthor{\bsnm{Beqqali}, \binits{A.}},
+\oauthor{\bsnm{Koolbergen}, \binits{D.R.}},
+\oauthor{\bsnm{Rasmussen}, \binits{T.B.}},
+\oauthor{\bsnm{Velden}, \binits{J.}},
+\oauthor{\bsnm{Creemers}, \binits{E.E.}},
+\oauthor{\bsnm{Pinto}, \binits{Y.M.}}:
+{RBM20 Regulates Circular RNA Production From the Titin Gene}.
+Circ. Res.
+(2016)
+\end{botherref}
+\endbibitem
+
+%%% 192
+\bibitem[\protect\citeauthoryear{Akta{\ifmmode\mbox{\c{s}}\else\c{s}\fi} et~al.}{2017}]{Aktas2017Apr}
+\begin{barticle}
+\bauthor{\bsnm{Akta{\ifmmode\mbox{\c{s}}\else\c{s}\fi}}, \binits{T.}},
+\bauthor{\bsnm{Av{\ifmmode\mbox{\c{s}}\else\c{s}\fi}ar~Il{\ifmmode\imath\else\i\fi}k}, \binits{{\ifmmode\dot{I}\else\. {I}\fi}.}},
+\bauthor{\bsnm{Maticzka}, \binits{D.}},
+\bauthor{\bsnm{Bhardwaj}, \binits{V.}},
+\bauthor{\bsnm{Pessoa~Rodrigues}, \binits{C.}},
+\bauthor{\bsnm{Mittler}, \binits{G.}},
+\bauthor{\bsnm{Manke}, \binits{T.}},
+\bauthor{\bsnm{Backofen}, \binits{R.}},
+\bauthor{\bsnm{Akhtar}, \binits{A.}}:
+\batitle{{DHX9 suppresses RNA processing defects originating from the Alu invasion of the human genome}}.
+\bjtitle{Nature}
+\bvolume{544},
+\bfpage{115}--\blpage{119}
+(\byear{2017})
+\doiurl{10.1038/nature21715}
+\end{barticle}
+\endbibitem
+
+%%% 193
+\bibitem[\protect\citeauthoryear{Abdelmohsen et~al.}{2017}]{Abdelmohsen2017Feb}
+\begin{botherref}
+\oauthor{\bsnm{Abdelmohsen}, \binits{K.}},
+\oauthor{\bsnm{Panda}, \binits{A.C.}},
+\oauthor{\bsnm{Munk}, \binits{R.}},
+\oauthor{\bsnm{Grammatikakis}, \binits{I.}},
+\oauthor{\bsnm{Dudekula}, \binits{D.B.}},
+\oauthor{\bsnm{De}, \binits{S.}},
+\oauthor{\bsnm{Kim}, \binits{J.}},
+\oauthor{\bsnm{Noh}, \binits{J.H.}},
+\oauthor{\bsnm{Kim}, \binits{K.M.}},
+\oauthor{\bsnm{Martindale}, \binits{J.L.}},
+\oauthor{\bsnm{Gorospe}, \binits{M.}}:
+{Identification of HuR target circular RNAs uncovers suppression of PABPN1 translation by CircPABPN1}.
+RNA Biol.,
+361--369
+(2017)
+\end{botherref}
+\endbibitem
+
+%%% 194
+\bibitem[\protect\citeauthoryear{Du et~al.}{2016}]{Du2016Apr}
+\begin{barticle}
+\bauthor{\bsnm{Du}, \binits{W.W.}},
+\bauthor{\bsnm{Yang}, \binits{W.}},
+\bauthor{\bsnm{Liu}, \binits{E.}},
+\bauthor{\bsnm{Yang}, \binits{Z.}},
+\bauthor{\bsnm{Dhaliwal}, \binits{P.}},
+\bauthor{\bsnm{Yang}, \binits{B.B.}}:
+\batitle{{Foxo3 circular RNA retards cell cycle progression via forming ternary complexes with p21 and CDK2}}.
+\bjtitle{Nucleic Acids Res.}
+\bvolume{44}(\bissue{6}),
+\bfpage{2846}--\blpage{2858}
+(\byear{2016})
+\doiurl{10.1093/nar/gkw027}
+\end{barticle}
+\endbibitem
+
+%%% 195
+\bibitem[\protect\citeauthoryear{Zhang et~al.}{2020}]{Clirc}
+\begin{barticle}
+\bauthor{\bsnm{Zhang}, \binits{M.}},
+\bauthor{\bsnm{Wang}, \binits{T.}},
+\bauthor{\bsnm{Xiao}, \binits{G.}},
+\bauthor{\bsnm{Xie}, \binits{Y.}}:
+\batitle{{Large-Scale Profiling of RBP-circRNA Interactions from Public CLIP-Seq Datasets}}.
+\bjtitle{Genes}
+\bvolume{11}(\bissue{1}),
+\bfpage{54}
+(\byear{2020})
+\doiurl{10.3390/genes11010054}
+\end{barticle}
+\endbibitem
+
+%%% 196
+\bibitem[\protect\citeauthoryear{Dudekula et~al.}{2016}]{circinteractome}
+\begin{barticle}
+\bauthor{\bsnm{Dudekula}, \binits{D.B.}},
+\bauthor{\bsnm{Panda}, \binits{A.C.}},
+\bauthor{\bsnm{Grammatikakis}, \binits{I.}},
+\bauthor{\bsnm{De}, \binits{S.}},
+\bauthor{\bsnm{Abdelmohsen}, \binits{K.}},
+\bauthor{\bsnm{Gorospe}, \binits{M.}}:
+\batitle{{CircInteractome: A web tool for exploring circular RNAs and their interacting proteins and microRNAs}}.
+\bjtitle{RNA Biol.}
+\bvolume{13}(\bissue{1}),
+\bfpage{34}--\blpage{42}
+(\byear{2016})
+\doiurl{10.1080/15476286.2015.1128065}
+{\href{https://arxiv.org/abs/26669964}{{26669964}}}
+\end{barticle}
+\endbibitem
+
+%%% 197
+\bibitem[\protect\citeauthoryear{}{}]{cirRBP-website}
+\begin{botherref}
+{CircRNA-Binding Proteins Site Prediction}.
+\url{http://www.bioinformatics.team/}.
+Accessed: 2023-09-01
+\end{botherref}
+\endbibitem
+
+%%% 198
+\bibitem[\protect\citeauthoryear{Maass et~al.}{2017}]{Maass2017Nov}
+\begin{barticle}
+\bauthor{\bsnm{Maass}, \binits{P.G.}},
+\bauthor{\bsnm{Gla{\ifmmode\check{z}\else\v{z}\fi}ar}, \binits{P.}},
+\bauthor{\bsnm{Memczak}, \binits{S.}},
+\bauthor{\bsnm{Dittmar}, \binits{G.}},
+\bauthor{\bsnm{Hollfinger}, \binits{I.}},
+\bauthor{\bsnm{Schreyer}, \binits{L.}},
+\bauthor{\bsnm{Sauer}, \binits{A.V.}},
+\bauthor{\bsnm{Toka}, \binits{O.}},
+\bauthor{\bsnm{Aiuti}, \binits{A.}},
+\bauthor{\bsnm{Luft}, \binits{F.C.}},
+\bauthor{\bsnm{Rajewsky}, \binits{N.}}:
+\batitle{{A map of human circular RNAs in clinically relevant tissues}}.
+\bjtitle{J. Mol. Med.}
+\bvolume{95}(\bissue{11}),
+\bfpage{1179}--\blpage{1189}
+(\byear{2017})
+\doiurl{10.1007/s00109-017-1582-9}
+\end{barticle}
+\endbibitem
+
+%%% 199
+\bibitem[\protect\citeauthoryear{Feng et~al.}{2022}]{CSCD2}
+\begin{barticle}
+\bauthor{\bsnm{Feng}, \binits{J.}},
+\bauthor{\bsnm{Chen}, \binits{W.}},
+\bauthor{\bsnm{Dong}, \binits{X.}},
+\bauthor{\bsnm{Wang}, \binits{J.}},
+\bauthor{\bsnm{Mei}, \binits{X.}},
+\bauthor{\bsnm{Deng}, \binits{J.}},
+\bauthor{\bsnm{Yang}, \binits{S.}},
+\bauthor{\bsnm{Zhuo}, \binits{C.}},
+\bauthor{\bsnm{Huang}, \binits{X.}},
+\bauthor{\bsnm{Shao}, \binits{L.}},
+\bauthor{\bsnm{Zhang}, \binits{R.}},
+\bauthor{\bsnm{Guo}, \binits{J.}},
+\bauthor{\bsnm{Ma}, \binits{R.}},
+\bauthor{\bsnm{Liu}, \binits{J.}},
+\bauthor{\bsnm{Li}, \binits{F.}},
+\bauthor{\bsnm{Wu}, \binits{Y.}},
+\bauthor{\bsnm{Han}, \binits{L.}},
+\bauthor{\bsnm{He}, \binits{C.}}:
+\batitle{{CSCD2: an integrated interactional database of cancer-specific circular RNAs}}.
+\bjtitle{Nucleic Acids Res.}
+\bvolume{50}(\bissue{D1}),
+\bfpage{1179}--\blpage{1183}
+(\byear{2022})
+\doiurl{10.1093/nar/gkab830}
+\end{barticle}
+\endbibitem
+
+%%% 200
+\bibitem[\protect\citeauthoryear{Tang et~al.}{2019}]{TRCirc}
+\begin{barticle}
+\bauthor{\bsnm{Tang}, \binits{Z.}},
+\bauthor{\bsnm{Li}, \binits{X.}},
+\bauthor{\bsnm{Zhao}, \binits{J.}},
+\bauthor{\bsnm{Qian}, \binits{F.}},
+\bauthor{\bsnm{Feng}, \binits{C.}},
+\bauthor{\bsnm{Li}, \binits{Y.}},
+\bauthor{\bsnm{Zhang}, \binits{J.}},
+\bauthor{\bsnm{Jiang}, \binits{Y.}},
+\bauthor{\bsnm{Yang}, \binits{Y.}},
+\bauthor{\bsnm{Wang}, \binits{Q.}},
+\bauthor{\bsnm{Li}, \binits{C.}}:
+\batitle{{TRCirc: a resource for transcriptional regulation information of circRNAs}}.
+\bjtitle{Briefings Bioinf.}
+\bvolume{20}(\bissue{6}),
+\bfpage{2327}--\blpage{2333}
+(\byear{2019})
+\doiurl{10.1093/bib/bby083}
+{\href{https://arxiv.org/abs/30184150}{{30184150}}}
+\end{barticle}
+\endbibitem
+
+%%% 201
+\bibitem[\protect\citeauthoryear{Yao et~al.}{2018}]{circ2disease}
+\begin{barticle}
+\bauthor{\bsnm{Yao}, \binits{D.}},
+\bauthor{\bsnm{Zhang}, \binits{L.}},
+\bauthor{\bsnm{Zheng}, \binits{M.}},
+\bauthor{\bsnm{Sun}, \binits{X.}},
+\bauthor{\bsnm{Lu}, \binits{Y.}},
+\bauthor{\bsnm{Liu}, \binits{P.}}:
+\batitle{{Circ2Disease: a manually curated database of experimentally validated circRNAs in human disease}}.
+\bjtitle{Sci. Rep.}
+\bvolume{8}(\bissue{11018}),
+\bfpage{1}--\blpage{6}
+(\byear{2018})
+\doiurl{10.1038/s41598-018-29360-3}
+\end{barticle}
+\endbibitem
+
+%%% 202
+\bibitem[\protect\citeauthoryear{Chen et~al.}{2023}]{Chen2023Jan}
+\begin{barticle}
+\bauthor{\bsnm{Chen}, \binits{L.-L.}},
+\bauthor{\bsnm{Bindereif}, \binits{A.}},
+\bauthor{\bsnm{Bozzoni}, \binits{I.}},
+\bauthor{\bsnm{Chang}, \binits{H.Y.}},
+\bauthor{\bsnm{Matera}, \binits{A.G.}},
+\bauthor{\bsnm{Gorospe}, \binits{M.}},
+\bauthor{\bsnm{Hansen}, \binits{T.B.}},
+\bauthor{\bsnm{Kjems}, \binits{J.}},
+\bauthor{\bsnm{Ma}, \binits{X.-K.}},
+\bauthor{\bsnm{Pek}, \binits{J.W.}},
+\bauthor{\bsnm{Rajewsky}, \binits{N.}},
+\bauthor{\bsnm{Salzman}, \binits{J.}},
+\bauthor{\bsnm{Wilusz}, \binits{J.E.}},
+\bauthor{\bsnm{Yang}, \binits{L.}},
+\bauthor{\bsnm{Zhao}, \binits{F.}}:
+\batitle{{A guide to naming eukaryotic circular RNAs}}.
+\bjtitle{Nat. Cell Biol.}
+\bvolume{25},
+\bfpage{1}--\blpage{5}
+(\byear{2023})
+\doiurl{10.1038/s41556-022-01066-9}
+\end{barticle}
+\endbibitem
+
+%%% 203
+\bibitem[\protect\citeauthoryear{Wu et~al.}{2024}]{circatlas3}
+\begin{barticle}
+\bauthor{\bsnm{Wu}, \binits{W.}},
+\bauthor{\bsnm{Zhao}, \binits{F.}},
+\bauthor{\bsnm{Zhang}, \binits{J.}}:
+\batitle{{circAtlas 3.0: a gateway to 3 million curated vertebrate circular RNAs based on a standardized nomenclature scheme}}.
+\bjtitle{Nucleic Acids Res.}
+\bvolume{52}(\bissue{D1}),
+\bfpage{52}--\blpage{60}
+(\byear{2024})
+\doiurl{10.1093/nar/gkad770}
+\end{barticle}
+\endbibitem
+
+%%% 204
+\bibitem[\protect\citeauthoryear{Martin et~al.}{2023}]{ENSEMBL2023}
+\begin{barticle}
+\bauthor{\bsnm{Martin}, \binits{F.J.}},
+\bauthor{\bsnm{Amode}, \binits{M.R.}},
+\bauthor{\bsnm{Aneja}, \binits{A.}},
+\bauthor{\bsnm{Austine-Orimoloye}, \binits{O.}},
+\bauthor{\bsnm{Azov}, \binits{A.G.}},
+\bauthor{\bsnm{Barnes}, \binits{I.}},
+\bauthor{\bsnm{Becker}, \binits{A.}},
+\bauthor{\bsnm{Bennett}, \binits{R.}},
+\bauthor{\bsnm{Berry}, \binits{A.}},
+\bauthor{\bsnm{Bhai}, \binits{J.}},
+\bauthor{\bsnm{Bhurji}, \binits{S.K.}},
+\bauthor{\bsnm{Bignell}, \binits{A.}},
+\bauthor{\bsnm{Boddu}, \binits{S.}},
+\bauthor{\bsnm{Branco~Lins}, \binits{P.R.}},
+\bauthor{\bsnm{Brooks}, \binits{L.}},
+\bauthor{\bsnm{Ramaraju}, \binits{S.B.}},
+\bauthor{\bsnm{Charkhchi}, \binits{M.}},
+\bauthor{\bsnm{Cockburn}, \binits{A.}},
+\bauthor{\bsnm{Da~Rin~Fiorretto}, \binits{L.}},
+\bauthor{\bsnm{Davidson}, \binits{C.}},
+\bauthor{\bsnm{Dodiya}, \binits{K.}},
+\bauthor{\bsnm{Donaldson}, \binits{S.}},
+\bauthor{\bsnm{El~Houdaigui}, \binits{B.}},
+\bauthor{\bsnm{El~Naboulsi}, \binits{T.}},
+\bauthor{\bsnm{Fatima}, \binits{R.}},
+\bauthor{\bsnm{Giron}, \binits{C.G.}},
+\bauthor{\bsnm{Genez}, \binits{T.}},
+\bauthor{\bsnm{Ghattaoraya}, \binits{G.S.}},
+\bauthor{\bsnm{Martinez}, \binits{J.G.}},
+\bauthor{\bsnm{Guijarro}, \binits{C.}},
+\bauthor{\bsnm{Hardy}, \binits{M.}},
+\bauthor{\bsnm{Hollis}, \binits{Z.}},
+\bauthor{\bsnm{Hourlier}, \binits{T.}},
+\bauthor{\bsnm{Hunt}, \binits{T.}},
+\bauthor{\bsnm{Kay}, \binits{M.}},
+\bauthor{\bsnm{Kaykala}, \binits{V.}},
+\bauthor{\bsnm{Le}, \binits{T.}},
+\bauthor{\bsnm{Lemos}, \binits{D.}},
+\bauthor{\bsnm{Marques-Coelho}, \binits{D.}},
+\bauthor{\bsnm{Marug{\ifmmode\acute{a}\else\'{a}\fi}n}, \binits{J.C.}},
+\bauthor{\bsnm{Merino}, \binits{G.A.}},
+\bauthor{\bsnm{Mirabueno}, \binits{L.P.}},
+\bauthor{\bsnm{Mushtaq}, \binits{A.}},
+\bauthor{\bsnm{Hossain}, \binits{S.N.}},
+\bauthor{\bsnm{Ogeh}, \binits{D.N.}},
+\bauthor{\bsnm{Sakthivel}, \binits{M.P.}},
+\bauthor{\bsnm{Parker}, \binits{A.}},
+\bauthor{\bsnm{Perry}, \binits{M.}},
+\bauthor{\bsnm{Pili{\ifmmode\check{z}\else\v{z}\fi}ota}, \binits{I.}},
+\bauthor{\bsnm{Prosovetskaia}, \binits{I.}},
+\bauthor{\bsnm{P{\ifmmode\acute{e}\else\'{e}\fi}rez-Silva}, \binits{J.G.}},
+\bauthor{\bsnm{Salam}, \binits{A.I.A.}},
+\bauthor{\bsnm{Saraiva-Agostinho}, \binits{N.}},
+\bauthor{\bsnm{Schuilenburg}, \binits{H.}},
+\bauthor{\bsnm{Sheppard}, \binits{D.}},
+\bauthor{\bsnm{Sinha}, \binits{S.}},
+\bauthor{\bsnm{Sipos}, \binits{B.}},
+\bauthor{\bsnm{Stark}, \binits{W.}},
+\bauthor{\bsnm{Steed}, \binits{E.}},
+\bauthor{\bsnm{Sukumaran}, \binits{R.}},
+\bauthor{\bsnm{Sumathipala}, \binits{D.}},
+\bauthor{\bsnm{Suner}, \binits{M.-M.}},
+\bauthor{\bsnm{Surapaneni}, \binits{L.}},
+\bauthor{\bsnm{Sutinen}, \binits{K.}},
+\bauthor{\bsnm{Szpak}, \binits{M.}},
+\bauthor{\bsnm{Tricomi}, \binits{F.F.}},
+\bauthor{\bsnm{Urbina-G{\ifmmode\acute{o}\else\'{o}\fi}mez}, \binits{D.}},
+\bauthor{\bsnm{Veidenberg}, \binits{A.}},
+\bauthor{\bsnm{Walsh}, \binits{T.A.}},
+\bauthor{\bsnm{Walts}, \binits{B.}},
+\bauthor{\bsnm{Wass}, \binits{E.}},
+\bauthor{\bsnm{Willhoft}, \binits{N.}},
+\bauthor{\bsnm{Allen}, \binits{J.}},
+\bauthor{\bsnm{Alvarez-Jarreta}, \binits{J.}},
+\bauthor{\bsnm{Chakiachvili}, \binits{M.}},
+\bauthor{\bsnm{Flint}, \binits{B.}},
+\bauthor{\bsnm{Giorgetti}, \binits{S.}},
+\bauthor{\bsnm{Haggerty}, \binits{L.}},
+\bauthor{\bsnm{Ilsley}, \binits{G.R.}},
+\bauthor{\bsnm{Loveland}, \binits{J.E.}},
+\bauthor{\bsnm{Moore}, \binits{B.}},
+\bauthor{\bsnm{Mudge}, \binits{J.M.}},
+\bauthor{\bsnm{Tate}, \binits{J.}},
+\bauthor{\bsnm{Thybert}, \binits{D.}},
+\bauthor{\bsnm{Trevanion}, \binits{S.J.}},
+\bauthor{\bsnm{Winterbottom}, \binits{A.}},
+\bauthor{\bsnm{Frankish}, \binits{A.}},
+\bauthor{\bsnm{Hunt}, \binits{S.E.}},
+\bauthor{\bsnm{Ruffier}, \binits{M.}},
+\bauthor{\bsnm{Cunningham}, \binits{F.}},
+\bauthor{\bsnm{Dyer}, \binits{S.}},
+\bauthor{\bsnm{Finn}, \binits{R.D.}},
+\bauthor{\bsnm{Howe}, \binits{K.L.}},
+\bauthor{\bsnm{Harrison}, \binits{P.W.}},
+\bauthor{\bsnm{Yates}, \binits{A.D.}},
+\bauthor{\bsnm{Flicek}, \binits{P.}}:
+\batitle{{Ensembl 2023}}.
+\bjtitle{Nucleic Acids Res.}
+\bvolume{51}(\bissue{D1}),
+\bfpage{933}--\blpage{941}
+(\byear{2023})
+\doiurl{10.1093/nar/gkac958}
+\end{barticle}
+\endbibitem
+
+%%% 205
+\bibitem[\protect\citeauthoryear{O'Leary et~al.}{2016}]{RefSeq}
+\begin{barticle}
+\bauthor{\bsnm{O'Leary}, \binits{N.A.}},
+\bauthor{\bsnm{Wright}, \binits{M.W.}},
+\bauthor{\bsnm{Brister}, \binits{J.R.}},
+\bauthor{\bsnm{Ciufo}, \binits{S.}},
+\bauthor{\bsnm{Haddad}, \binits{D.}},
+\bauthor{\bsnm{McVeigh}, \binits{R.}},
+\bauthor{\bsnm{Rajput}, \binits{B.}},
+\bauthor{\bsnm{Robbertse}, \binits{B.}},
+\bauthor{\bsnm{Smith-White}, \binits{B.}},
+\bauthor{\bsnm{Ako-Adjei}, \binits{D.}},
+\bauthor{\bsnm{Astashyn}, \binits{A.}},
+\bauthor{\bsnm{Badretdin}, \binits{A.}},
+\bauthor{\bsnm{Bao}, \binits{Y.}},
+\bauthor{\bsnm{Blinkova}, \binits{O.}},
+\bauthor{\bsnm{Brover}, \binits{V.}},
+\bauthor{\bsnm{Chetvernin}, \binits{V.}},
+\bauthor{\bsnm{Choi}, \binits{J.}},
+\bauthor{\bsnm{Cox}, \binits{E.}},
+\bauthor{\bsnm{Ermolaeva}, \binits{O.}},
+\bauthor{\bsnm{Farrell}, \binits{C.M.}},
+\bauthor{\bsnm{Goldfarb}, \binits{T.}},
+\bauthor{\bsnm{Gupta}, \binits{T.}},
+\bauthor{\bsnm{Haft}, \binits{D.}},
+\bauthor{\bsnm{Hatcher}, \binits{E.}},
+\bauthor{\bsnm{Hlavina}, \binits{W.}},
+\bauthor{\bsnm{Joardar}, \binits{V.S.}},
+\bauthor{\bsnm{Kodali}, \binits{V.K.}},
+\bauthor{\bsnm{Li}, \binits{W.}},
+\bauthor{\bsnm{Maglott}, \binits{D.}},
+\bauthor{\bsnm{Masterson}, \binits{P.}},
+\bauthor{\bsnm{McGarvey}, \binits{K.M.}},
+\bauthor{\bsnm{Murphy}, \binits{M.R.}},
+\bauthor{\bsnm{O'Neill}, \binits{K.}},
+\bauthor{\bsnm{Pujar}, \binits{S.}},
+\bauthor{\bsnm{Rangwala}, \binits{S.H.}},
+\bauthor{\bsnm{Rausch}, \binits{D.}},
+\bauthor{\bsnm{Riddick}, \binits{L.D.}},
+\bauthor{\bsnm{Schoch}, \binits{C.}},
+\bauthor{\bsnm{Shkeda}, \binits{A.}},
+\bauthor{\bsnm{Storz}, \binits{S.S.}},
+\bauthor{\bsnm{Sun}, \binits{H.}},
+\bauthor{\bsnm{Thibaud-Nissen}, \binits{F.}},
+\bauthor{\bsnm{Tolstoy}, \binits{I.}},
+\bauthor{\bsnm{Tully}, \binits{R.E.}},
+\bauthor{\bsnm{Vatsan}, \binits{A.R.}},
+\bauthor{\bsnm{Wallin}, \binits{C.}},
+\bauthor{\bsnm{Webb}, \binits{D.}},
+\bauthor{\bsnm{Wu}, \binits{W.}},
+\bauthor{\bsnm{Landrum}, \binits{M.J.}},
+\bauthor{\bsnm{Kimchi}, \binits{A.}},
+\bauthor{\bsnm{Tatusova}, \binits{T.}},
+\bauthor{\bsnm{DiCuccio}, \binits{M.}},
+\bauthor{\bsnm{Kitts}, \binits{P.}},
+\bauthor{\bsnm{Murphy}, \binits{T.D.}},
+\bauthor{\bsnm{Pruitt}, \binits{K.D.}}:
+\batitle{{Reference sequence (RefSeq) database at NCBI: current status, taxonomic expansion, and functional annotation}}.
+\bjtitle{Nucleic Acids Res.}
+\bvolume{44}(\bissue{D1}),
+\bfpage{733}--\blpage{745}
+(\byear{2016})
+\doiurl{10.1093/nar/gkv1189}
+{\href{https://arxiv.org/abs/26553804}{{26553804}}}
+\end{barticle}
+\endbibitem
+
+%%% 206
+\bibitem[\protect\citeauthoryear{Ye et~al.}{2019}]{atcircdb}
+\begin{barticle}
+\bauthor{\bsnm{Ye}, \binits{J.}},
+\bauthor{\bsnm{Wang}, \binits{L.}},
+\bauthor{\bsnm{Li}, \binits{S.}},
+\bauthor{\bsnm{Zhang}, \binits{Q.}},
+\bauthor{\bsnm{Zhang}, \binits{Q.}},
+\bauthor{\bsnm{Tang}, \binits{W.}},
+\bauthor{\bsnm{Wang}, \binits{K.}},
+\bauthor{\bsnm{Song}, \binits{K.}},
+\bauthor{\bsnm{Sablok}, \binits{G.}},
+\bauthor{\bsnm{Sun}, \binits{X.}},
+\bauthor{\bsnm{Zhao}, \binits{H.}}:
+\batitle{{AtCircDB: a tissue-specific database for Arabidopsis circular RNAs}}.
+\bjtitle{Briefings Bioinf.}
+\bvolume{20}(\bissue{1}),
+\bfpage{58}--\blpage{65}
+(\byear{2019})
+\doiurl{10.1093/bib/bbx089}
+{\href{https://arxiv.org/abs/28968841}{{28968841}}}
+\end{barticle}
+\endbibitem
+
+%%% 207
+\bibitem[\protect\citeauthoryear{Liu et~al.}{2019}]{circbank}
+\begin{barticle}
+\bauthor{\bsnm{Liu}, \binits{M.}},
+\bauthor{\bsnm{Wang}, \binits{Q.}},
+\bauthor{\bsnm{Shen}, \binits{J.}},
+\bauthor{\bsnm{Yang}, \binits{B.B.}},
+\bauthor{\bsnm{Ding}, \binits{X.}}:
+\batitle{{Circbank: a comprehensive database for circRNA with standard nomenclature}}.
+\bjtitle{RNA Biol.}
+\bvolume{16}(\bissue{7}),
+\bfpage{899}
+(\byear{2019})
+\doiurl{10.1080/15476286.2019.1600395}
+\end{barticle}
+\endbibitem
+
+%%% 208
+\bibitem[\protect\citeauthoryear{Chen et~al.}{2022}]{circnet}
+\begin{barticle}
+\bauthor{\bsnm{Chen}, \binits{Y.}},
+\bauthor{\bsnm{Yao}, \binits{L.}},
+\bauthor{\bsnm{Tang}, \binits{Y.}},
+\bauthor{\bsnm{Jhong}, \binits{J.-H.}},
+\bauthor{\bsnm{Wan}, \binits{J.}},
+\bauthor{\bsnm{Chang}, \binits{J.}},
+\bauthor{\bsnm{Cui}, \binits{S.}},
+\bauthor{\bsnm{Luo}, \binits{Y.}},
+\bauthor{\bsnm{Cai}, \binits{X.}},
+\bauthor{\bsnm{Li}, \binits{W.}},
+\bauthor{\bsnm{Chen}, \binits{Q.}},
+\bauthor{\bsnm{Huang}, \binits{H.-Y.}},
+\bauthor{\bsnm{Wang}, \binits{Z.}},
+\bauthor{\bsnm{Chen}, \binits{W.}},
+\bauthor{\bsnm{Chang}, \binits{T.-H.}},
+\bauthor{\bsnm{Wei}, \binits{F.}},
+\bauthor{\bsnm{Lee}, \binits{T.-Y.}},
+\bauthor{\bsnm{Huang}, \binits{H.-D.}}:
+\batitle{{CircNet 2.0: an updated database for exploring circular RNA regulatory networks in cancers}}.
+\bjtitle{Nucleic Acids Res.}
+\bvolume{50}(\bissue{D1}),
+\bfpage{93}--\blpage{101}
+(\byear{2022})
+\doiurl{10.1093/nar/gkab1036}
+{\href{https://arxiv.org/abs/34850139}{{34850139}}}
+\end{barticle}
+\endbibitem
+
+%%% 209
+\bibitem[\protect\citeauthoryear{Meng et~al.}{2019}]{circfunbase}
+\begin{botherref}
+\oauthor{\bsnm{Meng}, \binits{X.}},
+\oauthor{\bsnm{Hu}, \binits{D.}},
+\oauthor{\bsnm{Zhang}, \binits{P.}},
+\oauthor{\bsnm{Chen}, \binits{Q.}},
+\oauthor{\bsnm{Chen}, \binits{M.}}:
+{CircFunBase: a database for functional circular RNAs}.
+Database (Oxford).
+\textbf{2019:baz003.}
+(2019)
+\doiurl{10.1093/database/baz003}
+{\href{https://arxiv.org/abs/30715276}{{30715276}}}
+\end{botherref}
+\endbibitem
+
+%%% 210
+\bibitem[\protect\citeauthoryear{Dong et~al.}{2018}]{circpedia}
+\begin{barticle}
+\bauthor{\bsnm{Dong}, \binits{R.}},
+\bauthor{\bsnm{Ma}, \binits{X.-K.}},
+\bauthor{\bsnm{Li}, \binits{G.-W.}},
+\bauthor{\bsnm{Yang}, \binits{L.}}:
+\batitle{{CIRCpedia v2: An Updated Database for Comprehensive Circular RNA Annotation and Expression Comparison}}.
+\bjtitle{Genomics Proteomics Bioinformatics}
+\bvolume{16}(\bissue{4}),
+\bfpage{226}--\blpage{233}
+(\byear{2018})
+\doiurl{10.1016/j.gpb.2018.08.001}
+{\href{https://arxiv.org/abs/30172046}{{30172046}}}
+\end{barticle}
+\endbibitem
+
+%%% 211
+\bibitem[\protect\citeauthoryear{Ruan et~al.}{2019}]{CircRiC}
+\begin{barticle}
+\bauthor{\bsnm{Ruan}, \binits{H.}},
+\bauthor{\bsnm{Xiang}, \binits{Y.}},
+\bauthor{\bsnm{Ko}, \binits{J.}},
+\bauthor{\bsnm{Li}, \binits{S.}},
+\bauthor{\bsnm{Jing}, \binits{Y.}},
+\bauthor{\bsnm{Zhu}, \binits{X.}},
+\bauthor{\bsnm{Ye}, \binits{Y.}},
+\bauthor{\bsnm{Zhang}, \binits{Z.}},
+\bauthor{\bsnm{Mills}, \binits{T.}},
+\bauthor{\bsnm{Feng}, \binits{J.}},
+\bauthor{\bsnm{Liu}, \binits{C.-J.}},
+\bauthor{\bsnm{Jing}, \binits{J.}},
+\bauthor{\bsnm{Cao}, \binits{J.}},
+\bauthor{\bsnm{Zhou}, \binits{B.}},
+\bauthor{\bsnm{Wang}, \binits{L.}},
+\bauthor{\bsnm{Zhou}, \binits{Y.}},
+\bauthor{\bsnm{Lin}, \binits{C.}},
+\bauthor{\bsnm{Guo}, \binits{A.-Y.}},
+\bauthor{\bsnm{Chen}, \binits{X.}},
+\bauthor{\bsnm{Diao}, \binits{L.}},
+\bauthor{\bsnm{Li}, \binits{W.}},
+\bauthor{\bsnm{Chen}, \binits{Z.}},
+\bauthor{\bsnm{He}, \binits{X.}},
+\bauthor{\bsnm{Mills}, \binits{G.B.}},
+\bauthor{\bsnm{Blackburn}, \binits{M.R.}},
+\bauthor{\bsnm{Han}, \binits{L.}}:
+\batitle{{Comprehensive characterization of circular RNAs in {\textasciitilde}{\hspace{0.167em}}1000 human cancer cell lines}}.
+\bjtitle{Genome Med.}
+\bvolume{11}(\bissue{1}),
+\bfpage{1}--\blpage{14}
+(\byear{2019})
+\doiurl{10.1186/s13073-019-0663-5}
+\end{barticle}
+\endbibitem
+
+%%% 212
+\bibitem[\protect\citeauthoryear{Fan et~al.}{2022}]{circr2disease}
+\begin{barticle}
+\bauthor{\bsnm{Fan}, \binits{C.}},
+\bauthor{\bsnm{Lei}, \binits{X.}},
+\bauthor{\bsnm{Tie}, \binits{J.}},
+\bauthor{\bsnm{Zhang}, \binits{Y.}},
+\bauthor{\bsnm{Wu}, \binits{F.-X.}},
+\bauthor{\bsnm{Pan}, \binits{Y.}}:
+\batitle{{CircR2Disease v2.0: An Updated Web Server for Experimentally Validated circRNA{\textendash}disease Associations and Its Application}}.
+\bjtitle{Genomics Proteomics Bioinformatics}
+\bvolume{20}(\bissue{3}),
+\bfpage{435}--\blpage{445}
+(\byear{2022})
+\doiurl{10.1016/j.gpb.2021.10.002}
+\end{barticle}
+\endbibitem
+
+%%% 213
+\bibitem[\protect\citeauthoryear{Ghosal et~al.}{2013}]{circ2traits}
+\begin{barticle}
+\bauthor{\bsnm{Ghosal}, \binits{S.}},
+\bauthor{\bsnm{Das}, \binits{S.}},
+\bauthor{\bsnm{Sen}, \binits{R.}},
+\bauthor{\bsnm{Basak}, \binits{P.}},
+\bauthor{\bsnm{Chakrabarti}, \binits{J.}}:
+\batitle{{Circ2Traits: a comprehensive database for circular RNA potentially associated with disease and traits}}.
+\bjtitle{Front. Genet.}
+\bvolume{4},
+\bfpage{68415}
+(\byear{2013})
+\doiurl{10.3389/fgene.2013.00283}
+\end{barticle}
+\endbibitem
+
+%%% 214
+\bibitem[\protect\citeauthoryear{Sun et~al.}{2023}]{circrnadisease}
+\begin{botherref}
+\oauthor{\bsnm{Sun}, \binits{Z.-Y.}},
+\oauthor{\bsnm{Yang}, \binits{C.-L.}},
+\oauthor{\bsnm{Huang}, \binits{L.-J.}},
+\oauthor{\bsnm{Mo}, \binits{Z.-C.}},
+\oauthor{\bsnm{Zhang}, \binits{K.-N.}},
+\oauthor{\bsnm{Fan}, \binits{W.-H.}},
+\oauthor{\bsnm{Wang}, \binits{K.-Y.}},
+\oauthor{\bsnm{Wu}, \binits{F.}},
+\oauthor{\bsnm{Wang}, \binits{J.-G.}},
+\oauthor{\bsnm{Meng}, \binits{F.-L.}},
+\oauthor{\bsnm{Zhao}, \binits{Z.}},
+\oauthor{\bsnm{Jiang}, \binits{T.}}:
+{circRNADisease v2.0: an updated resource for high-quality experimentally supported circRNA-disease associations}.
+Nucleic Acids Res.,
+949
+(2023)
+\doiurl{10.1093/nar/gkad949}
+\end{botherref}
+\endbibitem
+
+%%% 215
+\bibitem[\protect\citeauthoryear{Wang et~al.}{2019}]{cropcircdb}
+\begin{barticle}
+\bauthor{\bsnm{Wang}, \binits{K.}},
+\bauthor{\bsnm{Wang}, \binits{C.}},
+\bauthor{\bsnm{Guo}, \binits{B.}},
+\bauthor{\bsnm{Song}, \binits{K.}},
+\bauthor{\bsnm{Shi}, \binits{C.}},
+\bauthor{\bsnm{Jiang}, \binits{X.}},
+\bauthor{\bsnm{Wang}, \binits{K.}},
+\bauthor{\bsnm{Tan}, \binits{Y.}},
+\bauthor{\bsnm{Wang}, \binits{L.}},
+\bauthor{\bsnm{Wang}, \binits{L.}},
+\bauthor{\bsnm{Li}, \binits{J.}},
+\bauthor{\bsnm{Li}, \binits{Y.}},
+\bauthor{\bsnm{Cai}, \binits{Y.}},
+\bauthor{\bsnm{Zhao}, \binits{H.}},
+\bauthor{\bsnm{Sun}, \binits{X.}}:
+\batitle{{CropCircDB: a comprehensive circular RNA resource for crops in response to abiotic stress}}.
+\bjtitle{Database}
+\bvolume{2019},
+\bfpage{053}
+(\byear{2019})
+\doiurl{10.1093/database/baz053}
+\end{barticle}
+\endbibitem
+
+%%% 216
+\bibitem[\protect\citeauthoryear{Zheng et~al.}{2016}]{deepbase}
+\begin{barticle}
+\bauthor{\bsnm{Zheng}, \binits{L.-L.}},
+\bauthor{\bsnm{Li}, \binits{J.-H.}},
+\bauthor{\bsnm{Wu}, \binits{J.}},
+\bauthor{\bsnm{Sun}, \binits{W.-J.}},
+\bauthor{\bsnm{Liu}, \binits{S.}},
+\bauthor{\bsnm{Wang}, \binits{Z.-L.}},
+\bauthor{\bsnm{Zhou}, \binits{H.}},
+\bauthor{\bsnm{Yang}, \binits{J.-H.}},
+\bauthor{\bsnm{Qu}, \binits{L.-H.}}:
+\batitle{{deepBase v2.0: identification, expression, evolution and function of small RNAs, LncRNAs and circular RNAs from deep-sequencing data}}.
+\bjtitle{Nucleic Acids Res.}
+\bvolume{44}(\bissue{D1}),
+\bfpage{196}--\blpage{202}
+(\byear{2016})
+\doiurl{10.1093/nar/gkv1273}
+{\href{https://arxiv.org/abs/26590255}{{26590255}}}
+\end{barticle}
+\endbibitem
+
+%%% 217
+\bibitem[\protect\citeauthoryear{Lai et~al.}{2022}]{exoRBase}
+\begin{barticle}
+\bauthor{\bsnm{Lai}, \binits{H.}},
+\bauthor{\bsnm{Li}, \binits{Y.}},
+\bauthor{\bsnm{Zhang}, \binits{H.}},
+\bauthor{\bsnm{Hu}, \binits{J.}},
+\bauthor{\bsnm{Liao}, \binits{J.}},
+\bauthor{\bsnm{Su}, \binits{Y.}},
+\bauthor{\bsnm{Li}, \binits{Q.}},
+\bauthor{\bsnm{Chen}, \binits{B.}},
+\bauthor{\bsnm{Li}, \binits{C.}},
+\bauthor{\bsnm{Wang}, \binits{Z.}},
+\bauthor{\bsnm{Li}, \binits{Y.}},
+\bauthor{\bsnm{Wang}, \binits{J.}},
+\bauthor{\bsnm{Meng}, \binits{Z.}},
+\bauthor{\bsnm{Huang}, \binits{Z.}},
+\bauthor{\bsnm{Huang}, \binits{S.}}:
+\batitle{{exoRBase 2.0: an atlas of mRNA, lncRNA and circRNA in extracellular vesicles from human biofluids}}.
+\bjtitle{Nucleic Acids Res.}
+\bvolume{50}(\bissue{D1}),
+\bfpage{118}--\blpage{128}
+(\byear{2022})
+\doiurl{10.1093/nar/gkab1085}
+{\href{https://arxiv.org/abs/34918744}{{34918744}}}
+\end{barticle}
+\endbibitem
+
+%%% 218
+\bibitem[\protect\citeauthoryear{Vo et~al.}{2019}]{mioncocirc}
+\begin{barticle}
+\bauthor{\bsnm{Vo}, \binits{J.N.}},
+\bauthor{\bsnm{Cieslik}, \binits{M.}},
+\bauthor{\bsnm{Zhang}, \binits{Y.}},
+\bauthor{\bsnm{Shukla}, \binits{S.}},
+\bauthor{\bsnm{Xiao}, \binits{L.}},
+\bauthor{\bsnm{Zhang}, \binits{Y.}},
+\bauthor{\bsnm{Wu}, \binits{Y.-M.}},
+\bauthor{\bsnm{Dhanasekaran}, \binits{S.M.}},
+\bauthor{\bsnm{Engelke}, \binits{C.G.}},
+\bauthor{\bsnm{Cao}, \binits{X.}},
+\bauthor{\bsnm{Robinson}, \binits{D.R.}},
+\bauthor{\bsnm{Nesvizhskii}, \binits{A.I.}},
+\bauthor{\bsnm{Chinnaiyan}, \binits{A.M.}}:
+\batitle{{The Landscape of Circular RNA in Cancer}}.
+\bjtitle{Cell}
+\bvolume{176}(\bissue{4}),
+\bfpage{869}--\blpage{88113}
+(\byear{2019})
+\doiurl{10.1016/j.cell.2018.12.021}
+{\href{https://arxiv.org/abs/30735636}{{30735636}}}
+\end{barticle}
+\endbibitem
+
+%%% 219
+\bibitem[\protect\citeauthoryear{Walsh et~al.}{2021}]{neurocirc}
+\begin{barticle}
+\bauthor{\bsnm{Walsh}, \binits{K.}},
+\bauthor{\bsnm{Gokool}, \binits{A.}},
+\bauthor{\bsnm{Alinejad-Rokny}, \binits{H.}},
+\bauthor{\bsnm{Voineagu}, \binits{I.}}:
+\batitle{{NeuroCirc: an integrative resource of circular RNA expression in the human brain}}.
+\bjtitle{Bioinformatics}
+\bvolume{37}(\bissue{20}),
+\bfpage{3664}--\blpage{3666}
+(\byear{2021})
+\doiurl{10.1093/bioinformatics/btab230}
+{\href{https://arxiv.org/abs/34028497}{{34028497}}}
+\end{barticle}
+\endbibitem
+
+%%% 220
+\bibitem[\protect\citeauthoryear{Zhang et~al.}{2017}]{plantcircnet}
+\begin{botherref}
+\oauthor{\bsnm{Zhang}, \binits{P.}},
+\oauthor{\bsnm{Meng}, \binits{X.}},
+\oauthor{\bsnm{Chen}, \binits{H.}},
+\oauthor{\bsnm{Liu}, \binits{Y.}},
+\oauthor{\bsnm{Xue}, \binits{J.}},
+\oauthor{\bsnm{Zhou}, \binits{Y.}},
+\oauthor{\bsnm{Chen}, \binits{M.}}:
+{PlantCircNet: a database for plant circRNA{\textendash}miRNA{\textendash}mRNA regulatory networks}.
+Database: The Journal of Biological Databases and Curation
+\textbf{2017}
+(2017)
+\doiurl{10.1093/database/bax089}
+\end{botherref}
+\endbibitem
+
+%%% 221
+\bibitem[\protect\citeauthoryear{Chu et~al.}{2017}]{plantcircbase}
+\begin{barticle}
+\bauthor{\bsnm{Chu}, \binits{Q.}},
+\bauthor{\bsnm{Zhang}, \binits{X.}},
+\bauthor{\bsnm{Zhu}, \binits{X.}},
+\bauthor{\bsnm{Liu}, \binits{C.}},
+\bauthor{\bsnm{Mao}, \binits{L.}},
+\bauthor{\bsnm{Ye}, \binits{C.}},
+\bauthor{\bsnm{Zhu}, \binits{Q.-H.}},
+\bauthor{\bsnm{Fan}, \binits{L.}}:
+\batitle{{PlantcircBase: A Database for Plant Circular RNAs}}.
+\bjtitle{Mol. Plant}
+\bvolume{10}(\bissue{8}),
+\bfpage{1126}--\blpage{1128}
+(\byear{2017})
+\doiurl{10.1016/j.molp.2017.03.003}
+{\href{https://arxiv.org/abs/28315753}{{28315753}}}
+\end{barticle}
+\endbibitem
+
+%%% 222
+\bibitem[\protect\citeauthoryear{Bray et~al.}{2016}]{kallisto}
+\begin{barticle}
+\bauthor{\bsnm{Bray}, \binits{N.L.}},
+\bauthor{\bsnm{Pimentel}, \binits{H.}},
+\bauthor{\bsnm{Melsted}, \binits{P.}},
+\bauthor{\bsnm{Pachter}, \binits{L.}}:
+\batitle{{Near-optimal probabilistic RNA-seq quantification}}.
+\bjtitle{Nat. Biotechnol.}
+\bvolume{34},
+\bfpage{525}--\blpage{527}
+(\byear{2016})
+\doiurl{10.1038/nbt.3519}
+\end{barticle}
+\endbibitem
+
+%%% 223
+\bibitem[\protect\citeauthoryear{Patro et~al.}{2017}]{Salmon}
+\begin{barticle}
+\bauthor{\bsnm{Patro}, \binits{R.}},
+\bauthor{\bsnm{Duggal}, \binits{G.}},
+\bauthor{\bsnm{Love}, \binits{M.I.}},
+\bauthor{\bsnm{Irizarry}, \binits{R.A.}},
+\bauthor{\bsnm{Kingsford}, \binits{C.}}:
+\batitle{{Salmon provides fast and bias-aware quantification of transcript expression}}.
+\bjtitle{Nat. Methods}
+\bvolume{14},
+\bfpage{417}--\blpage{419}
+(\byear{2017})
+\doiurl{10.1038/nmeth.4197}
+\end{barticle}
+\endbibitem
+
+\end{thebibliography}

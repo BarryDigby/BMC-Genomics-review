@@ -1,0 +1,82 @@
+This is BibTeX, Version 0.99d (TeX Live 2023)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: sn-article.aux
+The style file: sn-mathphys-num.bst
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=200001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated field_info (elt_size=4) to 13697 items from 5000.
+Database file #1: sn-bibliography.bib
+Reallocated str_pool (elt_size=1) to 130000 items from 65000.
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Warning--to sort, need author or key in BibEntry2019Dec
+Warning--to sort, need author or key in TCGA
+Warning--to sort, need author or key in cirRBP-website
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Warning--"{Statistical" isn't a brace-balanced string for entry Salzman2014Jun
+while executing--line 2870 of file sn-mathphys-num.bst
+Warning--"{Statistical" isn't a brace-balanced string for entry Salzman2014Jun
+while executing--line 2870 of file sn-mathphys-num.bst
+Warning--"{Statistical" isn't a brace-balanced string for entry Salzman2014Jun
+while executing--line 2870 of file sn-mathphys-num.bst
+Warning--"Data}" isn't a brace-balanced string for entry Salzman2014Jun
+while executing--line 2870 of file sn-mathphys-num.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+You've used 223 entries,
+            7480 wiz_defined-function locations,
+            2765 strings with 76747 characters,
+and the built_in function-call counts, 1390589 in all, are:
+= -- 167247
+> -- 12032
+< -- 3916
++ -- 28830
+- -- 4158
+* -- 108038
+:= -- 277121
+add.period$ -- 231
+call.type$ -- 223
+change.case$ -- 1183
+chr.to.int$ -- 11011
+cite$ -- 229
+duplicate$ -- 15058
+empty$ -- 96134
+format.name$ -- 11168
+if$ -- 309123
+int.to.chr$ -- 1
+int.to.str$ -- 292
+missing$ -- 0
+newline$ -- 4410
+num.names$ -- 1100
+pop$ -- 8919
+preamble$ -- 1
+purify$ -- 957
+quote$ -- 0
+skip$ -- 82694
+stack$ -- 0
+substring$ -- 210255
+swap$ -- 8506
+text.length$ -- 2726
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 9606
+warning$ -- 3
+while$ -- 9671
+width$ -- 0
+write$ -- 5746
+(There were 7 warnings)

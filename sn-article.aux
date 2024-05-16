@@ -1,0 +1,1024 @@
+\relax 
+\bibstyle{sn-mathphys-num}
+\providecommand\hyper@newdestlabel[2]{}
+\providecommand\HyperFirstAtBeginDocument{\AtBeginDocument}
+\HyperFirstAtBeginDocument{\ifx\hyper@anchor\@undefined
+\global\let\oldnewlabel\newlabel
+\gdef\newlabel#1#2{\newlabelxx{#1}#2}
+\gdef\newlabelxx#1#2#3#4#5#6{\oldnewlabel{#1}{{#2}{#3}}}
+\AtEndDocument{\ifx\hyper@anchor\@undefined
+\let\newlabel\oldnewlabel
+\fi}
+\fi}
+\global\let\hyper@last\relax 
+\gdef\HyperFirstAtBeginDocument#1{#1}
+\providecommand*\HyPL@Entry[1]{}
+\citation{Sanger1976}
+\citation{Kolakofsky1976Aug}
+\citation{Kos1986Oct}
+\citation{Hsu1979Jul}
+\citation{Grabowski1981Feb,Kruger1982Nov,Zaug1983Feb}
+\citation{Nigro1991Feb,Cocquerelle1992Mar,Qian1992,Cocquerelle1993Jan,Capel1993Jun,Zaphiropoulos1996,Zaphiropoulos1997Jun,Surono1999Mar,Li1999Mar,Houseley2006May,Burd2010Dec}
+\citation{Salzman2012}
+\citation{Jeck2012Dec}
+\citation{Hansen2013Mar}
+\citation{find_circ}
+\citation{Hansen2013Mar}
+\citation{find_circ}
+\citation{Danan2012Apr,Jeck2014May,Ashwal-Fluss2014Oct,Chen2015Apr}
+\HyPL@Entry{0<</S/D>>}
+\Newlabel{1}{1}
+\Newlabel{2}{2}
+\@writefile{toc}{\contentsline {section}{\numberline {1}Introduction}{1}{section.1}\protected@file@percent }
+\citation{circRNA_finder,Gruner2016,Rybak-Wolf2015Jun}
+\citation{Li2015Aug}
+\citation{Wan2016}
+\citation{Verduci2017Dec}
+\citation{Bayat2023Jun}
+\citation{Greene2017Jun,Kristensen2019Nov,Li2018Aug,Ren2022Dec,Yang2021May,Huang2020,Panda2018,Santos-Rodriguez2021Sep}
+\citation{BibEntry2019Dec}
+\citation{Starke2015Jan}
+\citation{Jeck2012Dec,Jeck2014May}
+\citation{Conn2015Mar}
+\citation{Ashwal-Fluss2014Oct}
+\citation{Errichelli2017Mar}
+\citation{Jeck2012Dec,Wilusz2015May,CIRCexplorer}
+\citation{Liang2014Oct}
+\citation{Zaphiropoulos1996}
+\citation{Jeck2012Dec}
+\citation{Mokry2010Jun}
+\citation{Li2019Sep,Pisignano2023Sep}
+\citation{Zhang2013Sep,Talhouarne2014Jul}
+\@writefile{toc}{\contentsline {section}{\numberline {2}circRNA biogenesis and structure}{3}{section.2}\protected@file@percent }
+\citation{Suzuki2006May,Enuka2016Feb}
+\citation{Li2015Apr,Bachmayr-Heyda2015,Lim2021Dec}
+\citation{Li2015Aug,Shi2020Mar}
+\citation{Wang2019Feb,Wu2023Apr,Pan2019Nov,Li2020Mar,Chen2020Apr,Louis2019Nov}
+\citation{Hansen2011Sep}
+\citation{Li2021Nov}
+\citation{Park2019May}
+\@writefile{lof}{\contentsline {figure}{\numberline {1}{\ignorespaces Biogenesis of circRNAs. \textbf  {A}: RNA binding protein circularization, \textbf  {B}: Reverse complementary matching sequence circularization e.g ALU repeats in humans, \textbf  {C}: Lariat-driven circularization, \textbf  {D}: Intron lariat circularization. Back-splicing processes \textbf  {A,B} and \textbf  {C} may undergo additional splicing to remove intronic or exonic sequences.}}{4}{figure.1}\protected@file@percent }
+\newlabel{biogen}{{1}{4}{Biogenesis of circRNAs. \textbf {A}: RNA binding protein circularization, \textbf {B}: Reverse complementary matching sequence circularization e.g ALU repeats in humans, \textbf {C}: Lariat-driven circularization, \textbf {D}: Intron lariat circularization. Back-splicing processes \textbf {A,B} and \textbf {C} may undergo additional splicing to remove intronic or exonic sequences}{figure.1}{}}
+\citation{Salzman2013Sep}
+\citation{Shi2022Dec}
+\citation{Panda2017Jul,Pandey2019Feb}
+\citation{DCC}
+\citation{Cocquet2006Jul}
+\citation{Roy2015}
+\citation{Salzman2014Jun}
+\citation{Salzman2012}
+\@writefile{toc}{\contentsline {section}{\numberline {3}Principles and challenges for circRNA identification}{5}{section.3}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.1}Library preparation}{5}{subsection.3.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.2}Sequencing artefacts}{5}{subsection.3.2}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {2}{\ignorespaces Advancements in biochemical and bioinformatics strategies for circRNA detection. \textbf  {Library preparation}: Left to right, in order of increasing circRNA sensitivity; poly(A)(+): unsuitable for circRNA detection, preferentially selects mRNAs; rRNA(-): ribosomal RNA depletion yielding a library with circRNAs and mRNAs; rRNA(-) \& poly(A)(-): ribosomal RNA depletion in conjunction with polyadenylation and depletion of poly(A) transcripts; rRNA(-) \& RNase R(+): ribosomal RNA depletion in conjunction with RNase R ribonuclease treatment depleting mRNAs; RPAD: RNase R treatment followed by polyadenylation and poly(A)\textsuperscript  RNA depletion, yielding a highly pure circRNA library. \textbf  {Alignment strategies}: Unmapped reads to the reference genome can be used to perform split alignment to identify reads aligning in opposite directions, or to map reads to a BSJ pseudo-reference. \textbf  {Validation strategies}: Paired-end sequencing greatly reduces false-positives, mates that map across the BSJ whose mates reside within the same transcript are indictive of circRNAs.}}{6}{figure.2}\protected@file@percent }
+\newlabel{artefacts}{{2}{6}{Advancements in biochemical and bioinformatics strategies for circRNA detection. \textbf {Library preparation}: Left to right, in order of increasing circRNA sensitivity; poly(A)(+): unsuitable for circRNA detection, preferentially selects mRNAs; rRNA(-): ribosomal RNA depletion yielding a library with circRNAs and mRNAs; rRNA(-) \& poly(A)(-): ribosomal RNA depletion in conjunction with polyadenylation and depletion of poly(A) transcripts; rRNA(-) \& RNase R(+): ribosomal RNA depletion in conjunction with RNase R ribonuclease treatment depleting mRNAs; RPAD: RNase R treatment followed by polyadenylation and poly(A)\textsuperscript RNA depletion, yielding a highly pure circRNA library. \textbf {Alignment strategies}: Unmapped reads to the reference genome can be used to perform split alignment to identify reads aligning in opposite directions, or to map reads to a BSJ pseudo-reference. \textbf {Validation strategies}: Paired-end sequencing greatly reduces false-positives, mates that map across the BSJ whose mates reside within the same transcript are indictive of circRNAs}{figure.2}{}}
+\citation{Salzman2012}
+\citation{Bowtie}
+\citation{find_circ}
+\citation{UROBORUS}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.3}BSJ-based circRNA identification}{7}{subsection.3.3}\protected@file@percent }
+\citation{PTESfinder}
+\citation{KNIFE}
+\citation{CIRI}
+\citation{CIRI2}
+\citation{CIRIquant}
+\citation{Sailfishcir}
+\citation{Patro2014May}
+\citation{ACFS}
+\citation{circRNA_finder}
+\citation{CIRCexplorer}
+\citation{CIRCexplorer2}
+\citation{TopHatFusion}
+\citation{BWA}
+\citation{MapSplice}
+\citation{STAR}
+\citation{segemehl}
+\citation{DCC}
+\citation{Engstrom2013Dec}
+\citation{NCLscan}
+\citation{segemehl}
+\citation{Hansen2016Apr}
+\citation{Hansen2018}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.4}Integration-based identification methods}{10}{subsection.3.4}\protected@file@percent }
+\newlabel{Integration-based identification methods}{{3.4}{10}{Integration-based identification methods}{subsection.3.4}{}}
+\citation{CirComPara}
+\citation{CirComPara2}
+\citation{circRNAwrap,DEBKS,circmeta,circRNAprofiler,FcircSEC}
+\citation{Digby2023Dec}
+\citation{CIRI-AS}
+\citation{CIRI-full}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.5}Full circle reconstruction}{12}{subsection.3.5}\protected@file@percent }
+\newlabel{Full circle reconstruction}{{3.5}{12}{Full circle reconstruction}{subsection.3.5}{}}
+\citation{FUCHS}
+\citation{Rhoads2015Oct,Deamer2016May,Byrne2017Jul,vanDijk2018Sep}
+\citation{CIRI-AS,CIRI-full,FUCHS}
+\citation{isoCirc}
+\citation{Jain2015Apr}
+\citation{Benson1999Jan}
+\citation{Li2018Sep}
+\citation{CIRIlong}
+\citation{Xiao2019Sep}
+\citation{Vaser2017May}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.6}circRNA identification using long-read sequencing}{13}{subsection.3.6}\protected@file@percent }
+\citation{circFLseq}
+\citation{Gao2019Jul}
+\citation{Benson1999Jan}
+\citation{circFLseq,Rahimi2021Dec}
+\citation{circFLseq}
+\citation{Ivanov2015Jan}
+\citation{Dubin1995Dec}
+\citation{Jeck2012Dec}
+\citation{Thomas2014Aug}
+\citation{PredcircRNA,circDeep,StackCirRNAPred,CirRNAPL}
+\citation{PredcircRNA}
+\citation{GraphProt}
+\citation{PhyloP}
+\citation{circDeep}
+\citation{phastCons}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.7}Machine learning circRNA identification}{15}{subsection.3.7}\protected@file@percent }
+\citation{DeepCirCode}
+\citation{circrnadb}
+\citation{circbase}
+\citation{JEDI}
+\citation{CIRIdeep}
+\citation{DARTS}
+\citation{CIRIquant}
+\citation{RNAAtlas}
+\citation{circatlas}
+\citation{GTExConsortium2013Jun}
+\citation{TCGA}
+\citation{Jeck2014May}
+\citation{circRNA_finder}
+\citation{find_circ}
+\citation{CIRIlong}
+\citation{CIRIquant,Sailfishcir,PTESfinder}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.8}Overview of computational challenges}{17}{subsection.3.8}\protected@file@percent }
+\citation{Szabo2016Oct}
+\citation{RAISE,CirComPara,CirComPara2,Digby2023Dec,circRNAwrap}
+\citation{Hansen2016Apr,Szabo2016Oct,Hansen2018,Zeng2017Jun,Vromman2023Aug}
+\citation{Vromman2023Aug,Zeng2017Jun}
+\citation{Zeng2017Jun}
+\citation{CirComPara2}
+\citation{Vromman2023Aug}
+\citation{CIRCexplorer}
+\citation{circRNA_finder}
+\citation{CIRI}
+\citation{DCC}
+\citation{find_circ}
+\citation{KNIFE}
+\citation{MapSplice}
+\citation{NCLscan}
+\citation{PTESfinder}
+\citation{segemehl}
+\citation{UROBORUS}
+\citation{circbase}
+\citation{Hansen2016Apr}
+\citation{Hansen2016Apr,Zeng2017Jun}
+\citation{Hansen2018}
+\citation{CirComPara2}
+\citation{CIRI2}
+\citation{CIRCexplorer2}
+\citation{BWA}
+\citation{segemehl}
+\citation{STAR}
+\citation{TopHat2,TopHatFusion}
+\citation{DCC}
+\citation{find_circ}
+\citation{circRNA_finder}
+\citation{segemehl}
+\citation{Digby2023Dec}
+\citation{CIRCexplorer3}
+\citation{CirComPara2}
+\citation{circRNA_finder}
+\citation{circseq_cup}
+\citation{CircSplice}
+\citation{circtools}
+\citation{CIRI2}
+\citation{CIRIquant}
+\citation{find_circ}
+\citation{KNIFE}
+\citation{NCLscan}
+\citation{NCLcomparator}
+\citation{PFv2}
+\citation{Sailfishcir}
+\citation{segemehl}
+\citation{ACFS}
+\citation{ACFS}
+\citation{ACValidator}
+\citation{ACValidator}
+\citation{ANNOgesic}
+\citation{ANNOgesic}
+\citation{AutoCirc}
+\citation{AutoCirc}
+\citation{BIQ}
+\citation{BIQ}
+\citation{CircAST}
+\citation{CircAST}
+\citation{CircDBG}
+\citation{CircDBG}
+\citation{circDeep}
+\citation{circDeep}
+\citation{CIRCexplorer}
+\citation{CIRCexplorer}
+\citation{CIRCexplorer2}
+\citation{CIRCexplorer2}
+\citation{CIRCexplorer3}
+\citation{CIRCexplorer3}
+\citation{circFLseq}
+\citation{circFLseq}
+\citation{circLGB-circMRT}
+\citation{circLGB-circMRT}
+\citation{circmeta}
+\citation{circmeta}
+\citation{CircMarker}
+\citation{CircMarker}
+\citation{CirComPara}
+\citation{CirComPara}
+\citation{CirComPara2}
+\citation{CirComPara2}
+\citation{CircPro}
+\citation{CircPro}
+\citation{circRNA_finder}
+\citation{circRNA_finder}
+\citation{circRNAFisher}
+\citation{circRNAFisher}
+\citation{circRNAprofiler}
+\citation{circRNAprofiler}
+\citation{circRNAwrap}
+\citation{circRNAwrap}
+\citation{circtools}
+\citation{circtools}
+\citation{circseq_cup}
+\citation{circseq_cup}
+\citation{CircSplice}
+\citation{CircSplice}
+\citation{CIRI}
+\citation{CIRI}
+\citation{CIRI2}
+\citation{CIRI2}
+\citation{CIRI-AS}
+\citation{CIRI-AS}
+\citation{CIRIdeep}
+\citation{CIRIdeep}
+\citation{CIRI-full}
+\citation{CIRI-full}
+\citation{CIRIlong}
+\citation{CIRIlong}
+\citation{CIRIquant}
+\citation{CIRIquant}
+\citation{CirRBP}
+\citation{CirRBP}
+\citation{CirRNAPL}
+\citation{CirRNAPL}
+\citation{CRIP}
+\citation{CRIP}
+\citation{CYCLeR}
+\citation{CYCLeR}
+\citation{DCC}
+\citation{DCC}
+\citation{DEBKS}
+\citation{DEBKS}
+\citation{DeepCirCode}
+\citation{DeepCirCode}
+\citation{exceRpt}
+\citation{exceRpt}
+\citation{FcircSEC}
+\citation{FcircSEC}
+\citation{find_circ}
+\citation{find_circ}
+\citation{FUCHS}
+\citation{FUCHS}
+\citation{hppRNA}
+\citation{hppRNA}
+\citation{isoCirc}
+\citation{isoCirc}
+\citation{JEDI}
+\citation{JEDI}
+\citation{KNIFE}
+\citation{KNIFE}
+\citation{MapSplice}
+\citation{MapSplice}
+\citation{miARma}
+\citation{miARma}
+\citation{NCLcomparator}
+\citation{NCLcomparator}
+\citation{NCLscan}
+\citation{NCLscan}
+\citation{Digby2023Dec}
+\citation{Digby2023Dec}
+\citation{Pcirc}
+\citation{Pcirc}
+\citation{PcircRNA_finder}
+\citation{PcircRNA_finder}
+\citation{PRAPI}
+\citation{PRAPI}
+\citation{PredcircRNA}
+\citation{PredcircRNA}
+\citation{PredcircRNATool}
+\citation{PredcircRNATool}
+\citation{PTESfinder}
+\citation{PTESfinder}
+\citation{PFv2}
+\citation{PFv2}
+\citation{RAISE}
+\citation{RAISE}
+\citation{ROP}
+\citation{ROP}
+\citation{segemehl}
+\citation{segemehl}
+\citation{StackCirRNAPred}
+\citation{StackCirRNAPred}
+\citation{STARChip}
+\citation{STARChip}
+\citation{Ularcirc}
+\citation{Ularcirc}
+\citation{UROBORUS}
+\citation{UROBORUS}
+\citation{ACFS}
+\citation{ACFS}
+\citation{ACValidator}
+\citation{ACValidator}
+\citation{ANNOgesic}
+\citation{ANNOgesic}
+\citation{AutoCirc}
+\citation{AutoCirc}
+\citation{BIQ}
+\citation{BIQ}
+\citation{CircAST}
+\citation{CircAST}
+\citation{CircDBG}
+\citation{CircDBG}
+\citation{circDeep}
+\citation{circDeep}
+\citation{CIRCexplorer}
+\citation{CIRCexplorer}
+\citation{CIRCexplorer2}
+\citation{CIRCexplorer2}
+\citation{CIRCexplorer3}
+\citation{CIRCexplorer3}
+\citation{circFLseq}
+\citation{circFLseq}
+\citation{circLGB-circMRT}
+\citation{circLGB-circMRT}
+\citation{circmeta}
+\citation{circmeta}
+\citation{CircMarker}
+\citation{CircMarker}
+\citation{CirComPara}
+\citation{CirComPara}
+\citation{CirComPara2}
+\citation{CirComPara2}
+\citation{CircPro}
+\citation{CircPro}
+\citation{circRNA_finder}
+\citation{circRNA_finder}
+\citation{circRNAFisher}
+\citation{circRNAFisher}
+\citation{circRNAprofiler}
+\citation{circRNAprofiler}
+\citation{circRNAwrap}
+\citation{circRNAwrap}
+\citation{circtools}
+\citation{circtools}
+\citation{circseq_cup}
+\citation{circseq_cup}
+\citation{CircSplice}
+\citation{CircSplice}
+\citation{CIRI}
+\citation{CIRI}
+\citation{CIRI2}
+\citation{CIRI2}
+\citation{CIRI-AS}
+\citation{CIRI-AS}
+\citation{CIRIdeep}
+\citation{CIRIdeep}
+\citation{CIRI-full}
+\citation{CIRI-full}
+\citation{CIRIlong}
+\citation{CIRIlong}
+\citation{CIRIquant}
+\citation{CIRIquant}
+\citation{CirRBP}
+\citation{CirRBP}
+\citation{CirRNAPL}
+\citation{CirRNAPL}
+\citation{CRIP}
+\citation{CRIP}
+\citation{CYCLeR}
+\citation{CYCLeR}
+\citation{DCC}
+\citation{DCC}
+\citation{DEBKS}
+\citation{DEBKS}
+\citation{DeepCirCode}
+\citation{DeepCirCode}
+\citation{exceRpt}
+\citation{exceRpt}
+\citation{FcircSEC}
+\citation{FcircSEC}
+\citation{find_circ}
+\citation{find_circ}
+\citation{FUCHS}
+\citation{FUCHS}
+\citation{hppRNA}
+\citation{hppRNA}
+\citation{isoCirc}
+\citation{JEDI}
+\citation{JEDI}
+\citation{KNIFE}
+\citation{KNIFE}
+\citation{MapSplice}
+\citation{MapSplice}
+\citation{miARma}
+\citation{miARma}
+\citation{NCLcomparator}
+\citation{NCLcomparator}
+\citation{NCLscan}
+\citation{NCLscan}
+\citation{Digby2023Dec}
+\citation{Digby2023Dec}
+\citation{Pcirc}
+\citation{Pcirc}
+\citation{PcircRNA_finder}
+\citation{PcircRNA_finder}
+\citation{PRAPI}
+\citation{PRAPI}
+\citation{PredcircRNA}
+\citation{PredcircRNA}
+\citation{PredcircRNATool}
+\citation{PredcircRNATool}
+\citation{PTESfinder}
+\citation{PTESfinder}
+\citation{PFv2}
+\citation{PFv2}
+\citation{RAISE}
+\citation{RAISE}
+\citation{ROP}
+\citation{ROP}
+\citation{segemehl}
+\citation{segemehl}
+\citation{StackCirRNAPred}
+\citation{StackCirRNAPred}
+\citation{STARChip}
+\citation{STARChip}
+\citation{Ularcirc}
+\citation{Ularcirc}
+\citation{UROBORUS}
+\citation{UROBORUS}
+\citation{ACFS}
+\citation{ACFS}
+\citation{ACValidator}
+\citation{ACValidator}
+\citation{ANNOgesic}
+\citation{ANNOgesic}
+\citation{AutoCirc}
+\citation{AutoCirc}
+\citation{BIQ}
+\citation{BIQ}
+\citation{CircAST}
+\citation{CircAST}
+\citation{CircDBG}
+\citation{CircDBG}
+\citation{circDeep}
+\citation{circDeep}
+\citation{CIRCexplorer}
+\citation{CIRCexplorer}
+\newlabel{circtools}{{1}{22}{Vromman et al. 2023}{table.1}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {1}{Bioinformatic tools for circRNA identification, quantification, isoform detection, full circle reconstruction, target prediction and differential expression analysis.}}{22}{table.1}\protected@file@percent }
+\citation{CIRCexplorer2}
+\citation{CIRCexplorer2}
+\citation{CIRCexplorer3}
+\citation{CIRCexplorer3}
+\citation{circFLseq}
+\citation{circFLseq}
+\citation{circLGB-circMRT}
+\citation{circLGB-circMRT}
+\citation{circmeta}
+\citation{circmeta}
+\citation{CircMarker}
+\citation{CircMarker}
+\citation{CirComPara}
+\citation{CirComPara}
+\citation{CirComPara2}
+\citation{CirComPara2}
+\citation{CircPro}
+\citation{CircPro}
+\citation{circRNA_finder}
+\citation{circRNA_finder}
+\citation{circRNAFisher}
+\citation{circRNAFisher}
+\citation{circRNAprofiler}
+\citation{circRNAprofiler}
+\citation{circRNAwrap}
+\citation{circRNAwrap}
+\citation{circtools}
+\citation{circtools}
+\citation{circseq_cup}
+\citation{circseq_cup}
+\citation{CircSplice}
+\citation{CircSplice}
+\citation{CIRI}
+\citation{CIRI}
+\citation{CIRI2}
+\citation{CIRI2}
+\citation{CIRI-AS}
+\citation{CIRI-AS}
+\citation{CIRIdeep}
+\citation{CIRIdeep}
+\citation{CIRI-full}
+\citation{CIRI-full}
+\citation{CIRIlong}
+\citation{CIRIlong}
+\citation{CIRIquant}
+\citation{CIRIquant}
+\citation{CirRBP}
+\citation{CirRBP}
+\citation{CirRNAPL}
+\citation{CirRNAPL}
+\citation{CRIP}
+\citation{CRIP}
+\citation{CYCLeR}
+\citation{CYCLeR}
+\citation{DCC}
+\citation{DCC}
+\citation{DEBKS}
+\citation{DEBKS}
+\citation{DeepCirCode}
+\citation{DeepCirCode}
+\citation{exceRpt}
+\citation{exceRpt}
+\citation{FcircSEC}
+\citation{FcircSEC}
+\citation{find_circ}
+\citation{find_circ}
+\citation{FUCHS}
+\citation{FUCHS}
+\citation{hppRNA}
+\citation{hppRNA}
+\citation{isoCirc}
+\citation{JEDI}
+\citation{JEDI}
+\citation{KNIFE}
+\citation{KNIFE}
+\citation{MapSplice}
+\citation{MapSplice}
+\citation{miARma}
+\citation{miARma}
+\citation{NCLcomparator}
+\citation{NCLcomparator}
+\citation{NCLscan}
+\citation{NCLscan}
+\citation{Digby2023Dec}
+\citation{Digby2023Dec}
+\citation{Pcirc}
+\citation{Pcirc}
+\citation{PcircRNA_finder}
+\citation{PcircRNA_finder}
+\citation{PRAPI}
+\citation{PRAPI}
+\citation{PredcircRNA}
+\citation{PredcircRNA}
+\citation{PredcircRNATool}
+\citation{PredcircRNATool}
+\citation{PTESfinder}
+\citation{PTESfinder}
+\citation{PFv2}
+\citation{PFv2}
+\citation{RAISE}
+\citation{RAISE}
+\citation{ROP}
+\citation{ROP}
+\citation{segemehl}
+\citation{segemehl}
+\citation{StackCirRNAPred}
+\citation{StackCirRNAPred}
+\citation{STARChip}
+\citation{STARChip}
+\citation{Ularcirc}
+\citation{Ularcirc}
+\citation{UROBORUS}
+\citation{UROBORUS}
+\citation{Love2014Dec}
+\citation{Robinson2010Jan}
+\citation{Law2014Feb}
+\citation{Hansen2018,CirComPara2,Digby2023Dec}
+\citation{Hansen2016Apr,Hansen2018}
+\citation{Buratin2022}
+\citation{Hansen2018}
+\@writefile{toc}{\contentsline {section}{\numberline {4}Differential expression analysis}{27}{section.4}\protected@file@percent }
+\citation{CIRIquant,Digby2023Dec}
+\citation{CIRI,CIRI2,CIRIquant,DCC}
+\citation{Fay2022May}
+\citation{Lancelot2022Apr}
+\citation{Hansen2013Mar,find_circ}
+\citation{circbase}
+\citation{CSCD}
+\citation{starbase}
+\citation{mirbase}
+\citation{mirtarbase}
+\citation{mirnet}
+\citation{Targetscan}
+\@writefile{toc}{\contentsline {section}{\numberline {5}circRNA interactions}{28}{section.5}\protected@file@percent }
+\citation{miranda}
+\citation{Targetscan}
+\citation{cytoscape}
+\citation{Ashwal-Fluss2014Oct,Conn2015Mar,Errichelli2017Mar,Fei2017Jun,Khan2016Oct}
+\citation{Ivanov2015Jan,Aktas2017Apr}
+\citation{Abdelmohsen2017Feb}
+\citation{Du2016Apr}
+\citation{Clirc}
+\citation{circinteractome}
+\citation{starbase}
+\citation{CRIP}
+\citation{CirRBP}
+\citation{cirRBP-website}
+\@writefile{lof}{\contentsline {figure}{\numberline {3}{\ignorespaces Cytoscape visualisation of a ceRNA network. CircRNAs are represented as ellipse nodes, miRNAs as arrow nodes and mRNAs as rectangular nodes. Edges represent interactions predicted by both miRanda and TargetScan. The network has been filtered to select circRNA-miRNA-mRNA subgraphs representing circRNA sponging of miRNAs whereby upregulation of one biotype influences the expression of downstream targets.}}{30}{figure.3}\protected@file@percent }
+\newlabel{network}{{3}{30}{Cytoscape visualisation of a ceRNA network. CircRNAs are represented as ellipse nodes, miRNAs as arrow nodes and mRNAs as rectangular nodes. Edges represent interactions predicted by both miRanda and TargetScan. The network has been filtered to select circRNA-miRNA-mRNA subgraphs representing circRNA sponging of miRNAs whereby upregulation of one biotype influences the expression of downstream targets}{figure.3}{}}
+\citation{find_circ,Salzman2012,Jeck2012Dec,Salzman2014Jun,Ivanov2015Jan,Rybak-Wolf2015Jun,Ashwal-Fluss2014Oct,Maass2017Nov}
+\citation{circbase}
+\citation{CSCD2}
+\citation{circrnadb}
+\citation{starbase}
+\citation{TRCirc}
+\citation{circ2disease}
+\citation{Chen2023Jan}
+\citation{circatlas3}
+\citation{ENSEMBL2023}
+\citation{RefSeq}
+\@writefile{toc}{\contentsline {section}{\numberline {6}circRNA databases}{31}{section.6}\protected@file@percent }
+\citation{atcircdb}
+\citation{atcircdb}
+\citation{circatlas}
+\citation{circatlas}
+\citation{circbase}
+\citation{circbase}
+\citation{circbank}
+\citation{circbank}
+\citation{circinteractome}
+\citation{circinteractome}
+\citation{circnet}
+\citation{circnet}
+\citation{circfunbase}
+\citation{circfunbase}
+\citation{circpedia}
+\citation{circpedia}
+\citation{CSCD2}
+\citation{CSCD2}
+\citation{circrnadb}
+\citation{circrnadb}
+\citation{CircRiC}
+\citation{CircRiC}
+\citation{circ2disease}
+\citation{circ2disease}
+\citation{circr2disease}
+\citation{circr2disease}
+\citation{circ2traits}
+\citation{circ2traits}
+\citation{circrnadisease}
+\citation{circrnadisease}
+\citation{cropcircdb}
+\citation{cropcircdb}
+\citation{deepbase}
+\citation{deepbase}
+\citation{exoRBase}
+\citation{exoRBase}
+\citation{mioncocirc}
+\citation{mioncocirc}
+\citation{neurocirc}
+\citation{neurocirc}
+\citation{plantcircnet}
+\citation{plantcircnet}
+\citation{plantcircbase}
+\citation{plantcircbase}
+\citation{starbase}
+\citation{starbase}
+\citation{TRCirc}
+\citation{TRCirc}
+\citation{atcircdb}
+\citation{atcircdb}
+\citation{circatlas}
+\citation{circatlas}
+\citation{circbase}
+\citation{circbase}
+\citation{circbank}
+\citation{circbank}
+\citation{circinteractome}
+\citation{circinteractome}
+\citation{circnet}
+\citation{circnet}
+\citation{circfunbase}
+\citation{circfunbase}
+\citation{circpedia}
+\citation{circpedia}
+\citation{CSCD2}
+\citation{CSCD2}
+\citation{circrnadb}
+\citation{circrnadb}
+\citation{CircRiC}
+\citation{CircRiC}
+\citation{circ2disease}
+\citation{circ2disease}
+\citation{circr2disease}
+\citation{circr2disease}
+\citation{circ2traits}
+\citation{circ2traits}
+\citation{circrnadisease}
+\citation{circrnadisease}
+\citation{cropcircdb}
+\citation{cropcircdb}
+\citation{deepbase}
+\citation{deepbase}
+\citation{exoRBase}
+\citation{exoRBase}
+\citation{mioncocirc}
+\citation{mioncocirc}
+\citation{neurocirc}
+\citation{neurocirc}
+\citation{plantcircnet}
+\citation{plantcircnet}
+\citation{plantcircbase}
+\citation{plantcircbase}
+\citation{starbase}
+\citation{starbase}
+\citation{TRCirc}
+\citation{TRCirc}
+\citation{atcircdb}
+\citation{atcircdb}
+\citation{circatlas}
+\citation{circatlas}
+\citation{circbase}
+\citation{circbase}
+\citation{circbank}
+\citation{circbank}
+\citation{circinteractome}
+\citation{circinteractome}
+\citation{circnet}
+\citation{circnet}
+\citation{circfunbase}
+\citation{circfunbase}
+\citation{circpedia}
+\citation{circpedia}
+\citation{CSCD2}
+\citation{CSCD2}
+\citation{circrnadb}
+\citation{circrnadb}
+\citation{CircRiC}
+\citation{CircRiC}
+\citation{circ2disease}
+\citation{circ2disease}
+\citation{circr2disease}
+\citation{circr2disease}
+\citation{circ2traits}
+\citation{circ2traits}
+\citation{circrnadisease}
+\citation{circrnadisease}
+\newlabel{circdb}{{2}{32}{circRNA databases}{table.2}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {2}{Online databases for circRNAs}}{32}{table.2}\protected@file@percent }
+\citation{cropcircdb}
+\citation{cropcircdb}
+\citation{deepbase}
+\citation{deepbase}
+\citation{exoRBase}
+\citation{exoRBase}
+\citation{mioncocirc}
+\citation{mioncocirc}
+\citation{neurocirc}
+\citation{neurocirc}
+\citation{plantcircnet}
+\citation{plantcircnet}
+\citation{plantcircbase}
+\citation{plantcircbase}
+\citation{starbase}
+\citation{starbase}
+\citation{TRCirc}
+\citation{TRCirc}
+\citation{kallisto}
+\citation{Salmon}
+\@writefile{toc}{\contentsline {section}{\numberline {7}Concluding remarks}{33}{section.7}\protected@file@percent }
+\@writefile{toc}{\contentsline {subparagraph}{Supplementary Information}{34}{section*.9}\protected@file@percent }
+\@writefile{toc}{\contentsline {subparagraph}{Acknowledgements}{34}{section*.10}\protected@file@percent }
+\bibdata{sn-bibliography}
+\bibcite{Sanger1976}{{1}{1976}{{Sanger et~al.}}{{}}}
+\bibcite{Kolakofsky1976Aug}{{2}{1976}{{Kolakofsky}}{{}}}
+\bibcite{Kos1986Oct}{{3}{1986}{{Kos et~al.}}{{}}}
+\bibcite{Hsu1979Jul}{{4}{1979}{{Hsu and Coca-Prados}}{{}}}
+\bibcite{Grabowski1981Feb}{{5}{1981}{{Grabowski et~al.}}{{}}}
+\bibcite{Kruger1982Nov}{{6}{1982}{{Kruger et~al.}}{{}}}
+\bibcite{Zaug1983Feb}{{7}{1983}{{Zaug et~al.}}{{}}}
+\bibcite{Nigro1991Feb}{{8}{1991}{{Nigro et~al.}}{{}}}
+\bibcite{Cocquerelle1992Mar}{{9}{1992}{{Cocquerelle et~al.}}{{}}}
+\bibcite{Qian1992}{{10}{1992}{{Qian et~al.}}{{}}}
+\bibcite{Cocquerelle1993Jan}{{11}{1993}{{Cocquerelle et~al.}}{{}}}
+\bibcite{Capel1993Jun}{{12}{1993}{{Capel et~al.}}{{}}}
+\bibcite{Zaphiropoulos1996}{{13}{1996}{{Zaphiropoulos}}{{}}}
+\bibcite{Zaphiropoulos1997Jun}{{14}{1997}{{Zaphiropoulos}}{{}}}
+\bibcite{Surono1999Mar}{{15}{1999}{{Surono et~al.}}{{}}}
+\bibcite{Li1999Mar}{{16}{1999}{{Li and Lytton}}{{}}}
+\bibcite{Houseley2006May}{{17}{2006}{{Houseley et~al.}}{{}}}
+\bibcite{Burd2010Dec}{{18}{2010}{{Burd et~al.}}{{}}}
+\bibcite{Salzman2012}{{19}{2012}{{Salzman et~al.}}{{}}}
+\bibcite{Jeck2012Dec}{{20}{2012}{{Jeck et~al.}}{{}}}
+\bibcite{Hansen2013Mar}{{21}{2013}{{Hansen et~al.}}{{}}}
+\bibcite{find_circ}{{22}{2013}{{Memczak et~al.}}{{}}}
+\bibcite{Danan2012Apr}{{23}{2012}{{Danan et~al.}}{{}}}
+\bibcite{Jeck2014May}{{24}{2014}{{Jeck and Sharpless}}{{}}}
+\bibcite{Ashwal-Fluss2014Oct}{{25}{2014}{{Ashwal-Fluss et~al.}}{{}}}
+\bibcite{Chen2015Apr}{{26}{2015}{{Chen and Yang}}{{}}}
+\bibcite{circRNA_finder}{{27}{2014}{{Westholm et~al.}}{{}}}
+\bibcite{Gruner2016}{{28}{2016}{{Gruner et~al.}}{{}}}
+\bibcite{Rybak-Wolf2015Jun}{{29}{2015}{{Rybak-Wolf et~al.}}{{}}}
+\bibcite{Li2015Aug}{{30}{2015}{{Li et~al.}}{{}}}
+\bibcite{Wan2016}{{31}{2016}{{Wan et~al.}}{{}}}
+\bibcite{Verduci2017Dec}{{32}{2017}{{Verduci et~al.}}{{}}}
+\bibcite{Bayat2023Jun}{{33}{2023}{{Bayat et~al.}}{{}}}
+\bibcite{Greene2017Jun}{{34}{2017}{{Greene et~al.}}{{}}}
+\bibcite{Kristensen2019Nov}{{35}{2019}{{Kristensen et~al.}}{{}}}
+\bibcite{Li2018Aug}{{36}{2018}{{Li et~al.}}{{}}}
+\bibcite{Ren2022Dec}{{37}{2022}{{Ren et~al.}}{{}}}
+\bibcite{Yang2021May}{{38}{2021}{{Yang et~al.}}{{}}}
+\bibcite{Huang2020}{{39}{2020}{{Huang et~al.}}{{}}}
+\bibcite{Panda2018}{{40}{2018}{{Panda}}{{}}}
+\bibcite{Santos-Rodriguez2021Sep}{{41}{2021}{{Santos-Rodriguez et~al.}}{{}}}
+\bibcite{BibEntry2019Dec}{{42}{2019}{{}}{{}}}
+\bibcite{Starke2015Jan}{{43}{2015}{{Starke et~al.}}{{}}}
+\bibcite{Conn2015Mar}{{44}{2015}{{Conn et~al.}}{{}}}
+\bibcite{Errichelli2017Mar}{{45}{2017}{{Errichelli et~al.}}{{}}}
+\bibcite{Wilusz2015May}{{46}{2015}{{Wilusz}}{{}}}
+\bibcite{CIRCexplorer}{{47}{2014}{{Zhang et~al.}}{{}}}
+\bibcite{Liang2014Oct}{{48}{2014}{{Liang and Wilusz}}{{}}}
+\bibcite{Mokry2010Jun}{{49}{2010}{{Mokry et~al.}}{{}}}
+\bibcite{Li2019Sep}{{50}{2019}{{Li et~al.}}{{}}}
+\bibcite{Pisignano2023Sep}{{51}{2023}{{Pisignano et~al.}}{{}}}
+\bibcite{Zhang2013Sep}{{52}{2013}{{Zhang et~al.}}{{}}}
+\bibcite{Talhouarne2014Jul}{{53}{2014}{{Talhouarne and Gall}}{{}}}
+\bibcite{Suzuki2006May}{{54}{2006}{{Suzuki et~al.}}{{}}}
+\bibcite{Enuka2016Feb}{{55}{2016}{{Enuka et~al.}}{{}}}
+\bibcite{Li2015Apr}{{56}{2015}{{Li et~al.}}{{}}}
+\bibcite{Bachmayr-Heyda2015}{{57}{2015}{{Bachmayr-Heyda et~al.}}{{}}}
+\bibcite{Lim2021Dec}{{58}{2021}{{Lim et~al.}}{{}}}
+\bibcite{Shi2020Mar}{{59}{2020}{{Shi et~al.}}{{}}}
+\bibcite{Wang2019Feb}{{60}{2019}{{Wang et~al.}}{{}}}
+\bibcite{Wu2023Apr}{{61}{2023}{{Wu et~al.}}{{}}}
+\bibcite{Pan2019Nov}{{62}{2019}{{Pan et~al.}}{{}}}
+\bibcite{Li2020Mar}{{63}{2020}{{Li et~al.}}{{}}}
+\bibcite{Chen2020Apr}{{64}{2020}{{Chen et~al.}}{{}}}
+\bibcite{Louis2019Nov}{{65}{2019}{{Louis et~al.}}{{}}}
+\bibcite{Hansen2011Sep}{{66}{2011}{{Hansen et~al.}}{{}}}
+\bibcite{Li2021Nov}{{67}{2021}{{Li et~al.}}{{}}}
+\bibcite{Park2019May}{{68}{2019}{{Park et~al.}}{{}}}
+\bibcite{Salzman2013Sep}{{69}{2013}{{Salzman et~al.}}{{}}}
+\bibcite{Shi2022Dec}{{70}{2022}{{Shi et~al.}}{{}}}
+\bibcite{Panda2017Jul}{{71}{2017}{{Panda et~al.}}{{}}}
+\bibcite{Pandey2019Feb}{{72}{2019}{{Pandey et~al.}}{{}}}
+\bibcite{DCC}{{73}{2016}{{Cheng et~al.}}{{}}}
+\bibcite{Cocquet2006Jul}{{74}{2006}{{Cocquet et~al.}}{{}}}
+\bibcite{Roy2015}{{75}{2015}{{Roy et~al.}}{{}}}
+\bibcite{Salzman2014Jun}{{76}{2014}{{Salzman}}{{}}}
+\bibcite{Bowtie}{{77}{2009}{{Langmead et~al.}}{{}}}
+\bibcite{UROBORUS}{{78}{2016}{{Song et~al.}}{{}}}
+\bibcite{PTESfinder}{{79}{2016}{{Izuogu et~al.}}{{}}}
+\bibcite{KNIFE}{{80}{2015}{{Szabo et~al.}}{{}}}
+\bibcite{CIRI}{{81}{2015}{{Gao et~al.}}{{}}}
+\bibcite{CIRI2}{{82}{2018}{{Gao et~al.}}{{}}}
+\bibcite{CIRIquant}{{83}{2020}{{Zhang et~al.}}{{}}}
+\bibcite{Sailfishcir}{{84}{2017}{{Li et~al.}}{{}}}
+\bibcite{Patro2014May}{{85}{2014}{{Patro et~al.}}{{}}}
+\bibcite{ACFS}{{86}{2016}{{You and Conrad}}{{}}}
+\bibcite{CIRCexplorer2}{{87}{2016}{{Zhang et~al.}}{{}}}
+\bibcite{TopHatFusion}{{88}{2011}{{Kim and Salzberg}}{{}}}
+\bibcite{BWA}{{89}{2013}{{Li}}{{}}}
+\bibcite{MapSplice}{{90}{2010}{{Wang et~al.}}{{}}}
+\bibcite{STAR}{{91}{2013}{{Dobin et~al.}}{{}}}
+\bibcite{segemehl}{{92}{2009}{{Hoffmann et~al.}}{{}}}
+\bibcite{Engstrom2013Dec}{{93}{2013}{{Engstr{\"{o}}m et~al.}}{{}}}
+\bibcite{NCLscan}{{94}{2016}{{Chuang et~al.}}{{}}}
+\bibcite{Hansen2016Apr}{{95}{2016}{{Hansen et~al.}}{{}}}
+\bibcite{Hansen2018}{{96}{2018}{{Hansen}}{{}}}
+\bibcite{CirComPara}{{97}{2017}{{Gaffo et~al.}}{{}}}
+\bibcite{CirComPara2}{{98}{2022}{{Gaffo et~al.}}{{}}}
+\bibcite{circRNAwrap}{{99}{2019}{{Li et~al.}}{{}}}
+\bibcite{DEBKS}{{100}{2021}{{Liu et~al.}}{{}}}
+\bibcite{circmeta}{{101}{2020}{{Chen et~al.}}{{}}}
+\bibcite{circRNAprofiler}{{102}{2020}{{Aufiero et~al.}}{{}}}
+\bibcite{FcircSEC}{{103}{2020}{{Hossain et~al.}}{{}}}
+\bibcite{Digby2023Dec}{{104}{2023}{{Digby et~al.}}{{}}}
+\bibcite{CIRI-AS}{{105}{2016}{{Gao et~al.}}{{}}}
+\bibcite{CIRI-full}{{106}{2019}{{Zheng et~al.}}{{}}}
+\bibcite{FUCHS}{{107}{2017}{{Metge et~al.}}{{}}}
+\bibcite{Rhoads2015Oct}{{108}{2015}{{Rhoads and Au}}{{}}}
+\bibcite{Deamer2016May}{{109}{2016}{{Deamer et~al.}}{{}}}
+\bibcite{Byrne2017Jul}{{110}{2017}{{Byrne et~al.}}{{}}}
+\bibcite{vanDijk2018Sep}{{111}{2018}{{van Dijk et~al.}}{{}}}
+\bibcite{isoCirc}{{112}{2021}{{Xin et~al.}}{{}}}
+\bibcite{Jain2015Apr}{{113}{2015}{{Jain et~al.}}{{}}}
+\bibcite{Benson1999Jan}{{114}{1999}{{Benson}}{{}}}
+\bibcite{Li2018Sep}{{115}{2018}{{Li}}{{}}}
+\bibcite{CIRIlong}{{116}{2021}{{Zhang et~al.}}{{}}}
+\bibcite{Xiao2019Sep}{{117}{2019}{{Xiao and Wilusz}}{{}}}
+\bibcite{Vaser2017May}{{118}{2017}{{Vaser et~al.}}{{}}}
+\bibcite{circFLseq}{{119}{2021}{{Liu et~al.}}{{}}}
+\bibcite{Gao2019Jul}{{120}{2019}{{Gao et~al.}}{{}}}
+\bibcite{Rahimi2021Dec}{{121}{2021}{{Rahimi et~al.}}{{}}}
+\bibcite{Ivanov2015Jan}{{122}{2015}{{Ivanov et~al.}}{{}}}
+\bibcite{Dubin1995Dec}{{123}{1995}{{Dubin et~al.}}{{}}}
+\bibcite{Thomas2014Aug}{{124}{2014}{{Thomas and S{\ae }trom}}{{}}}
+\bibcite{PredcircRNA}{{125}{2015}{{Pan and Xiong}}{{}}}
+\bibcite{circDeep}{{126}{2020}{{Chaabane et~al.}}{{}}}
+\bibcite{StackCirRNAPred}{{127}{2022}{{Wang et~al.}}{{}}}
+\bibcite{CirRNAPL}{{128}{2020}{{Niu et~al.}}{{}}}
+\bibcite{GraphProt}{{129}{2014}{{Maticzka et~al.}}{{}}}
+\bibcite{PhyloP}{{130}{2009}{{Pollard et~al.}}{{}}}
+\bibcite{phastCons}{{131}{2005}{{Siepel et~al.}}{{}}}
+\bibcite{DeepCirCode}{{132}{2019}{{Wang and Wang}}{{}}}
+\bibcite{circrnadb}{{133}{2016}{{Chen et~al.}}{{}}}
+\bibcite{circbase}{{134}{2014}{{Gla{\v {z}}ar et~al.}}{{}}}
+\bibcite{JEDI}{{135}{2021}{{Jiang et~al.}}{{}}}
+\bibcite{CIRIdeep}{{136}{2024}{{Zhou et~al.}}{{}}}
+\bibcite{DARTS}{{137}{2019}{{Zhang et~al.}}{{}}}
+\bibcite{RNAAtlas}{{138}{2019}{{Ji et~al.}}{{}}}
+\bibcite{circatlas}{{139}{2020}{{Wu et~al.}}{{}}}
+\bibcite{GTExConsortium2013Jun}{{140}{2013}{{{GTEx Consortium} et~al.}}{{}}}
+\bibcite{TCGA}{{141}{2012}{{}}{{}}}
+\bibcite{Szabo2016Oct}{{142}{2016}{{Szabo and Salzman}}{{}}}
+\bibcite{RAISE}{{143}{2017}{{Li et~al.}}{{}}}
+\bibcite{Zeng2017Jun}{{144}{2017}{{Zeng et~al.}}{{}}}
+\bibcite{Vromman2023Aug}{{145}{2023}{{Vromman et~al.}}{{}}}
+\bibcite{TopHat2}{{146}{2013}{{Kim et~al.}}{{}}}
+\bibcite{CIRCexplorer3}{{147}{2019}{{Ma et~al.}}{{}}}
+\bibcite{circseq_cup}{{148}{2017}{{Ye et~al.}}{{}}}
+\bibcite{CircSplice}{{149}{2019}{{Feng et~al.}}{{}}}
+\bibcite{circtools}{{150}{2019}{{Jakobi et~al.}}{{}}}
+\bibcite{NCLcomparator}{{151}{2019}{{Chen and Chuang}}{{}}}
+\bibcite{PFv2}{{152}{2018}{{Izuogu et~al.}}{{}}}
+\bibcite{ACValidator}{{153}{2020}{{Sekar et~al.}}{{}}}
+\bibcite{ANNOgesic}{{154}{2018}{{Yu et~al.}}{{}}}
+\bibcite{AutoCirc}{{155}{2017}{{Zhou et~al.}}{{}}}
+\bibcite{BIQ}{{156}{2019}{{Menzel and Meyer}}{{}}}
+\bibcite{CircAST}{{157}{2019}{{Wu et~al.}}{{}}}
+\bibcite{CircDBG}{{158}{2020}{{Li and Wu}}{{}}}
+\bibcite{circLGB-circMRT}{{159}{2020}{{Zhang et~al.}}{{}}}
+\bibcite{CircMarker}{{160}{2018}{{Li et~al.}}{{}}}
+\bibcite{CircPro}{{161}{2017}{{Meng et~al.}}{{}}}
+\bibcite{circRNAFisher}{{162}{2019}{{Jia et~al.}}{{}}}
+\bibcite{CirRBP}{{163}{2022}{{Wang and Lei}}{{}}}
+\bibcite{CRIP}{{164}{2019}{{Zhang et~al.}}{{}}}
+\bibcite{CYCLeR}{{165}{2023}{{Stefanov and Meyer}}{{}}}
+\bibcite{exceRpt}{{166}{2019}{{Rozowsky et~al.}}{{}}}
+\bibcite{hppRNA}{{167}{2018}{{Wang}}{{}}}
+\bibcite{miARma}{{168}{2016}{{Andr{\'{e}}s-Le{\'{o}}n et~al.}}{{}}}
+\bibcite{Pcirc}{{169}{2021}{{Yin et~al.}}{{}}}
+\bibcite{PcircRNA_finder}{{170}{2016}{{Chen et~al.}}{{}}}
+\bibcite{PRAPI}{{171}{2018}{{Gao et~al.}}{{}}}
+\bibcite{PredcircRNATool}{{172}{2016}{{Liu et~al.}}{{}}}
+\bibcite{ROP}{{173}{2018}{{Mangul et~al.}}{{}}}
+\bibcite{STARChip}{{174}{2018}{{Akers et~al.}}{{}}}
+\bibcite{Ularcirc}{{175}{2019}{{Humphreys et~al.}}{{}}}
+\bibcite{Love2014Dec}{{176}{2014}{{Love et~al.}}{{}}}
+\bibcite{Robinson2010Jan}{{177}{2010}{{Robinson et~al.}}{{}}}
+\bibcite{Law2014Feb}{{178}{2014}{{Law et~al.}}{{}}}
+\bibcite{Buratin2022}{{179}{2022}{{Buratin et~al.}}{{}}}
+\bibcite{Fay2022May}{{180}{2022}{{Fay}}{{}}}
+\bibcite{Lancelot2022Apr}{{181}{2022}{{Lancelot and Renaud}}{{}}}
+\bibcite{CSCD}{{182}{2018}{{Xia et~al.}}{{}}}
+\bibcite{starbase}{{183}{2014}{{Li et~al.}}{{}}}
+\bibcite{mirbase}{{184}{2019}{{Kozomara et~al.}}{{}}}
+\bibcite{mirtarbase}{{185}{2011}{{Hsu et~al.}}{{}}}
+\bibcite{mirnet}{{186}{2020}{{Chang et~al.}}{{}}}
+\bibcite{Targetscan}{{187}{2015}{{Agarwal et~al.}}{{}}}
+\bibcite{miranda}{{188}{2003}{{Enright et~al.}}{{}}}
+\bibcite{cytoscape}{{189}{2003}{{Shannon et~al.}}{{}}}
+\bibcite{Fei2017Jun}{{190}{2017}{{Fei et~al.}}{{}}}
+\bibcite{Khan2016Oct}{{191}{2016}{{Khan et~al.}}{{}}}
+\bibcite{Aktas2017Apr}{{192}{2017}{{Akta{\c {s}} et~al.}}{{}}}
+\bibcite{Abdelmohsen2017Feb}{{193}{2017}{{Abdelmohsen et~al.}}{{}}}
+\bibcite{Du2016Apr}{{194}{2016}{{Du et~al.}}{{}}}
+\bibcite{Clirc}{{195}{2020}{{Zhang et~al.}}{{}}}
+\bibcite{circinteractome}{{196}{2016}{{Dudekula et~al.}}{{}}}
+\bibcite{cirRBP-website}{{197}{}{{}}{{}}}
+\bibcite{Maass2017Nov}{{198}{2017}{{Maass et~al.}}{{}}}
+\bibcite{CSCD2}{{199}{2022}{{Feng et~al.}}{{}}}
+\bibcite{TRCirc}{{200}{2019}{{Tang et~al.}}{{}}}
+\bibcite{circ2disease}{{201}{2018}{{Yao et~al.}}{{}}}
+\bibcite{Chen2023Jan}{{202}{2023}{{Chen et~al.}}{{}}}
+\bibcite{circatlas3}{{203}{2024}{{Wu et~al.}}{{}}}
+\bibcite{ENSEMBL2023}{{204}{2023}{{Martin et~al.}}{{}}}
+\bibcite{RefSeq}{{205}{2016}{{O'Leary et~al.}}{{}}}
+\bibcite{atcircdb}{{206}{2019}{{Ye et~al.}}{{}}}
+\bibcite{circbank}{{207}{2019}{{Liu et~al.}}{{}}}
+\bibcite{circnet}{{208}{2022}{{Chen et~al.}}{{}}}
+\bibcite{circfunbase}{{209}{2019}{{Meng et~al.}}{{}}}
+\bibcite{circpedia}{{210}{2018}{{Dong et~al.}}{{}}}
+\bibcite{CircRiC}{{211}{2019}{{Ruan et~al.}}{{}}}
+\bibcite{circr2disease}{{212}{2022}{{Fan et~al.}}{{}}}
+\bibcite{circ2traits}{{213}{2013}{{Ghosal et~al.}}{{}}}
+\bibcite{circrnadisease}{{214}{2023}{{Sun et~al.}}{{}}}
+\bibcite{cropcircdb}{{215}{2019}{{Wang et~al.}}{{}}}
+\bibcite{deepbase}{{216}{2016}{{Zheng et~al.}}{{}}}
+\bibcite{exoRBase}{{217}{2022}{{Lai et~al.}}{{}}}
+\bibcite{mioncocirc}{{218}{2019}{{Vo et~al.}}{{}}}
+\bibcite{neurocirc}{{219}{2021}{{Walsh et~al.}}{{}}}
+\bibcite{plantcircnet}{{220}{2017}{{Zhang et~al.}}{{}}}
+\bibcite{plantcircbase}{{221}{2017}{{Chu et~al.}}{{}}}
+\bibcite{kallisto}{{222}{2016}{{Bray et~al.}}{{}}}
+\bibcite{Salmon}{{223}{2017}{{Patro et~al.}}{{}}}
+\gdef \@abspage@last{57}
